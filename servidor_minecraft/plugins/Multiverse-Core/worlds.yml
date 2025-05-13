@@ -9,7 +9,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -105,7 +105,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -153,7 +153,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -201,7 +201,7 @@ worlds:
     scale: '16.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: PEACEFUL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -249,7 +249,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: PEACEFUL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -297,7 +297,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -393,7 +393,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -441,7 +441,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -489,7 +489,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -537,7 +537,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -585,7 +585,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -633,7 +633,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: NORMAL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:
@@ -681,7 +681,7 @@ worlds:
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
-    difficulty: PEACEFUL
+    difficulty: EASY
     spawning:
       ==: MVSpawnSettings
       animals:

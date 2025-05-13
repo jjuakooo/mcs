@@ -31,7 +31,7 @@ all-time:
   sign-lines:
   - ''
   - '&b{name}'
-  - '&f{amount} ganadas'
+  - '&8{amount} ganadas'
   - ''
   update-interval: 30
   menu-enabled: true
@@ -40,7 +40,7 @@ all-time:
   menu-name: SkyWars - Top Ganadas | {page}
   menu-lines:
   - '&b&l{rank} &8| &b{name}'
-  - '&f{amount} ganadas'
+  - '&8{amount} ganadas'
 daily:
   sign-lines:
   - '&c&m------------'

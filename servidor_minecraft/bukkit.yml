@@ -22,7 +22,6 @@ settings:
   query-plugins: true
   deprecated-verbose: default
   shutdown-message: Server closed
-  spawn-radius: 0
 spawn-limits:
   monsters: 70
   animals: 15

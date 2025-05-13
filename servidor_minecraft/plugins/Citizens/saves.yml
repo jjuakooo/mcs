@@ -4,11 +4,11 @@ last-created-npc-id: 3
 npc:
   '1':
     metadata:
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1ODIxNDc1MzEzODIsInByb2ZpbGVJZCI6ImExYWU5M2Q3NmExYjRkOGViY2QzMmM1YWIwODg4YmE1IiwicHJvZmlsZU5hbWUiOiJ6TWF0eSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FjMzZlOTk0MzY2YTRmNGY0ZTkyNzQ1M2UyODY0YTNlM2M4YjgwNzg1ZGNiOGYyNzUxNmZkYjQxYmU2MThlNSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTc0NzEwMzM4NTQ3MywKICAicHJvZmlsZUlkIiA6ICJhMWFlOTNkNzZhMWI0ZDhlYmNkMzJjNWFiMDg4OGJhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6TWF0eSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMWFlYzU4MTBmN2QxNjgzNDk4MzhmNDIxYmNhZjc0NGI1OTM5YTA2MjI3ZTU1NTMxMzAxMDkzNmFiYjY1NWU0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q5ZDgyYWIxN2ZkOTIwMjJkYmQ0YTg2Y2RlNGMzODJhNzU0MGUxMTdmYWU3YjlhMjg1MzY1ODUwNWE4MDYyNSIKICAgIH0KICB9Cn0=
       cached-skin-uuid-name: zmaty
       cached-skin-uuid: a1ae93d7-6a1b-4d8e-bcd3-2c5ab0888ba5
       player-skin-name: zmaty
-      player-skin-signature: oH/EKoUJxFuVJla1uTdUy/WmMAgIHT3IWgayE31vVIHRayzdFVMt3ULaYjFqFItBrgoldcOg9fDnnOelfdOE9UIwCBvIvHVRG6gBzVv2zXL7udOf3ATYBwYQwrvaDpLHX3MEkiywZovNpHD9GghwYUHACM4ibHf+znARaHswpT8LhrhCwLRKsQIDcrZg5uLw3GEGjJy4PrIRmoLXdiO2iGSaNvCI9qdbrGGLLNe+Fd4xDNBJiicTkuLtiayEyWRAwqbKbExb9R1fafY9DFXEXij1PrhXHL0NTsa1MpkXU8tnKibd3ncGTBfBd5VET/rQTLhayHuOHNZSNxlEp5JJYl1XbQ+5xnSK7NdMU20j6eGGKrBrBGTX0EF20OqN9VR+pkXd/gPjEknxXv6j9nrVIeKI2WZjzEjPrjb/0I09uhLgXru0smgZmfVUYkE2BANVMSaM/v1M7NjW1kSC1mcP+CIcBMop8LKOpPT+voNJ0gyC63ad1Bo525sXxApufKNFJyNwUilQhEp7EAJ2d963z2RPNkNleUq30kS5fPdVFCfpYheAnSmyS7s9X9uzEgMiZ/S9Gj23pRuS0udZGce3kl2Sd51ro4xixXseXJzK7e3U1jBMhHBR6qVk3TuWWLy9OagUzhEyp8aUT12vuX5EQfF+1irPQt4ECtkOZCQT9C0=
+      player-skin-signature: u5lTLhqdoePmMt+mk+9eZLmHjilKEXhroYrjDAgap8rrLxjx0HHd+siMYJ7YElFu3Kze3ya/w5YCrxpY6s8MDIVlKDF3kOiJ8xxw2iVqLcEPcidFE/w//nus8feDBZHI5Wj4NiHx7p3EtnivZAwHple/GYh8UhfwxRixPP2nDwNEKsHAB5bzSRwgMbdl7ZvWn/rcp+Wdjy74kOi+01EJLdK7x5cqrRR4HPqdCL3iGjMWxwNjGO4/uPLskp7GVF3y3nPcjCml7C7XYzwbb3kosQDMtVqSbuM3M5wpWcTb6roRQc3Xl667ALEfQ0VLoiHtfm5A9yhHFTYOy4VwoiFSKZSaxcxiM5wrPtDZ0tiARjhjko/AAiDjejX6rgbxKDXMS5k5eyxQGICGpri/tLJibbx4Kc64HwRUE4ZthSa7ZLukWFD0d8Bxm4P30194+vHJI4mRxfj9GPbtj4GjsDNrvIAFkgodNB521uOL+pgqHem4WyzpVU7Hyl/Aenk1uxL/xregUV61XLSITahqLWxTgxcQqwvz7+SKkbotniiXy9M79FA1mZTXIaVtsj8+T1MrknB61H85WpoONAouRbdLEK/FX/7Hhhyfhw8LQd+hiGihRvaodeMgD+40/xnJgqZ+YzXFMsw+vgmJJeEQLfngA3wLL0hyZFKh/IGmFSQkFYc=
     name: (Click derecho)
     uuid: ce6093f9-40b6-46f4-97a1-dadaecc09c99
     traits:
@@ -28,7 +28,7 @@ npc:
       owner:
         owner: zTraksh
         uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
-    traitnames: location,spawned,owner,inventory,type
+    traitnames: spawned,location,inventory,type,owner
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -61,7 +61,7 @@ npc:
       owner:
         owner: zTraksh
         uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
-    traitnames: location,spawned,owner,inventory,type
+    traitnames: spawned,location,inventory,type,owner
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -70,11 +70,11 @@ npc:
       usedefaultstuckaction: true
   '3':
     metadata:
-      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1ODIxNDc1MzEzODIsInByb2ZpbGVJZCI6ImExYWU5M2Q3NmExYjRkOGViY2QzMmM1YWIwODg4YmE1IiwicHJvZmlsZU5hbWUiOiJ6TWF0eSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FjMzZlOTk0MzY2YTRmNGY0ZTkyNzQ1M2UyODY0YTNlM2M4YjgwNzg1ZGNiOGYyNzUxNmZkYjQxYmU2MThlNSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTc0NzEwMzM4NTQ3MywKICAicHJvZmlsZUlkIiA6ICJhMWFlOTNkNzZhMWI0ZDhlYmNkMzJjNWFiMDg4OGJhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6TWF0eSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMWFlYzU4MTBmN2QxNjgzNDk4MzhmNDIxYmNhZjc0NGI1OTM5YTA2MjI3ZTU1NTMxMzAxMDkzNmFiYjY1NWU0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q5ZDgyYWIxN2ZkOTIwMjJkYmQ0YTg2Y2RlNGMzODJhNzU0MGUxMTdmYWU3YjlhMjg1MzY1ODUwNWE4MDYyNSIKICAgIH0KICB9Cn0=
       cached-skin-uuid-name: zmaty
       cached-skin-uuid: a1ae93d7-6a1b-4d8e-bcd3-2c5ab0888ba5
       player-skin-name: zmaty
-      player-skin-signature: oH/EKoUJxFuVJla1uTdUy/WmMAgIHT3IWgayE31vVIHRayzdFVMt3ULaYjFqFItBrgoldcOg9fDnnOelfdOE9UIwCBvIvHVRG6gBzVv2zXL7udOf3ATYBwYQwrvaDpLHX3MEkiywZovNpHD9GghwYUHACM4ibHf+znARaHswpT8LhrhCwLRKsQIDcrZg5uLw3GEGjJy4PrIRmoLXdiO2iGSaNvCI9qdbrGGLLNe+Fd4xDNBJiicTkuLtiayEyWRAwqbKbExb9R1fafY9DFXEXij1PrhXHL0NTsa1MpkXU8tnKibd3ncGTBfBd5VET/rQTLhayHuOHNZSNxlEp5JJYl1XbQ+5xnSK7NdMU20j6eGGKrBrBGTX0EF20OqN9VR+pkXd/gPjEknxXv6j9nrVIeKI2WZjzEjPrjb/0I09uhLgXru0smgZmfVUYkE2BANVMSaM/v1M7NjW1kSC1mcP+CIcBMop8LKOpPT+voNJ0gyC63ad1Bo525sXxApufKNFJyNwUilQhEp7EAJ2d963z2RPNkNleUq30kS5fPdVFCfpYheAnSmyS7s9X9uzEgMiZ/S9Gj23pRuS0udZGce3kl2Sd51ro4xixXseXJzK7e3U1jBMhHBR6qVk3TuWWLy9OagUzhEyp8aUT12vuX5EQfF+1irPQt4ECtkOZCQT9C0=
+      player-skin-signature: u5lTLhqdoePmMt+mk+9eZLmHjilKEXhroYrjDAgap8rrLxjx0HHd+siMYJ7YElFu3Kze3ya/w5YCrxpY6s8MDIVlKDF3kOiJ8xxw2iVqLcEPcidFE/w//nus8feDBZHI5Wj4NiHx7p3EtnivZAwHple/GYh8UhfwxRixPP2nDwNEKsHAB5bzSRwgMbdl7ZvWn/rcp+Wdjy74kOi+01EJLdK7x5cqrRR4HPqdCL3iGjMWxwNjGO4/uPLskp7GVF3y3nPcjCml7C7XYzwbb3kosQDMtVqSbuM3M5wpWcTb6roRQc3Xl667ALEfQ0VLoiHtfm5A9yhHFTYOy4VwoiFSKZSaxcxiM5wrPtDZ0tiARjhjko/AAiDjejX6rgbxKDXMS5k5eyxQGICGpri/tLJibbx4Kc64HwRUE4ZthSa7ZLukWFD0d8Bxm4P30194+vHJI4mRxfj9GPbtj4GjsDNrvIAFkgodNB521uOL+pgqHem4WyzpVU7Hyl/Aenk1uxL/xregUV61XLSITahqLWxTgxcQqwvz7+SKkbotniiXy9M79FA1mZTXIaVtsj8+T1MrknB61H85WpoONAouRbdLEK/FX/7Hhhyfhw8LQd+hiGihRvaodeMgD+40/xnJgqZ+YzXFMsw+vgmJJeEQLfngA3wLL0hyZFKh/IGmFSQkFYc=
     name: (Click derecho)
     uuid: f0d8b305-4337-44e6-8cdc-6903e0638f95
     traits:
@@ -94,7 +94,7 @@ npc:
       owner:
         owner: zTraksh
         uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
-    traitnames: location,spawned,owner,inventory,type
+    traitnames: spawned,location,inventory,type,owner
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -127,7 +127,7 @@ npc:
       owner:
         owner: zTraksh
         uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
-    traitnames: location,spawned,owner,inventory,type
+    traitnames: spawned,location,inventory,type,owner
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1

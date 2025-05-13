@@ -44,7 +44,7 @@ tron:
   COMMAND: 'sw join Tron'
   NAME: '&b&lTron'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 3
   POSITION-Y: 2
@@ -52,7 +52,7 @@ trees:
   COMMAND: 'sw join Trees'
   NAME: '&b&lTrees'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 4
   POSITION-Y: 2
@@ -60,7 +60,7 @@ time:
   COMMAND: 'sw join Time'
   NAME: '&b&lTime'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 5
   POSITION-Y: 2
@@ -68,7 +68,7 @@ temple:
   COMMAND: 'sw join Temple'
   NAME: '&b&lTemple'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 6
   POSITION-Y: 2
@@ -76,7 +76,7 @@ music:
   COMMAND: 'sw join Music'
   NAME: '&b&lMusic'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 7
   POSITION-Y: 2
@@ -84,7 +84,7 @@ jungle:
   COMMAND: 'sw join Jungle'
   NAME: '&b&lJungle'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 3
   POSITION-Y: 3
@@ -92,7 +92,7 @@ desert:
   COMMAND: 'sw join Desert'
   NAME: '&b&lDesert'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 4
   POSITION-Y: 3
@@ -100,7 +100,7 @@ savannah:
   COMMAND: 'sw join Savannah'
   NAME: '&b&lSavannah'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 5
   POSITION-Y: 3
@@ -108,7 +108,7 @@ Bamboo:
   COMMAND: 'sw join Bamboo'
   NAME: '&b&lBamboo'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 6
   POSITION-Y: 3
@@ -116,7 +116,7 @@ Paris:
   COMMAND: 'sw join Paris'
   NAME: '&b&lParis'
   LORE:
-    - '&fClick para entrar!'
+    - '&7Click para entrar!'
   ID: dye:10
   POSITION-X: 7
   POSITION-Y: 3

@@ -31,7 +31,7 @@ all-time:
   sign-lines:
   - ''
   - '&b{name}'
-  - '&f{amount} asesinatos'
+  - '&8{amount} asesinatos'
   - ''
   update-interval: 30
   menu-enabled: true
@@ -40,7 +40,7 @@ all-time:
   menu-name: SkyWars - Top Asesinatos | {page}
   menu-lines:
   - '&b&l{rank} &8| &b{name}'
-  - '&f{amount} asesinatos'
+  - '&8{amount} asesinatos'
 daily:
   sign-lines:
   - '&c&m------------'
