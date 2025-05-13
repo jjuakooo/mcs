@@ -1574,3 +1574,31 @@ java.lang.NoSuchMethodError: org.bukkit.entity.Player$Spigot.sendMessage(Lnet/md
 [02:54:52] [Server thread/INFO]: joakoooe issued server command: /mvconfirm
 [02:54:53] [Server thread/INFO]: joakoooe issued server command: /mvconfirm
 [02:55:00] [Server thread/INFO]: joakoooe issued server command: /mvdelete cajas
+[02:55:03] [Server thread/INFO]: joakoooe issued server command: /spawn
+[02:55:04] [Server thread/INFO]: joakoooe issued server command: /mvconfirm
+[02:55:04] [Server thread/WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[02:55:04] [Server thread/WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[02:55:04] [Server thread/WARN]: [Multiverse-Core] /mv import cajas NORMAL
+[02:55:07] [Server thread/INFO]: joakoooe issued server command: /mvdelete cajas
+[02:55:08] [Server thread/INFO]: joakoooe issued server command: /mvconfirm
+[02:55:08] [Server thread/WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[02:55:08] [Server thread/WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[02:55:08] [Server thread/WARN]: [Multiverse-Core] /mv import cajas NORMAL
+[02:55:10] [Server thread/INFO]: joakoooe issued server command: /mvdelete cajas
+[02:55:11] [Server thread/INFO]: joakoooe issued server command: /mvdelete cajas
+[02:55:19] [Server thread/INFO]: joakoooe issued server command: /mv remove cajas
+[02:55:19] [Server thread/WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[02:55:19] [Server thread/WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[02:55:19] [Server thread/WARN]: [Multiverse-Core] /mv import cajas NORMAL
+[02:55:20] [Server thread/INFO]: joakoooe issued server command: /mv remove cajas
+[02:55:20] [Server thread/WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[02:55:20] [Server thread/WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[02:55:20] [Server thread/WARN]: [Multiverse-Core] /mv import cajas NORMAL
+[02:57:24] [Server thread/INFO]: joakoooe issued server command: /music
+[02:58:00] [Server thread/INFO]: joakoooe issued server command: /music
+[02:58:06] [Server thread/INFO]: joakoooe issued server command: /music
+[02:58:35] [Server thread/INFO]: joakoooe issued server command: /music
+[03:00:16] [Server thread/INFO]: joakoooe issued server command: /music
+[03:00:20] [Server thread/INFO]: joakoooe issued server command: /sw join
+[03:00:46] [Craft Scheduler Thread - 17/WARN]: [BukkitLib] Failed to submit metrics
+[03:01:21] [Server thread/INFO]: joakoooe lost connection: Disconnected
