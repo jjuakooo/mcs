@@ -1,0 +1,13 @@
+NPCS:
+  '0':
+    Commands:
+    - 1~~~sw join~~~noPerm~~~BOTH~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '1':
+    Commands:
+    - 1~~~selector~~~noPerm~~~BOTH~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '2':
+    Commands:
+    - 1~~~sw join~~~noPerm~~~BOTH~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '3':
+    Commands:
+    - 1~~~selector~~~noPerm~~~BOTH~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false

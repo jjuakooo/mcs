@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Wed Nov 23 20:00:34 BRST 2016
+WorldName=Skywars
+LastSaved=1479938434212

@@ -1,0 +1,136 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 3
+npc:
+  '1':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1ODIxNDc1MzEzODIsInByb2ZpbGVJZCI6ImExYWU5M2Q3NmExYjRkOGViY2QzMmM1YWIwODg4YmE1IiwicHJvZmlsZU5hbWUiOiJ6TWF0eSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FjMzZlOTk0MzY2YTRmNGY0ZTkyNzQ1M2UyODY0YTNlM2M4YjgwNzg1ZGNiOGYyNzUxNmZkYjQxYmU2MThlNSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19
+      cached-skin-uuid-name: zmaty
+      cached-skin-uuid: a1ae93d7-6a1b-4d8e-bcd3-2c5ab0888ba5
+      player-skin-name: zmaty
+      player-skin-signature: oH/EKoUJxFuVJla1uTdUy/WmMAgIHT3IWgayE31vVIHRayzdFVMt3ULaYjFqFItBrgoldcOg9fDnnOelfdOE9UIwCBvIvHVRG6gBzVv2zXL7udOf3ATYBwYQwrvaDpLHX3MEkiywZovNpHD9GghwYUHACM4ibHf+znARaHswpT8LhrhCwLRKsQIDcrZg5uLw3GEGjJy4PrIRmoLXdiO2iGSaNvCI9qdbrGGLLNe+Fd4xDNBJiicTkuLtiayEyWRAwqbKbExb9R1fafY9DFXEXij1PrhXHL0NTsa1MpkXU8tnKibd3ncGTBfBd5VET/rQTLhayHuOHNZSNxlEp5JJYl1XbQ+5xnSK7NdMU20j6eGGKrBrBGTX0EF20OqN9VR+pkXd/gPjEknxXv6j9nrVIeKI2WZjzEjPrjb/0I09uhLgXru0smgZmfVUYkE2BANVMSaM/v1M7NjW1kSC1mcP+CIcBMop8LKOpPT+voNJ0gyC63ad1Bo525sXxApufKNFJyNwUilQhEp7EAJ2d963z2RPNkNleUq30kS5fPdVFCfpYheAnSmyS7s9X9uzEgMiZ/S9Gj23pRuS0udZGce3kl2Sd51ro4xixXseXJzK7e3U1jBMhHBR6qVk3TuWWLy9OagUzhEyp8aUT12vuX5EQfF+1irPQt4ECtkOZCQT9C0=
+    name: (Click derecho)
+    uuid: ce6093f9-40b6-46f4-97a1-dadaecc09c99
+    traits:
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      location:
+        world: Lobby-Sw
+        x: '-215.4695762303623'
+        y: '5.0'
+        z: '107.51471351867765'
+        yaw: '45.144073486328125'
+        pitch: '0.0'
+      inventory: {}
+      owner:
+        owner: zTraksh
+        uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
+    traitnames: location,spawned,owner,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1ODIxNDc1MzE1OTksInByb2ZpbGVJZCI6IjIxMzU0MWU0Y2VkZTRhMzNhNDNiYjAwZWE4ZDM3ZTYwIiwicHJvZmlsZU5hbWUiOiJ6VHJha3NoIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81OTRlMGQ2NzlmNDkzZjE0OGViMzg3Nzc1MzYxMjBkODJkZDc1ZDhjOGMwYTU0NTI2NTE0M2Y2N2IyNmEwY2FmIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: ztraksh
+      cached-skin-uuid: 213541e4-cede-4a33-a43b-b00ea8d37e60
+      player-skin-name: ztraksh
+      player-skin-signature: uA36xGWgooM95tzMl2CZvC+DQTRpI5b4BFJOzSRGhL7SWm82XoeESqN/y+EP09UA9deQaaCMWKqsB/ydutiJblchxYOB5phHZ0K/cftnuPtVL93r4TTAwZ1H9pYSmcTnQvsli/tRZ17b6x2wZUCyyNzqSVPYY//qsb4HNybnPQisA4qnGFMTquWTw/IyzzQbgVXzVfdIRUl1xuxRWiG76HH8wcdRlMmq8y6Tf+aY4i5gdiaU2IFbsvAMdMJgNbUZCdexKDHhbAJAdmLBh5hcGRioXoOyPvMdd9qqW5J4ddx134KpCdzjjkc0AtMljoH6nTLRikMCq2LVFcaBmHW+r11FbspEzrsnt/x+Kytiqx/TqiYCWk0Qvp8UfsfIZr9dRn7mNYo4lco9xSHB87NQmT4LuVJ2iZQcyGW5R8ESjR6JNADzUIE1HFJ1sygLSlXUXWnT3KlGEvGVth35J3UzLABaPfwobLGxgNm3DO5Q8FDVm8Ixua3Fydvj5ZIzGAYcfsBnBXYvqPhpz1e2UVacGAq7xjLe0GX1bjEixlrDyCcIM9yZZdcU6ThsGPO5TLujp5ySTzTneM/dwtF0Lr/Rfi3hckhuoq67q71BapHENFhgecFY9n0DQo8BwWgBPmAkko1/hb4PQPr9JUm6FW+FVIgEygRZtH3U1b1e/ULhX9E=
+    name: (Click derecho)
+    uuid: d6394b8d-db45-4590-94b7-a606faffa2b2
+    traits:
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      location:
+        world: Lobby-Sw
+        x: '-223.54389736489225'
+        y: '5.0'
+        z: '107.42499148686547'
+        yaw: '-45.26876449584961'
+        pitch: '0.0'
+      inventory: {}
+      owner:
+        owner: zTraksh
+        uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
+    traitnames: location,spawned,owner,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1ODIxNDc1MzEzODIsInByb2ZpbGVJZCI6ImExYWU5M2Q3NmExYjRkOGViY2QzMmM1YWIwODg4YmE1IiwicHJvZmlsZU5hbWUiOiJ6TWF0eSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FjMzZlOTk0MzY2YTRmNGY0ZTkyNzQ1M2UyODY0YTNlM2M4YjgwNzg1ZGNiOGYyNzUxNmZkYjQxYmU2MThlNSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19
+      cached-skin-uuid-name: zmaty
+      cached-skin-uuid: a1ae93d7-6a1b-4d8e-bcd3-2c5ab0888ba5
+      player-skin-name: zmaty
+      player-skin-signature: oH/EKoUJxFuVJla1uTdUy/WmMAgIHT3IWgayE31vVIHRayzdFVMt3ULaYjFqFItBrgoldcOg9fDnnOelfdOE9UIwCBvIvHVRG6gBzVv2zXL7udOf3ATYBwYQwrvaDpLHX3MEkiywZovNpHD9GghwYUHACM4ibHf+znARaHswpT8LhrhCwLRKsQIDcrZg5uLw3GEGjJy4PrIRmoLXdiO2iGSaNvCI9qdbrGGLLNe+Fd4xDNBJiicTkuLtiayEyWRAwqbKbExb9R1fafY9DFXEXij1PrhXHL0NTsa1MpkXU8tnKibd3ncGTBfBd5VET/rQTLhayHuOHNZSNxlEp5JJYl1XbQ+5xnSK7NdMU20j6eGGKrBrBGTX0EF20OqN9VR+pkXd/gPjEknxXv6j9nrVIeKI2WZjzEjPrjb/0I09uhLgXru0smgZmfVUYkE2BANVMSaM/v1M7NjW1kSC1mcP+CIcBMop8LKOpPT+voNJ0gyC63ad1Bo525sXxApufKNFJyNwUilQhEp7EAJ2d963z2RPNkNleUq30kS5fPdVFCfpYheAnSmyS7s9X9uzEgMiZ/S9Gj23pRuS0udZGce3kl2Sd51ro4xixXseXJzK7e3U1jBMhHBR6qVk3TuWWLy9OagUzhEyp8aUT12vuX5EQfF+1irPQt4ECtkOZCQT9C0=
+    name: (Click derecho)
+    uuid: f0d8b305-4337-44e6-8cdc-6903e0638f95
+    traits:
+      spawned: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      inventory: {}
+      location:
+        world: Lobby-Sw
+        x: '-707.4461265646243'
+        y: '28.0'
+        z: '487.49693394096914'
+        yaw: '-135.74322509765625'
+        pitch: '0.0'
+      owner:
+        owner: zTraksh
+        uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
+    traitnames: location,spawned,owner,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1ODIxNDc1MzE1OTksInByb2ZpbGVJZCI6IjIxMzU0MWU0Y2VkZTRhMzNhNDNiYjAwZWE4ZDM3ZTYwIiwicHJvZmlsZU5hbWUiOiJ6VHJha3NoIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81OTRlMGQ2NzlmNDkzZjE0OGViMzg3Nzc1MzYxMjBkODJkZDc1ZDhjOGMwYTU0NTI2NTE0M2Y2N2IyNmEwY2FmIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: ztraksh
+      cached-skin-uuid: 213541e4-cede-4a33-a43b-b00ea8d37e60
+      player-skin-name: ztraksh
+      player-skin-signature: uA36xGWgooM95tzMl2CZvC+DQTRpI5b4BFJOzSRGhL7SWm82XoeESqN/y+EP09UA9deQaaCMWKqsB/ydutiJblchxYOB5phHZ0K/cftnuPtVL93r4TTAwZ1H9pYSmcTnQvsli/tRZ17b6x2wZUCyyNzqSVPYY//qsb4HNybnPQisA4qnGFMTquWTw/IyzzQbgVXzVfdIRUl1xuxRWiG76HH8wcdRlMmq8y6Tf+aY4i5gdiaU2IFbsvAMdMJgNbUZCdexKDHhbAJAdmLBh5hcGRioXoOyPvMdd9qqW5J4ddx134KpCdzjjkc0AtMljoH6nTLRikMCq2LVFcaBmHW+r11FbspEzrsnt/x+Kytiqx/TqiYCWk0Qvp8UfsfIZr9dRn7mNYo4lco9xSHB87NQmT4LuVJ2iZQcyGW5R8ESjR6JNADzUIE1HFJ1sygLSlXUXWnT3KlGEvGVth35J3UzLABaPfwobLGxgNm3DO5Q8FDVm8Ixua3Fydvj5ZIzGAYcfsBnBXYvqPhpz1e2UVacGAq7xjLe0GX1bjEixlrDyCcIM9yZZdcU6ThsGPO5TLujp5ySTzTneM/dwtF0Lr/Rfi3hckhuoq67q71BapHENFhgecFY9n0DQo8BwWgBPmAkko1/hb4PQPr9JUm6FW+FVIgEygRZtH3U1b1e/ULhX9E=
+    name: (Click derecho)
+    uuid: a6133a78-fe26-4841-9748-505be8905eee
+    traits:
+      spawned: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      inventory: {}
+      location:
+        world: Lobby-Sw
+        x: '-697.4576279161536'
+        y: '28.0'
+        z: '487.4887771790081'
+        yaw: '133.40016174316406'
+        pitch: '0.0'
+      owner:
+        owner: zTraksh
+        uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
+    traitnames: location,spawned,owner,inventory,type
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

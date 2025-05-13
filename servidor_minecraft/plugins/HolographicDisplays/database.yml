@@ -1,0 +1,19 @@
+'1':
+  location: Lobby-Sw, -702.510, 33.040, 470.497
+  lines:
+  - Bienvenido &7{player}&f!
+  - Al servidor &b&lHyperMC
+  - Hay un total de &e{online} &fjugadores!
+'2':
+  location: Lobby-Sw, -697.479, 30.550, 487.463
+  lines:
+  - '&b&lPartida Aleatoria'
+'3':
+  location: Lobby-Sw, -707.459, 30.550, 487.453
+  lines:
+  - '&b&lSelector de Mapas'
+'4':
+  location: Lobby-Sw, -716.381, 31.289, 486.356
+  lines:
+  - '&b&lParkour'
+  - "\xa1Juega ahora!"

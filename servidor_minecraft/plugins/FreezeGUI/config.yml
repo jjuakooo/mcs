@@ -1,0 +1,11 @@
+Message:
+  nopermission: '&b&lSCREENSHARE &8| &fNo tienes permisos!'
+  noplayer: '&b&lSCREENSHARE &8| &fJugador no encontrado.'
+  frozen: '&b&lSCREENSHARE &8| &fFuiste congelado por un miembro del staff, no te
+    desconectes!'
+  unfrozen: '&b&lSCREENSHARE &8| &fFuiste descongelado.'
+  staffrozen: '&b&lSCREENSHARE &8| &fCongelaste a &b%player%&f.'
+  stafunfrozen: '&b&lSCREENSHARE &8| &fDescongelaste a &b%player%&f.'
+inventory:
+  name: '&b&lDiscord'
+  lore: '&fdiscord.gg/Ymgn8fE'

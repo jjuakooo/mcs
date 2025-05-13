@@ -1,0 +1,72 @@
+
+
+# name displayed in the server
+name: Jungle
+
+# players required to start the game
+min_players: 2
+
+# maximum amount of players that can join to the arena
+max_players: 12
+
+# spawn where the player will spawn in the game (boxes)
+spawnpoints:
+  - Jungle,635.5,48.0,-554.5,0,1.6495972
+  - Jungle,619.5,48.0,-549.5,0,357.59988
+  - Jungle,609.5,48.0,-537.5,0,267.75
+  - Jungle,604.5,48.0,-525.5,0,271.95038
+  - Jungle,609.5,48.0,-509.5,0,267.75067
+  - Jungle,621.5,48.0,-499.5,0,177.90073
+  - Jungle,633.5,48.0,-494.5,0,182.10074
+  - Jungle,649.5,48.0,-499.5,0,177.60086
+  - Jungle,659.5,48.0,-511.5,0,87.600746
+  - Jungle,664.5,48.0,-523.5,0,91.95069
+  - Jungle,659.5,48.0,-539.5,0,87.4507
+  - Jungle,647.5,48.0,-549.5,0,-2.399234
+
+# spawn where spectators will appear
+spectator_spawn: Jungle,635.5,30.717842287975603,-523.5,0,180.14992
+
+countdown:
+  # time in seconds to start the game
+  starting: 90
+  # list of seconds when the time message will be displayed
+  starting_message: 90,60,30,10,5,4,3,2,1
+  # if the game is full or can't start due to not required players the countdown will be this value
+  starting_full: 10
+  # time in seconds for the duration of the end (for win effects)
+  end: 10
+
+options:
+  # enable or disable abilities in this arena
+  abilities: true
+  # mode to be played in this arena
+  # Available modes: SOLO
+  mode: SOLO
+  # enable or disable arena events
+  events: true
+  vote:
+    # enable or disable chest vote
+    chest: true
+    # enable or disable time vote
+    time: true
+
+chests:
+  # chest type that will be selected by default in this arena
+  default: Normal
+  # list of chest types that can be selected to vote in this arena
+  selectable:
+    - Basic
+    - Overpowered
+    - Normal
+
+# list of events to be executed in game in the list order
+# Available events:
+#     REFILL - Argument: Chest Type (Example: Overpowered) also, can be "Selected" to refill with the selected chest type
+# Usage format: EVENT:Argument,Seconds,Title
+#     Argument: The argument of the event, if not the event will take the default or a random argument
+#     Seconds: Time in seconds to be executed the event after the game start or from the previous event
+#     Title: The name of the event that will be displayed in game
+# Example format: REFILL:Normal,300,Refill event
+events:
+  - REFILL:Normal,300,Supply refill

@@ -1,0 +1,12 @@
+test:
+  type: EQUAL
+  message-mask: testmessage
+  replace-to: test-replacement
+  cooldown-time: 10s
+  use-formating: false
+musica:
+  type: EQUAL
+  message-mask: '&4Error&c: You are not permitted to perform this command!'
+  replace-to: '&b&lMUSICA &8| &fNo tienes permisos!'
+  cooldown-time: ''
+  use-formating: true

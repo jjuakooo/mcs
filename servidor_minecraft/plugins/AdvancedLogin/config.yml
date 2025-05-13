@@ -1,0 +1,131 @@
+# /---------------------------------Developed by Leoko--------------------------------\
+# |  ####  ###   #   #  ####  #  #  ####  ####  ###      #      ###    ####  #  #  #  |
+# |  #  #  #  #  #   #  #  #  ## #  #     #     #  #     #     #   #  #      #  ## #  |
+# |  ####  #  #  #   #  ####  # ##  #     ##    #  #     #     #   #  #  ##  #  # ##  |
+# |  #  #  #  #   # #   #  #  #  #  #     #     #  #     #     #   #  #   #  #  #  #  |
+# |  #  #  ###     #    #  #  #  #  ####  ####  ###      ####   ###    ###   #  #  #  |
+# \---------------------------------Developed by Leoko--------------------------------/
+
+
+# MySQL-Settings
+MySQL:
+  UseMySQL: false
+  IP: "localhost"
+  DB-Name: "PINs"
+  Username: "root"
+  Password: "YourPW"
+ 
+# Every X minutes the pins will be refreshed form the MySQL [if MySQL is enabled]
+AutoLoad: 5
+
+# If enabled player will be able to login with "/pin PIN"
+# so players which connect via a smartphone will also be able to login
+# !! This will make it very easy for "Login-Crackers" to login !!
+EnablePinCommand: false
+
+#Should the plugin save the plays IP for the auto-login feature
+SaveIP: true
+# The amount of time in MIN how long the IP should stay saved
+# Use -1 for infinit time [= 1 Day] (Recommended)
+SaveDuration: -1
+
+# Add commands which should still be allowed
+# for example /register & /login from AuthMe
+BypassCommands:
+- '/login'
+- '/register'
+
+# If you have a special login server in your bungeecord-network
+# you can specify the name of the server where the player should be
+# connected if he logs in successfully 
+# Set to "none" to disable
+LobbyServer: "none"
+
+#Should there be sounds effects
+Sounds: true
+
+#Optimal length is 4 or 5 and also valid is 3 and 6
+#I don't recoment to use a length that is not between 3 and 6!
+PIN-Length: 4
+
+# If enabled only users with the perm "al.login" need to enter a pin
+PermsLogin: false
+
+# If enabled this will teleport the player to a set location (/setJoinLoc)
+# while he is logging in.
+HideLocation: false
+
+# If enabled the player will be in spectator mode while logging in
+SpectatorOnLogin: false
+
+#The player will be kicked after x sec when he has not logged in
+#Set to -1 to disable this
+KickAfterSec:
+  Seconds: 20
+  KickMessage: "&cNo iniciaste sesion despues de 20 segundos!"
+
+#The player will be kicked when he types in the code x times wrong
+#Set to -1 to disable this
+KickAfterTries:
+  Tries: 3
+  KickMessage: "&bNo has iniciado sesion después de 3 intentos."
+
+#The command will be executed after x seconds eg Ban [%IP% or %PLAYER%] no /
+#Set to -1 to disable this
+CommandAfterTries:
+  Tries: -1
+  Command: "banip %IP% You have been banned for typing in the PIN 3 times wrong"
+
+Messages-Chat:
+  AdminPINReset: 
+    User: '&b&lSEGURIDAD &8| &fTu PIN fue reseteado por un &bAdmin&f!'
+    Admin: '&b&lSEGURIDAD &8| &fEl PIN de &b%PLAYER% &ffue reseteado.'
+    HasNoPin: '&b&lSEGURIDAD &8| &fEse jugador no tiene PIN.'
+  AdminPINSet:
+    User: '&b&lSEGURIDAD &8| &fTu PIN fue cambiado!'
+    Admin: '&b&lSEGURIDAD &8| &fEl PIN del jugador &b%PLAYER% &ffue cambiado a &b%PIN%&f.'
+    NoValidPIN: '&b&lSEGURIDAD &8| &fNo es un PIN valido.'
+  PinCommand: '&cIf you have logged in via a ChatClient please use /pin PIN to login'
+  ConfReload: '&a' 
+  NoPerms: "&b&lSEGURIDAD &8| &fNo tienes permisos!"
+Messages-Title:
+  Register:
+    Line1: '&b&lRegistrate'
+    Line2: '&fHaz click en los items y forma un PIN! &bEj: 1234'
+    Stay: 70
+  Registered:
+    Line1: '&b&lBienvenido!'
+    Line2: '&fRegistrado correctamente! &bTu PIN: %PIN%'
+    Stay: 70
+  Loggedin:
+    Line1: '&b&lBienvenido!'
+    Line2: '&fPIN aceptado!'
+    Stay: 70
+  AutoLoggedin:
+    Line1: '&b&lBienvenido!'
+    Line2: '&fFuiste logueado automaticamente!'
+    Stay: 70
+  WrongPIN:
+    Line1: '&b&lPIN invalido!'
+    Line2: '&fVuelve a intentarlo!'
+    Stay: 70
+  FastLoginLog:
+    Line1: '&b&lFastLogin'
+    Line2: '&fFuiste obligado a iniciar sesion por &bFastLogin&f!'
+  FastLoginReg:
+    Line1: '&b&lFastLogin'
+    Line2: '&fFuiste obligado a registrarte por &bFastLogin&f!'
+Messages-Items:
+  ShowPIN: '&bMostrar PIN'
+  PIN: '&b&lPIN &8»'
+  HiddenNumber: '&f*'
+  Numbers:
+    1: '&b&l1'
+    2: '&b&l2'
+    3: '&b&l3'
+    4: '&b&l4'
+    5: '&b&l5'
+    6: '&b&l6'
+    7: '&b&l7'
+    8: '&b&l8'
+    9: '&b&l9'

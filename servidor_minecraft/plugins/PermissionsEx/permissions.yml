@@ -1,0 +1,38 @@
+groups:
+  Usuario:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+    - chestcommands.open.Opciones.yml
+    - skywars.cmd.open.lshop
+    - skywars.box.default
+    - dr.1
+    - essentials.spawn
+    - essentials.msg
+    - essentials.tell
+  Owner: {}
+  Admin: {}
+  Mod: {}
+  Helper: {}
+  VIP: {}
+  VIP+: {}
+  YouTuber: {}
+  Famous: {}
+schema-version: 1
+users:
+  a76012bc-a9ff-358c-b2af-4a73a6c4b148:
+    group:
+    - Usuario
+    options:
+      name: zTraksh
+  20661614-89d0-38bd-8fc3-6f568619457b:
+    group:
+    - Owner
+    options:
+      name: trakzz
+  3481b8f4-b481-3062-82f2-9426e40ada01:
+    group:
+    - Usuario
+    options:
+      name: joakoooe

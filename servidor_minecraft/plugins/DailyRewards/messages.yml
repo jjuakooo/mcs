@@ -1,0 +1,7 @@
+norewardsavailable: '&b&lRECOMPENSAS &8| &fNo hay recompensas disponibles en este
+  momento.'
+cooldownmsg: '&b&lRECOMPENSAS &8| &fPuedes recibir la proxima recompensa en: &b%h
+  hora(s) %m minuto(s) %s segundo(s)'
+claimed: '&b&lRECOMPENSAS &8| &fHas recibido tu recompensa diaria!'
+broadcastmsg: '&b&lRECOMPENSAS &8| &b%player &fha recibido su recompensa diaria!'
+nopermission: '&b&lRECOMPENSAS &8| &fNo tienes permisos.'

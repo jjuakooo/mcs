@@ -1,0 +1,99 @@
+world:
+  time: 'off'
+  weather: 'off'
+world_the_end:
+  time: 'off'
+  weather: 'off'
+mapa3:
+  time: day
+  weather: 'off'
+mapa1:
+  time: day
+  weather: 'off'
+mapa2:
+  time: day
+  weather: 'off'
+lobby-1v1:
+  time: day
+  weather: 'off'
+lobby-auth:
+  time: day
+  weather: 'off'
+lobby-sw:
+  time: day
+  weather: 'off'
+lobby-1vs1:
+  time: day
+  weather: 'off'
+classic-1:
+  time: day
+  weather: 'off'
+classic-2:
+  time: day
+  weather: 'off'
+classic-3:
+  time: day
+  weather: 'off'
+classic-4:
+  time: day
+  weather: 'off'
+classic-5:
+  time: day
+  weather: 'off'
+tron:
+  time: 'off'
+  weather: 'off'
+trees:
+  time: 'off'
+  weather: 'off'
+temple:
+  time: 'off'
+  weather: 'off'
+desert:
+  time: 'off'
+  weather: 'off'
+bamboo:
+  time: 'off'
+  weather: 'off'
+jungle:
+  time: 'off'
+  weather: 'off'
+time:
+  time: 'off'
+  weather: 'off'
+savannah:
+  time: 'off'
+  weather: 'off'
+music:
+  time: 'off'
+  weather: 'off'
+paris:
+  time: 'off'
+  weather: 'off'
+world_2:
+  time: 'off'
+  weather: 'off'
+por:
+  time: 'off'
+  weather: 'off'
+pordefecto:
+  time: 'off'
+  weather: 'off'
+tnt:
+  time: 'off'
+  weather: 'off'
+ambiental:
+  time: 'off'
+  weather: 'off'
+dinamita:
+  time: 'off'
+  weather: 'off'
+cajas:
+  time: 'off'
+  weather: 'off'
+hojas:
+  time: 'off'
+  weather: 'off'
+world_nether:
+  time: 'off'
+  weather: 'off'

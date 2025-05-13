@@ -1,0 +1,80 @@
+
+
+# name displayed in the server
+name: Bamboo
+
+# players required to start the game
+min_players: 2
+
+# maximum amount of players that can join to the arena
+max_players: 12
+
+# spawn where the player will spawn in the game (boxes)
+spawnpoints:
+  - Bamboo,-8.5,51.0,-80.5,0,359.84082
+  - Bamboo,-27.5,51.0,-77.5,0,359.99118
+  - Bamboo,-45.5,51.0,-68.5,0,359.93484
+  - Bamboo,-58.5,51.0,-55.5,0,269.93512
+  - Bamboo,-67.5,51.0,-37.5,0,269.97638
+  - Bamboo,-70.5,51.0,-18.5,0,269.97647
+  - Bamboo,-67.5,51.0,0.5,0,269.97678
+  - Bamboo,-58.5,51.0,18.5,0,270.04123
+  - Bamboo,-45.5,51.0,31.5,0,180.04121
+  - Bamboo,-27.5,51.0,40.5,0,179.95795
+  - Bamboo,-8.5,51.0,43.5,0,179.87434
+  - Bamboo,10.5,51.0,40.5,0,179.92514
+  - Bamboo,28.5,51.0,31.5,0,180.0752
+  - Bamboo,41.5,51.0,18.5,0,89.9252
+  - Bamboo,50.5,51.0,0.5,0,90.114975
+  - Bamboo,53.5,51.0,-18.5,0,90.11504
+  - Bamboo,50.5,51.0,-37.5,0,89.966576
+  - Bamboo,41.5,51.0,-55.5,0,90.04651
+  - Bamboo,28.5,51.0,-68.5,0,0.008241836
+  - Bamboo,10.5,51.0,-77.5,0,0.07757291
+
+# spawn where spectators will appear
+spectator_spawn: Bamboo,-8.5,47.15692155436735,-25.5,0,180.44981
+
+countdown:
+  # time in seconds to start the game
+  starting: 90
+  # list of seconds when the time message will be displayed
+  starting_message: 90,60,30,10,5,4,3,2,1
+  # if the game is full or can't start due to not required players the countdown will be this value
+  starting_full: 10
+  # time in seconds for the duration of the end (for win effects)
+  end: 10
+
+options:
+  # enable or disable abilities in this arena
+  abilities: true
+  # mode to be played in this arena
+  # Available modes: SOLO
+  mode: SOLO
+  # enable or disable arena events
+  events: true
+  vote:
+    # enable or disable chest vote
+    chest: true
+    # enable or disable time vote
+    time: true
+
+chests:
+  # chest type that will be selected by default in this arena
+  default: Normal
+  # list of chest types that can be selected to vote in this arena
+  selectable:
+    - Basic
+    - Overpowered
+    - Normal
+
+# list of events to be executed in game in the list order
+# Available events:
+#     REFILL - Argument: Chest Type (Example: Overpowered) also, can be "Selected" to refill with the selected chest type
+# Usage format: EVENT:Argument,Seconds,Title
+#     Argument: The argument of the event, if not the event will take the default or a random argument
+#     Seconds: Time in seconds to be executed the event after the game start or from the previous event
+#     Title: The name of the event that will be displayed in game
+# Example format: REFILL:Normal,300,Refill event
+events:
+  - REFILL:Normal,300,Supply refill

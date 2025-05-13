@@ -1,0 +1,15 @@
+rain:
+  world: false
+  world_the_end: false
+  Mapa3: false
+  Mapa1: false
+  Mapa2: false
+  Lobby-1v1: false
+  Lobby-Auth: false
+  Lobby-Sw: false
+  Lobby-1vs1: false
+  Classic-1: false
+  Classic-2: false
+  Classic-3: false
+  Classic-4: false
+  Classic-5: false

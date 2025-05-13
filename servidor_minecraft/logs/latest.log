@@ -1,0 +1,1877 @@
+[15:58:48] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[15:58:48] [Server thread/INFO]: Loading properties
+[15:58:48] [Server thread/INFO]: Default game type: SURVIVAL
+[15:58:48] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[15:58:48] [Server thread/INFO]: Debug logging is disabled
+[15:58:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:58:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[15:58:48] [Server thread/INFO]: Generating keypair
+[15:58:49] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[15:58:49] [Server thread/INFO]: Using default channel type
+[15:58:49] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[15:58:49] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard placeholder %name% for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard placeholder %BannerBoard:name% for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard placeholder %uuid% for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard placeholder %BannerBoard:uuid% for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer COLOR for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:COLOR for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer IMAGE for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:IMAGE for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer TEXT for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:TEXT for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer SKIN for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:SKIN for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer LIVEIMG for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:LIVEIMG for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer URLIMG for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:URLIMG for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer INTERACT for plugin BannerBoard...[m
+
+[15:58:49] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:INTERACT for plugin BannerBoard...[m
+
+[15:58:49] [Thread-7/INFO]: UUID of player joakoooe is 3481b8f4-b481-3062-82f2-9426e40ada01
+[15:58:49] [Server thread/INFO]: [icJukeBox] Loading icJukeBox v1.6.4
+[15:58:49] [Server thread/INFO]: [JoinSpawn] Loading JoinSpawn v1.0
+[15:58:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[15:58:49] [Server thread/INFO]: [AdvancedLogin] Loading AdvancedLogin v3.6
+[15:58:49] [Server thread/INFO]: [NoRain] Loading NoRain v0.2
+[15:58:49] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[15:58:49] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.9.2
+[15:58:49] [Server thread/INFO]: [PluginManagerReloaded] Loading PluginManagerReloaded v1.0.2
+[15:58:49] [Server thread/INFO]: [FreezeGUI] Loading FreezeGUI v0.5
+[15:58:49] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.4.6
+[15:58:49] [Server thread/INFO]: [BannerBoard] Loading BannerBoard v1.9.9
+[15:58:49] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b699
+[15:58:49] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
+[15:58:50] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
+[15:58:50] [Server thread/INFO]: [MVdWPlaceholderAPI] Loading MVdWPlaceholderAPI v2.5.1
+[15:58:50] [Server thread/INFO]: [Reports] Loading Reports v1.1.0
+[15:58:50] [Server thread/INFO]: [VoidGenerator] Loading VoidGenerator v1.4.2
+[15:58:50] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[15:58:50] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[15:58:50] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[15:58:50] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
+[15:58:50] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[15:58:50] [Server thread/INFO]: [DailyRewards] Loading DailyRewards v1.2.11b
+[15:58:50] [Server thread/INFO]: [MessageFilter] Loading MessageFilter v0.3.2
+[15:58:50] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[15:58:50] [Server thread/INFO]: [MyCommand] Loading MyCommand v5.6.1
+[15:58:50] [Server thread/INFO]: [ForceTime] Loading ForceTime v2.2
+[15:58:50] [Server thread/INFO]: [WorldGuardExtraFlags] Loading WorldGuardExtraFlags v4.1.3
+[15:58:50] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[15:58:50] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1272)
+[15:58:50] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1
+[15:58:50] [Server thread/INFO]: [TAB] Loading TAB v1.5.1
+[15:58:50] [Server thread/INFO]: [CommandNPC] Loading CommandNPC v1.9.1
+[15:58:50] [Server thread/INFO]: [SkyWars] Loading SkyWars v1.10.3
+[15:58:50] [Server thread/INFO]: [RogueParkour] Loading RogueParkour v4.3
+[15:58:50] [Server thread/INFO]: [LeaderHeads] Loading LeaderHeads v3.1.8.3
+[15:58:50] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
+[15:58:50] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:58:50] [Server thread/INFO]: [VoidGenerator] Enabling VoidGenerator v1.4.2
+[15:58:50] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[15:58:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:58:50] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:58:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:58:50] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:58:50] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[15:58:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:58:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:58:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:58:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:58:50] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:58:50] [Server thread/INFO]: Preparing level "world"
+[15:58:50] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:58:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:50] [Server thread/INFO]: Anti X-Ray: true
+[15:58:50] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:50] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:50] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:50] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:50] [Server thread/INFO]: Clear tick list: false
+[15:58:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:50] [Server thread/INFO]: Structure Info Saving: true
+[15:58:50] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:50] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:50] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:50] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:50] [Server thread/INFO]: View Distance: 10
+[15:58:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:50] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:58:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:50] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:50] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:50] [Server thread/INFO]: Anti X-Ray: true
+[15:58:50] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:50] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:50] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:50] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:50] [Server thread/INFO]: Clear tick list: false
+[15:58:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:50] [Server thread/INFO]: Structure Info Saving: true
+[15:58:50] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:50] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:50] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:50] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:50] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:50] [Server thread/INFO]: View Distance: 10
+[15:58:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:50] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: 38273563764614158)
+[15:58:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: 38273563764614158)
+[15:58:51] [Server thread/INFO]: [icJukeBox] Enabling icJukeBox v1.6.4
+[15:58:51] [Server thread/WARN]: [icJukeBox] Could not save configuration.yml to plugins\icJukeBox\configuration.yml because configuration.yml already exists.
+[15:58:55] [Server thread/INFO]: [JoinSpawn] Enabling JoinSpawn v1.0
+[15:58:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[15:58:55] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:58:55] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[15:58:55] [Server thread/INFO]: [AdvancedLogin] Enabling AdvancedLogin v3.6
+[15:58:55] [Server thread/INFO]: Enabeling files-system
+
+[15:58:55] [Server thread/INFO]: Checking PINs!
+
+[15:58:55] [Server thread/INFO]: Done!
+
+[15:58:55] [Server thread/INFO]: 
+[=]---------------------------[=]
+-= AdvancedLogin =-
+Dev: Leoko
+Status: Enabled
+License: Privat
+[=]---------------------------[=]
+
+[15:58:55] [Server thread/INFO]: [NoRain] Enabling NoRain v0.2
+[15:58:55] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[15:58:55] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[15:58:55] [Server thread/INFO]: git-Spigot-db6de12-18fbb24 (MC: 1.8.8)
+[15:58:55] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[15:58:55] [Server thread/INFO]: Using locale es
+[15:58:56] [Server thread/INFO]: Using locale es
+[15:58:56] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[15:58:56] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:58:56] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:58:56] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.9.2
+[15:58:56] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:58:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server
+[15:58:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault
+[15:58:56] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:58:56] [Server thread/INFO]: [PluginManagerReloaded] Enabling PluginManagerReloaded v1.0.2
+[15:58:56] [Server thread/INFO]: [PluginManagerReloaded] Checking for a new version...
+[15:58:56] [Server thread/INFO]: [PluginManagerReloaded] Plugin Manager Reloaded is now enabled!
+[15:58:56] [Server thread/INFO]: [FreezeGUI] Enabling FreezeGUI v0.5
+[15:58:56] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.4.6
+[15:58:56] [Server thread/INFO]: [NametagEdit] Found PermissionsEx! Hooking in.
+[15:58:56] [Server thread/INFO]: [BannerBoard] Enabling BannerBoard v1.9.9
+[15:58:56] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b699
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Trees] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7451559909720363255)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Cajas] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 3 (Seed: -5870798134676890215)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Savannah] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 4 (Seed: 0)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Time] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 5 (Seed: 2146058938906414951)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Temple] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 6 (Seed: 0)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Music] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 7 (Seed: 0)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Jungle] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 8 (Seed: 0)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Tron] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 9 (Seed: 0)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Desert] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 10 (Seed: 0)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Bamboo] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 11 (Seed: 2146058938906414951)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Paris] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 12 (Seed: 0)
+[15:58:57] [Server thread/INFO]: -------- World Settings For [Lobby-Sw] --------
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Anti X-Ray: true
+[15:58:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:57] [Server thread/INFO]: Clear tick list: false
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:57] [Server thread/INFO]: Structure Info Saving: true
+[15:58:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Preparing start region for level 13 (Seed: 0)
+[15:58:57] [Server thread/INFO]: [Multiverse-Core] 14 - World(s) loaded.
+[15:58:57] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b699 (API v19) Enabled - By Rigby, fernferret, lithium3141 and main--
+[15:58:57] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[15:58:58] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Trees) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Trees) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Trees) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Trees) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Trees'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Cajas) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Cajas) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Cajas) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Cajas) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Cajas'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Savannah) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Savannah) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Savannah) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Savannah) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Savannah'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Time) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Time) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Time) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Time) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Time'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Temple) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Temple) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Temple) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Temple) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Temple'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Music) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Music) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Music) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Music) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Music'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Jungle) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Jungle) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Jungle) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Jungle) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Jungle'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Tron) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Tron) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Tron) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Tron) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Tron'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Desert) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Desert) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Desert) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Desert) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Desert'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Bamboo) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Bamboo) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Bamboo) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Bamboo) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Bamboo'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Paris) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Paris) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Paris) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Paris) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Paris'
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Lobby-Sw) TNT ignition is PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Lobby-Sw) Lighters are PERMITTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Lobby-Sw) Lava fire is blocked.
+[15:58:58] [Server thread/INFO]: [WorldGuard] (Lobby-Sw) Fire spread is UNRESTRICTED.
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby-Sw'
+[15:58:58] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:58:58] [Server thread/INFO]: [MVdWPlaceholderAPI] Enabling MVdWPlaceholderAPI v2.5.1
+[15:58:58] [Server thread/INFO]: [MVdWPlaceholderAPI] Initializing ...
+[15:58:58] [Server thread/INFO]: [MVdWPlaceholderAPI] Sending metrics ...
+[15:58:58] [Server thread/INFO]: [Reports] Enabling Reports v1.1.0
+[15:58:58] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[15:58:58] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[15:58:58] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:58:58] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:58:58] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:58:58] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:58:58] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[15:58:58] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[15:58:58] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
+[15:58:58] [Server thread/INFO]: [DailyRewards] Enabling DailyRewards v1.2.11b
+[15:58:58] [Server thread/INFO]: [MessageFilter] Enabling MessageFilter v0.3.2
+[15:58:58] [Server thread/INFO]: [MessageFilter] ProtocolLib found and connected!
+[15:58:58] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[15:58:58] [Thread-12/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[15:58:58] [Server thread/INFO]: [MyCommand] Enabling MyCommand v5.6.1
+[15:58:58] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-* MyCommand *-=-=-=-=-=-=-=-=-=-=-*
+[15:58:58] [Server thread/INFO]: | You are using an not fully supported server version. (v1_8_R3)
+[15:58:58] [Server thread/INFO]: | Vault  : Ok. Hooked on Vault 1.5.6-b49
+[15:58:58] [Server thread/INFO]: | Command file(s) found : 1
+[15:58:58] [Server thread/INFO]: | Config : Ready.
+[15:58:58] [Server thread/INFO]: [MyCmd] RIGHT_CLICK_INTERACTION Block set item is null, check config.yml
+[15:58:58] [Server thread/INFO]: [MyCmd] RIGHT_CLICK_INTERACTION Block set item is null, check config.yml
+[15:58:58] [Server thread/INFO]: [MyCmd] PHYSICAL_INTERACTION Block set item is null, check config.yml
+[15:58:58] [Server thread/INFO]: [MyCmd] PHYSICAL_INTERACTION Block set item is null, check config.yml
+[15:58:58] [Server thread/INFO]: | PlaceholderAPI: Hooked, Ok.
+[15:58:58] [Server thread/INFO]: | Custom commands loaded : 2
+[15:58:58] [Server thread/INFO]: | Version: 5.6.1
+[15:58:58] [Server thread/INFO]: | Author : emmerrei a.k.a Ivanpro
+[15:58:58] [Server thread/INFO]: | New update available : MyCommand v5.7.5
+[15:58:58] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-*   Done!   *-=-=-=-=-=-=-=-=-=-=-*
+[15:58:58] [Server thread/INFO]: [ForceTime] Enabling ForceTime v2.2
+[15:58:58] [Server thread/INFO]: [ForceTime] ForceTime v2.2 by Prozza is enabled
+[15:58:58] [Server thread/INFO]: [WorldGuardExtraFlags] Enabling WorldGuardExtraFlags v4.1.3
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.TeleportOnEntryFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.TeleportOnExitFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.CommandOnEntryFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.CommandOnExitFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.ConsoleCommandOnEntryFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.ConsoleCommandOnExitFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.WalkSpeedFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.BlockedEffectsFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.GodmodeFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.GiveEffectsFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.FlyFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.PlaySoundsFlagHandler
+[15:58:58] [Server thread/INFO]: [WorldGuard] Registering session handler net.goldtreeservers.worldguardextraflags.wg.handlers.GlideFlagHandler
+[15:58:58] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[15:58:58] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[15:58:58] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[15:58:58] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1272)
+[15:58:59] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1
+[15:58:59] [Server thread/INFO]: [ChestCommands] Could not find a compatible Attribute Remover for this server version. Attributes will show up on items.
+[15:58:59] [Server thread/INFO]: [TAB] Enabling TAB v1.5.1
+[15:58:59] [Server thread/INFO]: [TAB] Enabled in 9ms
+
+[15:58:59] [Server thread/INFO]: [CommandNPC] Enabling CommandNPC v1.9.1
+[15:58:59] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mVault compatible economy found! Economy support for CommandNPC has been enabled.[m
+
+[15:58:59] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInitiating Database[m
+
+[15:58:59] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mInjecting command info into Citizens.[m
+
+[15:58:59] [Thread-18/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mLoading commands complete![m
+
+[15:58:59] [Server thread/INFO]: [0;30;1m[[0;32;22mCommandNPC[0;30;1m] [0;33;22mCommandNPC successfully loaded![m
+
+[15:58:59] [Server thread/INFO]: [SkyWars] Enabling SkyWars v1.10.3
+[15:58:59] [Server thread/INFO]: [SkyWars] [0;32;1mLoading all config files[m
+
+[15:58:59] [Server thread/INFO]: [SkyWars] [0;32;1mEconomy: [0;33;1mCustom[m
+
+[15:58:59] [Server thread/INFO]: [SkyWars] [0;32;1mLoading lang files[m
+
+[15:58:59] [Server thread/INFO]: [SkyWars] [0;32;1mLoading arenas (Games)[m
+
+[15:58:59] [Server thread/INFO]: [Multiverse-Core] World 'Bamboo' was unloaded from memory.
+[15:58:59] [Server thread/INFO]: -------- World Settings For [Bamboo] --------
+[15:58:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:59] [Server thread/INFO]: Anti X-Ray: true
+[15:58:59] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:59] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:59] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:59] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:59] [Server thread/INFO]: Clear tick list: false
+[15:58:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:59] [Server thread/INFO]: Structure Info Saving: true
+[15:58:59] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:59] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:59] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:59] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:59] [Server thread/INFO]: View Distance: 10
+[15:58:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:59] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:59] [Server thread/INFO]: Preparing start region for level 13 (Seed: 2146058938906414951)
+[15:58:59] [Server thread/INFO]: [Multiverse-Core] World 'Desert' was unloaded from memory.
+[15:58:59] [Server thread/INFO]: -------- World Settings For [Desert] --------
+[15:58:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:58:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:59] [Server thread/INFO]: Anti X-Ray: true
+[15:58:59] [Server thread/INFO]: 	Engine Mode: 1
+[15:58:59] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:58:59] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:58:59] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:58:59] [Server thread/INFO]: Clear tick list: false
+[15:58:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:58:59] [Server thread/INFO]: Structure Info Saving: true
+[15:58:59] [Server thread/INFO]: Max Entity Collisions: 8
+[15:58:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:58:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:59] [Server thread/INFO]: Mob Spawn Range: 4
+[15:58:59] [Server thread/INFO]: Random Lighting Updates: false
+[15:58:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:59] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:58:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:59] [Server thread/INFO]: View Distance: 10
+[15:58:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:59] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:59] [Server thread/INFO]: Preparing start region for level 13 (Seed: 0)
+[15:59:00] [Server thread/INFO]: [Multiverse-Core] World 'Jungle' was unloaded from memory.
+[15:59:00] [Server thread/INFO]: -------- World Settings For [Jungle] --------
+[15:59:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:59:00] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:00] [Server thread/INFO]: Anti X-Ray: true
+[15:59:00] [Server thread/INFO]: 	Engine Mode: 1
+[15:59:00] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:59:00] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:59:00] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:59:00] [Server thread/INFO]: Clear tick list: false
+[15:59:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:59:00] [Server thread/INFO]: Structure Info Saving: true
+[15:59:00] [Server thread/INFO]: Max Entity Collisions: 8
+[15:59:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:59:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:00] [Server thread/INFO]: Mob Spawn Range: 4
+[15:59:00] [Server thread/INFO]: Random Lighting Updates: false
+[15:59:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:00] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:59:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:00] [Server thread/INFO]: View Distance: 10
+[15:59:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:00] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:00] [Server thread/INFO]: Preparing start region for level 13 (Seed: 0)
+[15:59:00] [Server thread/INFO]: [Multiverse-Core] World 'Music' was unloaded from memory.
+[15:59:00] [Server thread/INFO]: -------- World Settings For [Music] --------
+[15:59:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:59:00] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:00] [Server thread/INFO]: Anti X-Ray: true
+[15:59:00] [Server thread/INFO]: 	Engine Mode: 1
+[15:59:00] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:59:00] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:59:00] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:59:00] [Server thread/INFO]: Clear tick list: false
+[15:59:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:59:00] [Server thread/INFO]: Structure Info Saving: true
+[15:59:00] [Server thread/INFO]: Max Entity Collisions: 8
+[15:59:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:59:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:00] [Server thread/INFO]: Mob Spawn Range: 4
+[15:59:00] [Server thread/INFO]: Random Lighting Updates: false
+[15:59:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:00] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:59:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:00] [Server thread/INFO]: View Distance: 10
+[15:59:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:00] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:00] [Server thread/INFO]: Preparing start region for level 13 (Seed: 0)
+[15:59:00] [Server thread/INFO]: [Multiverse-Core] World 'Paris' was unloaded from memory.
+[15:59:00] [Server thread/INFO]: -------- World Settings For [Paris] --------
+[15:59:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:59:00] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:00] [Server thread/INFO]: Anti X-Ray: true
+[15:59:00] [Server thread/INFO]: 	Engine Mode: 1
+[15:59:00] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:59:00] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:59:00] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:59:00] [Server thread/INFO]: Clear tick list: false
+[15:59:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:59:00] [Server thread/INFO]: Structure Info Saving: true
+[15:59:00] [Server thread/INFO]: Max Entity Collisions: 8
+[15:59:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:59:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:00] [Server thread/INFO]: Mob Spawn Range: 4
+[15:59:00] [Server thread/INFO]: Random Lighting Updates: false
+[15:59:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:00] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:59:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:00] [Server thread/INFO]: View Distance: 10
+[15:59:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:00] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:00] [Server thread/INFO]: Preparing start region for level 13 (Seed: 0)
+[15:59:00] [Server thread/INFO]: [Multiverse-Core] World 'Savannah' was unloaded from memory.
+[15:59:00] [Server thread/INFO]: -------- World Settings For [Savannah] --------
+[15:59:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:59:00] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:00] [Server thread/INFO]: Anti X-Ray: true
+[15:59:00] [Server thread/INFO]: 	Engine Mode: 1
+[15:59:00] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:59:00] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:59:00] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:59:00] [Server thread/INFO]: Clear tick list: false
+[15:59:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:59:00] [Server thread/INFO]: Structure Info Saving: true
+[15:59:00] [Server thread/INFO]: Max Entity Collisions: 8
+[15:59:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:59:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:00] [Server thread/INFO]: Mob Spawn Range: 4
+[15:59:00] [Server thread/INFO]: Random Lighting Updates: false
+[15:59:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:00] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:59:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:00] [Server thread/INFO]: View Distance: 10
+[15:59:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:00] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:00] [Server thread/INFO]: Preparing start region for level 13 (Seed: 0)
+[15:59:00] [Server thread/INFO]: [Multiverse-Core] World 'Temple' was unloaded from memory.
+[15:59:00] [Server thread/INFO]: -------- World Settings For [Temple] --------
+[15:59:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:59:00] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:00] [Server thread/INFO]: Anti X-Ray: true
+[15:59:00] [Server thread/INFO]: 	Engine Mode: 1
+[15:59:00] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:59:00] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:59:00] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:59:00] [Server thread/INFO]: Clear tick list: false
+[15:59:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:59:00] [Server thread/INFO]: Structure Info Saving: true
+[15:59:00] [Server thread/INFO]: Max Entity Collisions: 8
+[15:59:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:59:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:00] [Server thread/INFO]: Mob Spawn Range: 4
+[15:59:00] [Server thread/INFO]: Random Lighting Updates: false
+[15:59:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:00] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:59:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:00] [Server thread/INFO]: View Distance: 10
+[15:59:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:00] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:00] [Server thread/INFO]: Preparing start region for level 13 (Seed: 0)
+[15:59:00] [Server thread/INFO]: [Multiverse-Core] World 'Time' was unloaded from memory.
+[15:59:00] [Server thread/INFO]: -------- World Settings For [Time] --------
+[15:59:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:59:00] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:00] [Server thread/INFO]: Anti X-Ray: true
+[15:59:00] [Server thread/INFO]: 	Engine Mode: 1
+[15:59:00] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:59:00] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:59:00] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:59:00] [Server thread/INFO]: Clear tick list: false
+[15:59:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:59:00] [Server thread/INFO]: Structure Info Saving: true
+[15:59:00] [Server thread/INFO]: Max Entity Collisions: 8
+[15:59:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:59:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:00] [Server thread/INFO]: Mob Spawn Range: 4
+[15:59:00] [Server thread/INFO]: Random Lighting Updates: false
+[15:59:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:00] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:59:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:00] [Server thread/INFO]: View Distance: 10
+[15:59:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:00] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:00] [Server thread/INFO]: Preparing start region for level 13 (Seed: 2146058938906414951)
+[15:59:01] [Server thread/INFO]: [Multiverse-Core] World 'Trees' was unloaded from memory.
+[15:59:01] [Server thread/INFO]: -------- World Settings For [Trees] --------
+[15:59:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:59:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:01] [Server thread/INFO]: Anti X-Ray: true
+[15:59:01] [Server thread/INFO]: 	Engine Mode: 1
+[15:59:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:59:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:59:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:59:01] [Server thread/INFO]: Clear tick list: false
+[15:59:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:59:01] [Server thread/INFO]: Structure Info Saving: true
+[15:59:01] [Server thread/INFO]: Max Entity Collisions: 8
+[15:59:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:59:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:01] [Server thread/INFO]: Mob Spawn Range: 4
+[15:59:01] [Server thread/INFO]: Random Lighting Updates: false
+[15:59:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:59:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:01] [Server thread/INFO]: View Distance: 10
+[15:59:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:01] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:01] [Server thread/INFO]: Preparing start region for level 13 (Seed: -7451559909720363255)
+[15:59:01] [Server thread/INFO]: [Multiverse-Core] World 'Tron' was unloaded from memory.
+[15:59:01] [Server thread/INFO]: -------- World Settings For [Tron] --------
+[15:59:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:59:01] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:01] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:01] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:01] [Server thread/INFO]: Anti X-Ray: true
+[15:59:01] [Server thread/INFO]: 	Engine Mode: 1
+[15:59:01] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:59:01] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:59:01] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:59:01] [Server thread/INFO]: Clear tick list: false
+[15:59:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:59:01] [Server thread/INFO]: Structure Info Saving: true
+[15:59:01] [Server thread/INFO]: Max Entity Collisions: 8
+[15:59:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:59:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:01] [Server thread/INFO]: Mob Spawn Range: 4
+[15:59:01] [Server thread/INFO]: Random Lighting Updates: false
+[15:59:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:01] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:59:01] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:01] [Server thread/INFO]: View Distance: 10
+[15:59:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:01] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:01] [Server thread/INFO]: Preparing start region for level 13 (Seed: 0)
+[15:59:01] [Server thread/INFO]: [SkyWars] [0;33;1m10 arenas [0;32;1mhave been enabled[m
+
+[15:59:01] [Server thread/INFO]: [SkyWars] [0;32;1mHolograpichDisplays hook enabled ([0;33;1m1 [0;32;1mHologram(s))[m
+
+[15:59:01] [Server thread/INFO]: [SkyWars] [0;32;1mMetrics (bStats) enabled[m
+
+[15:59:02] [Server thread/INFO]: [SkyWars] [0;32;1mEnabling PlaceholderAPI...[m
+
+[15:59:02] [Server thread/INFO]: [SkyWars] [0;32;1mPlaceholderAPI enabled, registered successfully[m
+
+[15:59:02] [Server thread/INFO]: [RogueParkour] Enabling RogueParkour v4.3
+[15:59:02] [Server thread/INFO]: [0;32;1m--------------------------------------[m
+
+[15:59:02] [Server thread/INFO]: [0;35;22mRogueParkour 4.3 [0;32;1menabling[m
+
+[15:59:02] [Server thread/INFO]: [0;36;22mMade by: [0;36;1mKledioz [0;30;1m(omegacraft.cl)[m
+
+[15:59:02] [Server thread/INFO]: [0;33;1mAny feedbacks on Spigot PM: Kledioz[m
+
+[15:59:02] [Server thread/INFO]: [0;32;1m--------------------------------------[m
+
+[15:59:02] [Server thread/INFO]: [0;35;22mRP[0;37;22m> [0;32;1mUsing players.yml flatfile..[m
+
+[15:59:02] [Server thread/INFO]: [LeaderHeads] Enabling LeaderHeads v3.1.8.3
+[15:59:03] [Netty Server IO #2/WARN]: Failed to initialize a channel. Closing: [id: 0x5959cd0c, /127.0.0.1:53086 => /127.0.0.1:25565]
+java.lang.ExceptionInInitializerError
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.generateClass(KeyFactory.java:166) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.DefaultGeneratorStrategy.generate(DefaultGeneratorStrategy.java:25) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:216) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.create(KeyFactory.java:144) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:116) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:108) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:104) ~[?:?]
+	at com.comphenix.net.sf.cglib.proxy.Enhancer.<clinit>(Enhancer.java:69) ~[?:?]
+	at com.comphenix.protocol.injector.server.TemporaryPlayerFactory.createTemporaryPlayer(TemporaryPlayerFactory.java:164) ~[?:?]
+	at com.comphenix.protocol.injector.netty.InjectionFactory.fromChannel(InjectionFactory.java:143) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:157) ~[?:?]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:69) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRegistered(DefaultChannelPipeline.java:732) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:442) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$100(AbstractChannel.java:374) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:418) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make protected final java.lang.Class java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain) throws java.lang.ClassFormatError accessible: module java.base does not "opens java.lang" to unnamed module @79546ea8
+	at java.base/java.lang.reflect.AccessibleObject.throwInaccessibleObjectException(AccessibleObject.java:391) ~[?:?]
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:367) ~[?:?]
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:315) ~[?:?]
+	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Method.java:203) ~[?:?]
+	at java.base/java.lang.reflect.Method.setAccessible(Method.java:197) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.ReflectUtils$2.run(ReflectUtils.java:56) ~[?:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:319) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.ReflectUtils.<clinit>(ReflectUtils.java:46) ~[?:?]
+	... 28 more
+[15:59:03] [Netty Server IO #2/WARN]: An exception was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.isOpen()" because "this.channel" is null
+	at net.minecraft.server.v1_8_R3.NetworkManager.close(NetworkManager.java:245) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.NetworkManager.channelInactive(NetworkManager.java:105) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelInactive(ReadTimeoutHandler.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:769) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$5.run(AbstractChannel.java:567) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Loaded automatic reward: kills
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Loaded automatic reward: votes
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Hooked into Citizens
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Hooked into HolographicDisplays
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-wins
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-kills
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-deaths
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-played
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-arrow-shot
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-arrow-hit
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-blocks-break
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-blocks-placed
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-time-played
+[15:59:03] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: sw-distance-walk
+[15:59:03] [Server thread/INFO]: [SkyWars] [0;32;1mLeaderHeads hook enabled[m
+
+[15:59:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:59:03] [Server thread/INFO]: Done (13,280s)! For help, type "help" or "?"
+[15:59:03] [Server thread/INFO]: 'settings.spawn-radius' in bukkit.yml has been moved to 'spawn-protection' in server.properties. I will move your config for you.
+[15:59:06] [Netty Server IO #3/WARN]: Failed to initialize a channel. Closing: [id: 0x2627186d, /127.0.0.1:53092 => /127.0.0.1:25565]
+java.lang.NoClassDefFoundError: Could not initialize class com.comphenix.net.sf.cglib.proxy.Enhancer
+	at com.comphenix.protocol.injector.server.TemporaryPlayerFactory.createTemporaryPlayer(TemporaryPlayerFactory.java:164) ~[?:?]
+	at com.comphenix.protocol.injector.netty.InjectionFactory.fromChannel(InjectionFactory.java:143) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:157) ~[?:?]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:69) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRegistered(DefaultChannelPipeline.java:732) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:442) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$100(AbstractChannel.java:374) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:418) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.ExceptionInInitializerError [in thread "Netty Server IO #2"]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.generateClass(KeyFactory.java:166) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.DefaultGeneratorStrategy.generate(DefaultGeneratorStrategy.java:25) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:216) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.create(KeyFactory.java:144) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:116) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:108) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:104) ~[?:?]
+	at com.comphenix.net.sf.cglib.proxy.Enhancer.<clinit>(Enhancer.java:69) ~[?:?]
+	... 20 more
+[15:59:06] [Netty Server IO #3/WARN]: An exception was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.isOpen()" because "this.channel" is null
+	at net.minecraft.server.v1_8_R3.NetworkManager.close(NetworkManager.java:245) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.NetworkManager.channelInactive(NetworkManager.java:105) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelInactive(ReadTimeoutHandler.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:769) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$5.run(AbstractChannel.java:567) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:59:06] [Server thread/INFO]: [INFO] [BannerBoard] Loading images...[m
+
+[15:59:06] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image hypermc.png.[m
+
+[15:59:06] [Server thread/INFO]: [0;31;1m[WARNING] [BannerBoard] Could not load image Thumbs.db. Bannerboard only supports png images.[m
+
+[15:59:06] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded 1 image(s).[m
+
+[15:59:06] [Server thread/INFO]: [INFO] [BannerBoard] Connecting to skinrender.com with key ***********EY_HERE...[m
+
+[15:59:06] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v3.0.4
+[15:59:06] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[15:59:06] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[15:59:06] [Craft Scheduler Thread - 4/WARN]: [BukkitLib] Failed to submit metrics
+[15:59:06] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mFound a new version: v4.0.5[0;37;1m (yours: v3.1)[m
+
+[15:59:06] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mDownload it on Bukkit Dev:[m
+
+[15:59:06] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1m[0;37;1mdev.bukkit.org/bukkit-plugins/chest-commands[m
+
+[15:59:06] [Craft Scheduler Thread - 1/INFO]: [MessageFilter] MessageFilter v0.3.2 is outdated! Recommended version is v0.3.3
+[15:59:06] [Craft Scheduler Thread - 1/INFO]: [MessageFilter] http://dev.bukkit.org/bukkit-plugins/messagefilter/
+[15:59:06] [Server thread/INFO]: [Citizens] Cargando a 4 NPCs.
+[15:59:06] [Server thread/INFO]: [0;35;22mRP[0;37;22m> [0;32;1mLeaderheads hook enabled[m
+
+[15:59:06] [Server thread/INFO]: [LeaderHeads] Statistic is not in list, adding it: rp-score
+[15:59:06] [Craft Scheduler Thread - 27/INFO]: [Vault] Checking for Updates ... 
+[15:59:06] [Craft Scheduler Thread - 27/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[15:59:06] [Craft Scheduler Thread - 27/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[15:59:06] [Craft Scheduler Thread - 8/INFO]: [PlaceholderAPI] 152 placeholder expansions are available on the cloud.
+[15:59:06] [Craft Scheduler Thread - 8/INFO]: [PlaceholderAPI] 2 installed expansions have updates available.
+[15:59:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@460d7dae[id=3481b8f4-b481-3062-82f2-9426e40ada01,name=joakoooe,properties={},legacy=false] (/127.0.0.1:53072) lost connection: Disconnected
+[15:59:06] [Server thread/WARN]: [HolographicDisplays] Unable to get a stacktrace element, please inform the developer. You will only see this error once to avoid spam.
+java.lang.NoSuchMethodException: java.lang.Throwable.getStackTraceElement(int)
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2848) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.util.ReflectionUtils.getStackTraceElement(ReflectionUtils.java:44) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.nms.v1_8_R3.EntityNMSArmorStand.getId(EntityNMSArmorStand.java:115) ~[?:?]
+	at net.minecraft.server.v1_8_R3.EntityTracker.addEntity(EntityTracker.java:104) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.EntityTracker.track(EntityTracker.java:83) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.WorldManager.a(WorldManager.java:18) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.World.a(World.java:1066) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:970) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.nms.v1_8_R3.NmsManagerImpl.addEntityToWorld(NmsManagerImpl.java:128) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.nms.v1_8_R3.NmsManagerImpl.spawnNMSArmorStand(NmsManagerImpl.java:102) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.object.line.CraftTextLine.spawn(CraftTextLine.java:75) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.object.CraftHologram.spawnEntities(CraftHologram.java:300) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.object.CraftHologram.refreshAll(CraftHologram.java:247) ~[?:?]
+	at com.gmail.filoghost.holographicdisplays.task.StartupLoadHologramsTask.run(StartupLoadHologramsTask.java:11) ~[?:?]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:723) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[15:59:06] [Server thread/INFO]: [LeaderHeads] Skipping plugin SkyWars with author [CookLoco] and hardcoded author Wietje
+[15:59:07] [Craft Scheduler Thread - 6/INFO]: [VoidGenerator] Checking SpigotMc.org for Updates on VoidGenerator... 
+[15:59:07] [Craft Scheduler Thread - 6/INFO]: [VoidGenerator] Version 2.2.1 is now available here
+[15:59:07] [Craft Scheduler Thread - 6/INFO]: [VoidGenerator] Download: https://www.spigotmc.org/resources/25391/
+[15:59:07] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update, and has readied it to be loaded the next time the server restarts/reloads.[m
+
+[15:59:15] [Server thread/INFO]: [MyCommand] found an update for MyCommand. Type /mycommand for more infos.
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:00:24] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[16:01:08] [Netty Server IO #0/WARN]: Failed to initialize a channel. Closing: [id: 0xcb776b4d, /127.0.0.1:53212 => /127.0.0.1:25565]
+java.lang.NoClassDefFoundError: Could not initialize class com.comphenix.net.sf.cglib.proxy.Enhancer
+	at com.comphenix.protocol.injector.server.TemporaryPlayerFactory.createTemporaryPlayer(TemporaryPlayerFactory.java:164) ~[?:?]
+	at com.comphenix.protocol.injector.netty.InjectionFactory.fromChannel(InjectionFactory.java:143) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:157) ~[?:?]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:69) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRegistered(DefaultChannelPipeline.java:732) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:442) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register(AbstractChannel.java:412) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.SingleThreadEventLoop.register(SingleThreadEventLoop.java:60) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.SingleThreadEventLoop.register(SingleThreadEventLoop.java:48) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.MultithreadEventLoopGroup.register(MultithreadEventLoopGroup.java:64) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor.channelRead(ServerBootstrap.java:251) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$3.channelRead(ProtocolInjector.java:183) ~[?:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:787) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.AbstractNioMessageChannel$NioMessageUnsafe.read(AbstractNioMessageChannel.java:92) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:430) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:384) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.ExceptionInInitializerError [in thread "Netty Server IO #2"]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.generateClass(KeyFactory.java:166) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.DefaultGeneratorStrategy.generate(DefaultGeneratorStrategy.java:25) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:216) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.create(KeyFactory.java:144) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:116) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:108) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:104) ~[?:?]
+	at com.comphenix.net.sf.cglib.proxy.Enhancer.<clinit>(Enhancer.java:69) ~[?:?]
+	at com.comphenix.protocol.injector.server.TemporaryPlayerFactory.createTemporaryPlayer(TemporaryPlayerFactory.java:164) ~[?:?]
+	at com.comphenix.protocol.injector.netty.InjectionFactory.fromChannel(InjectionFactory.java:143) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:157) ~[?:?]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:69) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRegistered(DefaultChannelPipeline.java:732) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:442) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$100(AbstractChannel.java:374) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:418) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	... 2 more
+[16:01:08] [Netty Server IO #0/WARN]: An exception was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.isOpen()" because "this.channel" is null
+	at net.minecraft.server.v1_8_R3.NetworkManager.close(NetworkManager.java:245) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.NetworkManager.channelInactive(NetworkManager.java:105) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelInactive(ReadTimeoutHandler.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:769) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$5.run(AbstractChannel.java:567) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[16:01:08] [Netty Server IO #1/WARN]: Failed to initialize a channel. Closing: [id: 0x80358ad4, /127.0.0.1:53213 => /127.0.0.1:25565]
+java.lang.NoClassDefFoundError: Could not initialize class com.comphenix.net.sf.cglib.proxy.Enhancer
+	at com.comphenix.protocol.injector.server.TemporaryPlayerFactory.createTemporaryPlayer(TemporaryPlayerFactory.java:164) ~[?:?]
+	at com.comphenix.protocol.injector.netty.InjectionFactory.fromChannel(InjectionFactory.java:143) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:157) ~[?:?]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:69) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRegistered(DefaultChannelPipeline.java:732) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:442) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$100(AbstractChannel.java:374) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:418) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.ExceptionInInitializerError [in thread "Netty Server IO #2"]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.generateClass(KeyFactory.java:166) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.DefaultGeneratorStrategy.generate(DefaultGeneratorStrategy.java:25) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:216) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.create(KeyFactory.java:144) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:116) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:108) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:104) ~[?:?]
+	at com.comphenix.net.sf.cglib.proxy.Enhancer.<clinit>(Enhancer.java:69) ~[?:?]
+	... 20 more
+[16:01:08] [Netty Server IO #1/WARN]: An exception was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.isOpen()" because "this.channel" is null
+	at net.minecraft.server.v1_8_R3.NetworkManager.close(NetworkManager.java:245) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.NetworkManager.channelInactive(NetworkManager.java:105) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelInactive(ReadTimeoutHandler.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:769) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$5.run(AbstractChannel.java:567) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[16:01:10] [Netty Server IO #2/WARN]: Failed to initialize a channel. Closing: [id: 0x870c5748, /127.0.0.1:53221 => /127.0.0.1:25565]
+java.lang.NoClassDefFoundError: Could not initialize class com.comphenix.net.sf.cglib.proxy.Enhancer
+	at com.comphenix.protocol.injector.server.TemporaryPlayerFactory.createTemporaryPlayer(TemporaryPlayerFactory.java:164) ~[?:?]
+	at com.comphenix.protocol.injector.netty.InjectionFactory.fromChannel(InjectionFactory.java:143) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:157) ~[?:?]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:69) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRegistered(DefaultChannelPipeline.java:732) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:442) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$100(AbstractChannel.java:374) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:418) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.ExceptionInInitializerError [in thread "Netty Server IO #2"]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.generateClass(KeyFactory.java:166) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.DefaultGeneratorStrategy.generate(DefaultGeneratorStrategy.java:25) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:216) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.create(KeyFactory.java:144) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:116) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:108) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:104) ~[?:?]
+	at com.comphenix.net.sf.cglib.proxy.Enhancer.<clinit>(Enhancer.java:69) ~[?:?]
+	... 20 more
+[16:01:10] [Netty Server IO #2/WARN]: An exception was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.isOpen()" because "this.channel" is null
+	at net.minecraft.server.v1_8_R3.NetworkManager.close(NetworkManager.java:245) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.NetworkManager.channelInactive(NetworkManager.java:105) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelInactive(ReadTimeoutHandler.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:769) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$5.run(AbstractChannel.java:567) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[16:01:10] [Netty Server IO #3/WARN]: Failed to initialize a channel. Closing: [id: 0xf7ee787f, /127.0.0.1:53223 => /127.0.0.1:25565]
+java.lang.NoClassDefFoundError: Could not initialize class com.comphenix.net.sf.cglib.proxy.Enhancer
+	at com.comphenix.protocol.injector.server.TemporaryPlayerFactory.createTemporaryPlayer(TemporaryPlayerFactory.java:164) ~[?:?]
+	at com.comphenix.protocol.injector.netty.InjectionFactory.fromChannel(InjectionFactory.java:143) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:157) ~[?:?]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:69) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInitializer.channelRegistered(ChannelInitializer.java:71) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRegistered(AbstractChannelHandlerContext.java:158) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRegistered(AbstractChannelHandlerContext.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRegistered(DefaultChannelPipeline.java:732) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:442) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$100(AbstractChannel.java:374) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:418) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.ExceptionInInitializerError [in thread "Netty Server IO #2"]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.generateClass(KeyFactory.java:166) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.DefaultGeneratorStrategy.generate(DefaultGeneratorStrategy.java:25) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:216) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory$Generator.create(KeyFactory.java:144) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:116) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:108) ~[?:?]
+	at com.comphenix.net.sf.cglib.core.KeyFactory.create(KeyFactory.java:104) ~[?:?]
+	at com.comphenix.net.sf.cglib.proxy.Enhancer.<clinit>(Enhancer.java:69) ~[?:?]
+	... 20 more
+[16:01:10] [Netty Server IO #3/WARN]: An exception was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: Cannot invoke "io.netty.channel.Channel.isOpen()" because "this.channel" is null
+	at net.minecraft.server.v1_8_R3.NetworkManager.close(NetworkManager.java:245) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at net.minecraft.server.v1_8_R3.NetworkManager.channelInactive(NetworkManager.java:105) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:228) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelInactive(ReadTimeoutHandler.java:144) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:233) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:219) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:769) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$5.run(AbstractChannel.java:567) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:380) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[Spigot.jar:git-Spigot-db6de12-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]

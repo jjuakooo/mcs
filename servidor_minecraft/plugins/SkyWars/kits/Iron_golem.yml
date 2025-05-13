@@ -1,0 +1,30 @@
+
+
+# Kit price (if price is 0, the kit will be free)
+price: 1000
+
+icon:
+  # Slot in the Kit Selector (Waiting)
+  slot: 16
+  # Item in Kit Selector (ID:Data)
+  item: IRON_HELMET
+
+# Description of the kit
+contents:
+  - Iron helmet
+  - Iron leggings
+
+# Items to be given in the kit
+# Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
+# Format: ITEM_NAME:Data,Amount
+# Format: ID:Data,Amount,Value,Value,Value,...
+# Available values:
+#     name:&3Item Name
+#     lore:&7Item description line
+#     ENCHANTMENT:LEVEL  (Enchantment list here: https://goo.gl/KKBDiH)
+#     potion:POTION_NAME:Upgraded:Extended  (Potions list here: https://goo.gl/aBGNSw) (Example: potion:JUMP:true:false for Jump II)
+#     leather_color:R-G-B  (R,G,B values from 0 to 255)
+#     glowing - Add Glowing/Enchantment effect to the item
+items:
+  - IRON_HELMET
+  - IRON_LEGGINGS

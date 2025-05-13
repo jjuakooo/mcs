@@ -1,0 +1,98 @@
+# 
+# %online%       = online count
+# %ping%         = ping of player
+# %nick%         = nickname of player
+# %ip%           = IP of player
+# %time%         = for example 20:30:00
+# %rank%         = permission group of player
+# %money%        = money of player
+# %deluxetag%    = tag from plugin DeluxeTags
+# %world%        = name of world where player is
+# %worldonline%  = amount of players in the same world, might be useful with per-world-playerlist enabled
+# %canseeonline% = similar to online, but doesn't count vanished players
+# %staffonline%  = amount of staff online, groups can be defined below
+# %kingdom%      = if kingdom plugin is installed..
+# %faction%      = if a faction plugin is installed..
+# .. + PlaceholderAPI
+
+change-nametag-prefix-suffix: true
+change-tablist-prefix-suffix: true
+enable-header-footer: true
+nametag-refresh-interval-ticks: 1
+tablist-refresh-interval-ticks: 1
+header-footer-refresh-interval-ticks: 1
+unlimited-nametag-prefix-suffix-mode:
+  enabled: true
+  space-between-lines: 0.22
+  hide-if-sneaking: true
+header:
+- '&8&m<------------------------------>'
+- '&b&lHyperMC &8| &fSkyWars'
+- '&fConectados: &b%online% &8| &fPing: &b%ping%'
+- ''
+footer:
+- ''
+- '&fDiscord: &bhttps://discord.gg/Ymgn8fE'
+- '&fTienda: &bProximamente...'
+- '&8&m<------------------------------>'
+use-essentials-nickname: false
+deluxetag-empty-value: ''
+enable-collision: true
+tablist-objective: NONE
+tablist-objective-custom-value: '%ping%'
+per-world-playerlist: false
+group-sorting-priority-list:
+- Owner
+- Admin
+- Mod
+- Helper
+- Builder
+- VIP
+- VIP+
+- YouTuber
+- Famous
+- Usuario
+staff-groups:
+- Owner
+- Admin
+- Mod
+- Helper
+- Builder
+Groups:
+  Owner:
+    tabprefix: "&4&lDUE\xc3\u2018O &8| &f"
+    tagprefix: '&4'
+  Admin:
+    tabprefix: '&c&lADMIN &8| &f'
+    tagprefix: '&c'
+  Mod:
+    tabprefix: '&b&lMOD &8| &f'
+    tagprefix: '&b'
+  Helper:
+    tabprefix: '&9&lHELPER &8| &f'
+    tagprefix: '&9'
+  Builder:
+    tabprefix: '&3&lBUILDER &8| &f'
+    tagprefix: '&3'
+  VIP:
+    tabprefix: '&a&lVIP &8| &f'
+    tagprefix: '&a'
+  VIP+:
+    tabprefix: '&a&lVIP&e&l+ &8| &f'
+    tagprefix: '&a'
+  YouTuber:
+    tabprefix: '&6&lYT &8| &f'
+    tagprefix: '&6'
+  Famous:
+    tabprefix: '&d&lFAMOUS &8| &f'
+    tagprefix: '&d'
+  Usuario:
+    tabprefix: '&7'
+    tagprefix: '&7'
+Users:
+  Player1:
+    tabprefix: ''
+    tagprefix: ''
+    tabsuffix: ''
+    tagsuffix: ''
+  zTraksh: {}

@@ -1,0 +1,28 @@
+messages:
+  # You can use the following placeholders:
+  # %reported% - player who is reported
+  # %reporter% - player who reports
+  # %reason% - the report reason
+  
+  # Sent when the command is used incorrectly. Cannot use any of the placeholders.
+  report-syntax: "&b&lREPORTES &8| &fReporta usando: &b/report [jugador] [motivo]"  
+  #Sent to players who have the "report.notify" permission.
+  report-notification: "&b&lREPORTES &8| &b%reported% &ffue reportado por &e%reporter%&f! Motivo &8| &a%reason%&f."
+  #Sent to the reporter upon report.
+  report-message: "&b&lREPORTES &8| &fReportaste a &b%reported%&f! Motivo &8| &a%reason%&f."
+  #Sent to the player who tries to list reports when there are none.
+  #NO PLACEHOLDERS WORK HERE.
+  no-reports: "&b&lREPORTES &8| &fNo hay reportes."
+  #This is printed in chat once per report during the listing of reports. 
+  report-list: "&fJugador: &b%reporter% &8| &fReportado: &e%reported% &8| &fMotivo: &a%reason%&f."
+  #Sent to the player who clears the reports. 
+  #NO PLACEHOLDERS WILL WORK HERE.
+  report-clear-message: "&b&lREPORTES &8| &fHas limpiado los reportes."
+
+# Should staff with the permission 'report.notify' not be allowed to be reported?
+staff-bypass: false
+
+
+# DO NOT TOUCH THIS
+version: 3
+  

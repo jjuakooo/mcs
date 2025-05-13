@@ -1,0 +1,122 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Selector de mapas'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'selector'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 7
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+tron:
+  COMMAND: 'sw join Tron'
+  NAME: '&b&lTron'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 3
+  POSITION-Y: 2
+trees:
+  COMMAND: 'sw join Trees'
+  NAME: '&b&lTrees'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 4
+  POSITION-Y: 2
+time:
+  COMMAND: 'sw join Time'
+  NAME: '&b&lTime'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 5
+  POSITION-Y: 2
+temple:
+  COMMAND: 'sw join Temple'
+  NAME: '&b&lTemple'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 6
+  POSITION-Y: 2
+music:
+  COMMAND: 'sw join Music'
+  NAME: '&b&lMusic'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 7
+  POSITION-Y: 2
+jungle:
+  COMMAND: 'sw join Jungle'
+  NAME: '&b&lJungle'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 3
+  POSITION-Y: 3
+desert:
+  COMMAND: 'sw join Desert'
+  NAME: '&b&lDesert'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 4
+  POSITION-Y: 3
+savannah:
+  COMMAND: 'sw join Savannah'
+  NAME: '&b&lSavannah'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 5
+  POSITION-Y: 3
+Bamboo:
+  COMMAND: 'sw join Bamboo'
+  NAME: '&b&lBamboo'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 6
+  POSITION-Y: 3
+Paris:
+  COMMAND: 'sw join Paris'
+  NAME: '&b&lParis'
+  LORE:
+    - '&fClick para entrar!'
+  ID: dye:10
+  POSITION-X: 7
+  POSITION-Y: 3

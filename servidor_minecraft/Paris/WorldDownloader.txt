@@ -1,0 +1,4 @@
+#
+#Fri Oct 20 15:22:39 COT 2017
+LinkedWorlds=
+ServerName=lobby

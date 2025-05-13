@@ -1,0 +1,72 @@
+
+
+# name displayed in the server
+name: Savannah
+
+# players required to start the game
+min_players: 2
+
+# maximum amount of players that can join to the arena
+max_players: 12
+
+# spawn where the player will spawn in the game (boxes)
+spawnpoints:
+  - Savannah,15965.5,33.0,-11.5,0,271.05176
+  - Savannah,15965.5,33.0,8.5,0,269.85144
+  - Savannah,15974.5,33.0,21.5,0,180.00244
+  - Savannah,15988.5,33.0,30.5,0,179.96704
+  - Savannah,16009.5,33.0,31.5,0,179.21777
+  - Savannah,16023.5,33.0,21.5,0,89.71509
+  - Savannah,16031.5,33.0,8.5,0,89.89868
+  - Savannah,16031.5,33.0,-11.5,0,90.00867
+  - Savannah,16022.5,33.0,-24.5,0,358.65967
+  - Savannah,16008.5,33.0,-34.5,0,359.11023
+  - Savannah,15988.5,33.0,-34.5,0,359.7965
+  - Savannah,15974.5,33.0,-22.5,0,359.94702
+
+# spawn where spectators will appear
+spectator_spawn: Savannah,15998.5,30.455552726055917,-2.5,0,-269.85004
+
+countdown:
+  # time in seconds to start the game
+  starting: 90
+  # list of seconds when the time message will be displayed
+  starting_message: 90,60,30,10,5,4,3,2,1
+  # if the game is full or can't start due to not required players the countdown will be this value
+  starting_full: 10
+  # time in seconds for the duration of the end (for win effects)
+  end: 10
+
+options:
+  # enable or disable abilities in this arena
+  abilities: true
+  # mode to be played in this arena
+  # Available modes: SOLO
+  mode: SOLO
+  # enable or disable arena events
+  events: true
+  vote:
+    # enable or disable chest vote
+    chest: true
+    # enable or disable time vote
+    time: true
+
+chests:
+  # chest type that will be selected by default in this arena
+  default: Normal
+  # list of chest types that can be selected to vote in this arena
+  selectable:
+    - Basic
+    - Overpowered
+    - Normal
+
+# list of events to be executed in game in the list order
+# Available events:
+#     REFILL - Argument: Chest Type (Example: Overpowered) also, can be "Selected" to refill with the selected chest type
+# Usage format: EVENT:Argument,Seconds,Title
+#     Argument: The argument of the event, if not the event will take the default or a random argument
+#     Seconds: Time in seconds to be executed the event after the game start or from the previous event
+#     Title: The name of the event that will be displayed in game
+# Example format: REFILL:Normal,300,Refill event
+events:
+  - REFILL:Normal,300,Supply refill
