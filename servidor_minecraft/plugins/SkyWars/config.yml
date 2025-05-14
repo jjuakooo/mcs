@@ -25,7 +25,7 @@ debug-database: false
 locale: es
 
 # Rows/Lines from the Kit Menu (WAITING GAME)
-kitmenu_rows: 3
+kitmenu_rows: 4
 
 # If is true, players with the permission (skywars.kit.KitName) can buy this kit
 kit_permission: false
@@ -87,7 +87,7 @@ menu:
   kits:
     unavailable:
       # Enable or disable if should replace unavailable kit icon for some item (Default: false)
-      enabled: false
+      enabled: true
       # ITEM_NAME:DATA
       item: STAINED_GLASS_PANE:14
 

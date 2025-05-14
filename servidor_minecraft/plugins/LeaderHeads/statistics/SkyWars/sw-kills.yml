@@ -30,7 +30,7 @@ enable-commas: true
 all-time:
   sign-lines:
   - ''
-  - '&b{name}'
+  - '&f{name}'
   - '&8{amount} asesinatos'
   - ''
   update-interval: 30
@@ -40,7 +40,7 @@ all-time:
   menu-name: SkyWars - Top Asesinatos | {page}
   menu-lines:
   - '&b&l{rank} &8| &b{name}'
-  - '&8{amount} asesinatos'
+  - '&f{amount} asesinatos'
 daily:
   sign-lines:
   - '&c&m------------'

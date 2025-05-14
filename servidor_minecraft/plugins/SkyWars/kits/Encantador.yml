@@ -1,19 +1,26 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 1150
+price: 8500
 
 icon:
   # Slot in the Kit Selector (Waiting)
-  slot: 17
+  slot: 24
   # Item in Kit Selector (ID:Data)
-  item: BEDROCK,glowing
+  item: BOOKSHELF
 
 # Description of the kit
 contents:
-  - Potion of Healing II
-  - Splash Potion of Healing I
-  - Splash Potion of regeneration
+  - '&f'
+  - '&fEste equipamiento es ideal para quienes'
+  - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
+  - '&f'
+  - '&8▪ &fx1 Mesa de encantamientos'
+  - '&8▪ &fx64 Botellas de experiencia'
+  - '&8▪ &fx8 Librerías'
+  - '&8▪ &f10 Diamantes'
+  - '&f'
+  - '&fPrecio: &e8500 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -27,6 +34,7 @@ contents:
 #     leather_color:R-G-B  (R,G,B values from 0 to 255)
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
-  - POTION,potion:INSTANT_HEAL:true:false
-  - POTION,potion:INSTANT_HEAL:false:false
-  - POTION,potion:REGEN:false:false
+  - BEDROCK
+  - BEDROCK,64
+  - BOOKSHELF,8
+  - DIAMOND,10

@@ -1,19 +1,24 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 200
+price: 2200
 
 icon:
   # Slot in the Kit Selector (Waiting)
-  slot: 2
+  slot: 20
   # Item in Kit Selector (ID:Data)
-  item: FISHING_ROD
+  item: TNT
 
 # Description of the kit
 contents:
-  - Fishing rod &7(Luck of the sea III Unbreaking III)
-  - 5 cooked fish
-  - Water bucket
+  - '&f'
+  - '&fEste equipamiento es ideal para quienes'
+  - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
+  - '&f'
+  - '&8▪ &fx10 TNT'
+  - '&8▪ &fx3 Antorchas de Redstone'
+  - '&f'
+  - '&fPrecio: &e2200 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -27,6 +32,5 @@ contents:
 #     leather_color:R-G-B  (R,G,B values from 0 to 255)
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
-  - FISHING_ROD,DURABILITY:3,LUCK:3
-  - COOKED_FISH,5
-  - WATER_BUCKET
+  - TNT,10
+  - BEDROCK,3

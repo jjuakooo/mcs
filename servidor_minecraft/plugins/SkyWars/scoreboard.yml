@@ -33,13 +33,6 @@ lobby:
   # Lobby Scoreboard blacklist (Disabled worlds)
   disabledWorlds:
     - world
-    - Lobby-Auth
-    - Lobby-1vs1
-    - Classic-1
-    - Classic-2
-    - Classic-3
-    - Classic-4
-    - Classic-5
   # Lobby Scoreboard title
   title: '&b&lSkyWars'
   # Lobby Scoreboard lines (Max: 16)
@@ -60,10 +53,13 @@ game:
   # Game Scoreboard lines (Max: 16)
   lines:
     - <a-ingame><a-events>
-    - '&fRelleno &8| &b<a-ingame><a-events>&b%a-event-time%'
+    - '&fPróx. evento &8| &b<a-ingame><a-events>&b%a-event-time%'
     - '%empty%'
     - '&fMapa &8| &b%a-name%'
     - '&fJugadores &8| &b%a-ingame-p%/%a-max-p%'
+    - '%empty%'
+    - '&fModo &8| &bSolo'
+    - '&fAsesinatos &8| &b%sw-kill-streak%'
     - '%empty%'
     - '&bplay.hypermc.com'
 
@@ -73,14 +69,14 @@ hologram:
     - Lobby-Sw,-687.5,31.634784288406504,486.5,0,-51.600433
   # Holographics Lines
   lines:
-    - '&bEstadisticas de %PLAYER%&f!'
-    - '&fGanadas: &b%sw-w%'
-    - '&fAsesinatos: &b%sw-k%'
-    - '&fMuertes: &b%sw-d%'
-    - '&fPartidas jugadas: &b%sw-p%'
-    - '&fTiros de flecha: &b%sw-as%'
-    - '&fFlechas dadas: &b%sw-ah%'
-    - '&fBloques rotos: &b%sw-bb%'
-    - '&fBloques colocados: &b%sw-bp%'
-    - '&fDistancia recorrida: &b%sw-dw%'
-    - '&fTiempo jugado: &b%sw-tp%'
+    - '&b%PLAYER%'
+    - '&8» &fGanadas: &b%sw-w%'
+    - '&8» &fAsesinatos: &b%sw-k%'
+    - '&8» &fMuertes: &b%sw-d%'
+    - '&8» &fPartidas jugadas: &b%sw-p%'
+    - '&8» &fTiros de flecha: &b%sw-as%'
+    - '&8» &fFlechas dadas: &b%sw-ah%'
+    - '&8» &fBloques rotos: &b%sw-bb%'
+    - '&8» &fBloques colocados: &b%sw-bp%'
+    - '&8» &fDistancia recorrida: &b%sw-dw%'
+    - '&8» &fTiempo jugado: &b%sw-tp%'

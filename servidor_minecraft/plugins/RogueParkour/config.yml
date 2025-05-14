@@ -9,9 +9,9 @@ version: 5
 Positions:
   world: Lobby-Sw
   pos1:
-    X: -705
-    Y: 37
-    Z: 473
+    X: -651
+    Y: 101
+    Z: 505
   pos2:
     X: -700
     Y: 50

@@ -1,18 +1,25 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 600
+price: 500
 
 icon:
   # Slot in the Kit Selector (Waiting)
-  slot: 9
+  slot: 11
   # Item in Kit Selector (ID:Data)
-  item: EGG
+  item: WOOD_PICKAXE
 
 # Description of the kit
 contents:
-  - 32 eggs
-  - Iron leggings
+  - '&f'
+  - '&fEste equipamiento es ideal para quienes'
+  - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
+  - '&f'
+  - '&8▪ &fx1 Espada de madera'
+  - '&8▪ &fx1 Hacha de madera'
+  - '&8▪ &fx1 Pico de madera'
+  - '&f'
+  - '&fPrecio: &e500 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -26,5 +33,6 @@ contents:
 #     leather_color:R-G-B  (R,G,B values from 0 to 255)
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
-  - EGG,32
-  - IRON_LEGGINGS
+  - BEDROCK
+  - BEDROCK
+  - BEDROCK

@@ -1,22 +1,26 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 600
+price: 5000
 
 icon:
   # Slot in the Kit Selector (Waiting)
-  slot: 10
+  slot: 22
   # Item in Kit Selector (ID:Data)
-  item: REDSTONE_TORCH_ON
+  item: IRON_HELMET
 
 # Description of the kit
 contents:
-  - 8 TNT
-  - 3 redstone torches
-  - Instant damage potion
-  - Wood sword
-  - Redstone block
-  - 3 Pressure plates
+  - '&f'
+  - '&fEste equipamiento es ideal para quienes'
+  - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
+  - '&f'
+  - '&8▪ &fx1 Casco de hierro'
+  - '&8▪ &fx1 Pechera de hierro'
+  - '&8▪ &fx1 Pantalones de hierro'
+  - '&8▪ &fx1 Botas de hierro'
+  - '&f'
+  - '&fPrecio: &e5000 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -30,9 +34,7 @@ contents:
 #     leather_color:R-G-B  (R,G,B values from 0 to 255)
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
-  - TNT,8
-  - REDSTONE_TORCH_ON,3
-  - POTION,potion:INSTANT_DAMAGE:false:false
-  - WOOD_SWORD
-  - REDSTONE_BLOCK
-  - STONE_PLATE,3
+  - IRON_HELMET
+  - IRON_CHESTPLATE
+  - IRON_LEGGINGS
+  - IRON_BOOTS

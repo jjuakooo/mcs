@@ -1,23 +1,23 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 500
+price: 1000
 
 icon:
   # Slot in the Kit Selector (Waiting)
-  slot: 7
+  slot: 13
   # Item in Kit Selector (ID:Data)
-  item: REDSTONE
+  item: GOLDEN_APPLE
 
 # Description of the kit
 contents:
-  - 3 redstone repeaters
-  - 20 redstone
-  - 1 sticky piston
-  - 1 hopper
-  - 1 lever
-  - 1 Piston
-  - 1 Redstone Comparator
+  - '&f'
+  - '&fEste equipamiento es ideal para quienes'
+  - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
+  - '&f'
+  - '&8▪ &fx2 Manzanas doradas'
+  - '&f'
+  - '&fPrecio: &e1000 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -31,10 +31,4 @@ contents:
 #     leather_color:R-G-B  (R,G,B values from 0 to 255)
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
-  - DIODE,3
-  - REDSTONE,20
-  - PISTON_STICKY_BASE
-  - HOPPER
-  - LEVER
-  - PISTON_BASE
-  - REDSTONE_COMPARATOR
+  - GOLDEN_APPLE,2

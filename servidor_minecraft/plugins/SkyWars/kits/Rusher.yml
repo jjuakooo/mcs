@@ -1,18 +1,25 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 200
+price: 1000
 
 icon:
   # Slot in the Kit Selector (Waiting)
-  slot: 3
+  slot: 12
   # Item in Kit Selector (ID:Data)
-  item: STONE_AXE,glowing
+  item: POTION,potion:SPEED:false:false
 
 # Description of the kit
 contents:
-  - Stone axe &7(Sharpness II Efficiency III)
-  - 10 Logs
+  - '&f'
+  - '&fEste equipamiento es ideal para quienes'
+  - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
+  - '&f'
+  - '&8▪ &fx16 Bloques de tierra'
+  - '&8▪ &fx2 Pociones de velocidad &7(20 segundos)'
+  - '&8▪ &fx1 Espada de piedra &7(Filo I)'
+  - '&f'
+  - '&fPrecio: &e1000 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -26,5 +33,6 @@ contents:
 #     leather_color:R-G-B  (R,G,B values from 0 to 255)
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
-  - STONE_AXE,DAMAGE_ALL:2,DIG_SPEED:3
-  - LOG,10
+  - DIRT,16
+  - POTION,2,potion:SPEED:true:false
+  - STONE_SWORD,DAMAGE_ALL

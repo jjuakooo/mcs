@@ -1,22 +1,23 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 350
+price: 0
 
 icon:
   # Slot in the Kit Selector (Waiting)
-  slot: 4
+  slot: 10
   # Item in Kit Selector (ID:Data)
-  item: WEB
+  item: BRICK
 
 # Description of the kit
 contents:
-  - 15 webs
-  - Leather helmet &7(&cRed&7)
-  - Leather tunic &7(&9Blue&7)
-  - Leather leggings &7(&cRed&7)
-  - Leather boots &7(&9Blue&7)
-  - Jump boost potion
+  - '&f'
+  - '&fEste equipamiento es ideal para quienes'
+  - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
+  - '&f'
+  - '&8▪ &fx64 Ladrillos'
+  - '&f'
+  - '&fPrecio: &e0 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -30,9 +31,4 @@ contents:
 #     leather_color:R-G-B  (R,G,B values from 0 to 255)
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
-  - WEB,15
-  - LEATHER_HELMET,leather_color:255-0-0
-  - LEATHER_CHESTPLATE,leather_color:0-0-255
-  - LEATHER_LEGGINGS,leather_color:255-0-0
-  - LEATHER_BOOTS,leather_color:0-0-255
-  - POTION,potion:JUMP:false:false
+  - BRICK,64

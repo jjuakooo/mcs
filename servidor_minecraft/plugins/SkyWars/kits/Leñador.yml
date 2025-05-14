@@ -1,22 +1,24 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 1000
+price: 1500
 
 icon:
   # Slot in the Kit Selector (Waiting)
-  slot: 15
+  slot: 14
   # Item in Kit Selector (ID:Data)
-  item: ENDER_PEARL
+  item: STONE_AXE,glowing
 
 # Description of the kit
 contents:
-  - 20 End stone
-  - Leather helmet &7(&8Black&7)
-  - Leather tunic &7(&8Black&7)
-  - Leather leggings &7(&8Black&7)
-  - Leather boots &7(&8Black&7)
-  - 2 ender pearls
+  - '&f'
+  - '&fEste equipamiento es ideal para quienes'
+  - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
+  - '&f'
+  - '&8▪ &fx1 Hacha de piedra &7(Filo II, Eficiencia III)'
+  - '&8▪ &fx10 Troncos de madera'
+  - '&f'
+  - '&fPrecio: &e1500 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -30,9 +32,5 @@ contents:
 #     leather_color:R-G-B  (R,G,B values from 0 to 255)
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
-  - ENDER_STONE,20
-  - LEATHER_HELMET,leather_color:0-0-0
-  - LEATHER_CHESTPLATE,leather_color:0-0-0
-  - LEATHER_LEGGINGS,leather_color:0-0-0
-  - LEATHER_BOOTS,leather_color:0-0-0
-  - ENDER_PEARL,2
+  - STONE_AXE,DAMAGE_ALL:2,DIG_SPEED:3
+  - LOG,10

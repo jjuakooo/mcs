@@ -1,20 +1,24 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 500
+price: 6000
 
 icon:
   # Slot in the Kit Selector (Waiting)
-  slot: 8
+  slot: 25
   # Item in Kit Selector (ID:Data)
-  item: GOLD_HOE
+  item: STICK
 
 # Description of the kit
 contents:
-  - Golden hoe &7(Fire aspect I)
-  - Golden pants &7(Protection I)
-  - 3 Golden carrots
-  - 5 chicken spawners
+  - '&f'
+  - '&fEste equipamiento es ideal para quienes'
+  - '&fquieren divertirse un rato.'
+  - '&f'
+  - '&8▪ &fx1 Palo &7(Empuje II)'
+  - '&8▪ &fx1 Poción de velocidad &7(1 minuto)'
+  - '&f'
+  - '&fPrecio: &e6000 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -28,7 +32,5 @@ contents:
 #     leather_color:R-G-B  (R,G,B values from 0 to 255)
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
-  - GOLD_HOE,FIRE_ASPECT
-  - GOLD_LEGGINGS,PROTECTION_ENVIRONMENTAL
-  - GOLDEN_CARROT,3
-  - MONSTER_EGG:93,5
+  - STICK,KNOCKBACK:2
+  - POTION,potion:SPEED:false:false

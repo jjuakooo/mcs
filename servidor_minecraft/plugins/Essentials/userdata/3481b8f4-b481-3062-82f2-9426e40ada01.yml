@@ -1,20 +1,20 @@
 lastAccountName: joakoooe
 timestamps:
-  login: 1747104352865
-  lastteleport: 1747104903252
-  logout: 1747105281349
+  login: 1747201107957
+  lastteleport: 1714775256012
+  logout: 1747195806202
 ipAddress: 127.205.147.108
 lastlocation:
-  world: Cajas
-  x: 24.03776469554655
-  y: 9.870444999407974
-  z: 33.38739927234156
-  yaw: -9.001991
-  pitch: -10.500145
+  world: Temple
+  x: 989.0039400312929
+  y: -6.514931815469888
+  z: -29.215973875808878
+  yaw: -211.80243
+  pitch: 18.30022
 logoutlocation:
   world: Lobby-Sw
-  x: -702.5
-  y: 31.0
-  z: 462.5
-  yaw: 1.0495663
-  pitch: -0.9
+  x: -694.9333587478905
+  y: 29.0
+  z: 473.19731721762724
+  yaw: -47.250458
+  pitch: 29.549963

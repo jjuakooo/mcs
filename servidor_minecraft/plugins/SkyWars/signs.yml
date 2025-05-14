@@ -21,7 +21,7 @@ format:
   searching:
     - '&l----------'
     - Buscando
-    - Juegos
+    - juegos
     - '&l----------'
 
 # The block that will be placed on the wall depending of the arena state (change_block must be enabled)

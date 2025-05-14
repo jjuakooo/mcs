@@ -27,77 +27,72 @@ shop_size: 6
 
 main:
   # main_name: Main Menu Title
-  main_name: '&fSkyWars Shop'
+  main_name: 'Menú principal'
   items:
     '51':
-      item: 340
-      name: '&9Close menu'
+      item: 431
+      name: '&cCerrar menú'
       lore:
-        - '&7Close the shopping'
-        - '&7menu.'
       action: CLOSE
 
 all:
   '49':
-    item: 395
-    name: '&6Total points: &a%coins%'
+    item: 371
+    name: '&8◆ &aMonedas actuales: %coins%'
     lore:
-      - '&5Earn point from'
-      - '&5playing games'
+      - '&8Información'
+      - ''
+      - '&fCon las monedas, podrás comprar diversos'
+      - '&fobjetos los cuales te ayudarán en partida.'
+      - ''
+      - '&e▸ ¡Juega para obtener monedas!'
     action: CLOSE
 
 allsubmenus:
   '50':
-    item: 340
-    name: '&9Back'
+    item: 262
+    name: '&cVolver atrás'
     lore:
-      - '&7Go back to the shopping menu'
+      - '&7Click para regresar al menú anterior'
     action: MAIN
 
 submenus:
   '23':
-    sub_name: '&fSkyWars Kits'
-    item: 265
-    name: '&eSkyWars Kits'
+    sub_name: 'Kits'
+    item: 276
+    name: '&aKits'
     lore:
-      - '&7Purchase SkyWars kits'
+      - '&8Acceso directo'
+      - ''
+      - '&fCrea tu propia forma de juego con los'
+      - '&fdiversos equipamientos que te ofrecemos.'
+      - ''
+      - '&e▸ Click para abrir el menú'
     content:
       '11':
-        item: KIT,Fisherman
+        item: KIT,Rusher
       '12':
-        item: KIT,Lumberjack
+        item: KIT,Manzana
       '13':
-        item: KIT,Spiderman
+        item: KIT,Leñador
       '14':
-        item: KIT,Blacksmith
+        item: KIT,Enderpearl
       '15':
-        item: KIT,Digger
+        item: KIT,Espadachin
       '16':
-        item: KIT,Redstone_master
+        item: KIT,Pirotecnico
       '17':
-        item: KIT,Farmer
+        item: KIT,Explosion
       '20':
-        item: KIT,Chicken
+        item: KIT,Huevos
       '21':
-        item: KIT,Joker
+        item: KIT,Armadura
       '22':
-        item: KIT,Scout
+        item: KIT,Cazador
       '23':
-        item: KIT,Pyromaniac
+        item: KIT,Encantador
       '24':
-        item: KIT,Archer
-      '25':
-        item: KIT,Enchanter
-      '26':
-        item: KIT,Enderman
-      '30':
-        item: KIT,Iron_golem
-      '31':
-        item: KIT,Healer
-      '32':
-        item: KIT,Bomber
-      '33':
-        item: KIT,Swordsman
+        item: KIT,Molestoso
 
 submenu:
   abilities:
