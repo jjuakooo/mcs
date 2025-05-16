@@ -27,13 +27,13 @@ unlimited-nametag-prefix-suffix-mode:
   hide-if-sneaking: true
 header:
 - '&8&m<------------------------------>'
-- '&b&lHyperMC &8| &fSkyWars'
+- '&b&lHyperMC &8| &fServidor'
 - '&fConectados: &b%online% &8| &fPing: &b%ping%'
 - ''
 footer:
 - ''
-- '&fDiscord: &b...'
-- '&fTienda: &b...'
+- '&fDiscord: &bPróximamente...'
+- '&fTienda: &bPróximamente...'
 - '&8&m<------------------------------>'
 use-essentials-nickname: false
 deluxetag-empty-value: ''
@@ -45,12 +45,11 @@ group-sorting-priority-list:
 - Owner
 - Admin
 - Mod
-- Helper
-- Builder
+- Ayudante
 - VIP
 - VIP+
 - YouTuber
-- Famous
+- Famoso
 - Usuario
 staff-groups:
 - Owner
@@ -68,17 +67,14 @@ Groups:
   Mod:
     tabprefix: '&b&lMOD &8| &f'
     tagprefix: '&b'
-  Helper:
+  Ayudante:
     tabprefix: '&9&lHELPER &8| &f'
     tagprefix: '&9'
-  Builder:
-    tabprefix: '&3&lBUILDER &8| &f'
-    tagprefix: '&3'
   VIP:
     tabprefix: '&a&lVIP &8| &f'
     tagprefix: '&a'
   VIP+:
-    tabprefix: '&e&lVIP+ &8| &f'
+    tabprefix: '&a&lVIP&e&l+ &8| &f'
     tagprefix: '&e'
   YouTuber:
     tabprefix: '&6&lYT &8| &f'

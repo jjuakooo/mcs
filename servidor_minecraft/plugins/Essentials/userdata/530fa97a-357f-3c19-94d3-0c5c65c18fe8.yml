@@ -1,20 +1,20 @@
 timestamps:
-  lastteleport: 1747416319154
+  lastteleport: 1747416865130
   login: 1747415917343
-  logout: 1747414255541
+  logout: 1747416875129
 lastlocation:
-  world: Lobby-Sw
-  x: -690.7595390931102
-  y: 29.0
-  z: 490.69999998807907
-  yaw: -14.999992
-  pitch: 27.899982
+  world: Lobby-1vs1
+  x: 8.566823012268129
+  y: 9.0
+  z: -6.108320819807497
+  yaw: -2.498811
+  pitch: 17.959469
 lastAccountName: test
 ipAddress: 127.205.147.108
 logoutlocation:
-  world: Lobby-Auth
-  x: 56.44080145767871
-  y: 4.0
-  z: -74.19555052346112
-  yaw: 31.350313
-  pitch: 20.549976
+  world: Lobby-Sw
+  x: -690.3112539494579
+  y: 28.0
+  z: 489.69999998807907
+  yaw: -56.69987
+  pitch: 27.299986

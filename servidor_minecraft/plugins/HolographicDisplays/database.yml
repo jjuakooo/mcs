@@ -1,5 +1,5 @@
 '1':
-  location: Lobby-Sw, -702.510, 33.040, 470.497
+  location: Lobby-Auth, 60.500, 6.739, -71.057
   lines:
   - Bienvenido &7{player}&f!
   - Al servidor &b&lHyperMC

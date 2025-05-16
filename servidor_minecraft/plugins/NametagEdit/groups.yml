@@ -1,42 +1,42 @@
 Groups:
   Owner:
     Permission: nte.owner
-    Prefix: '&4&lOWNER &8| &f'
+    Prefix: '&4'
     Suffix: ''
     SortPriority: 1
   Admin:
     Permission: nte.admin
-    Prefix: '&c&lADMIN &8| &f'
+    Prefix: '&c'
     Suffix: ''
     SortPriority: 2
   Mod:
     Permission: nte.mod
-    Prefix: '&b&lMOD &8| &f'
+    Prefix: '&b'
     Suffix: ''
     SortPriority: 3
   Ayudante:
     Permission: nte.ayudante
-    Prefix: '&9&lAYUDANTE &8| &f'
+    Prefix: '&9'
     Suffix: ''
     SortPriority: 4
   VIP:
     Permission: nte.vip
-    Prefix: '&a&lVIP &8| &f'
+    Prefix: '&a'
     Suffix: ''
     SortPriority: 5
   VIP2:
     Permission: nte.vip2
-    Prefix: '&a&lVIP&e&l+ &8| &f'
+    Prefix: '&e'
     Suffix: ''
     SortPriority: 6
   YouTuber:
     Permission: nte.youtuber
-    Prefix: '&6&lYT &8| &f'
+    Prefix: '&6'
     Suffix: ''
     SortPriority: 7
   Famoso:
     Permission: nte.famoso
-    Prefix: '&d&lFAMOSO &8| &f'
+    Prefix: '&d'
     Suffix: ''
     SortPriority: 8
   Usuario:
