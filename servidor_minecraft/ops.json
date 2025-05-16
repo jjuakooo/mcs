@@ -1,7 +1,13 @@
 [
   {
-    "uuid": "578082d2-5a24-3bf3-b00d-4d87e639405f",
-    "name": "Dantehl",
+    "uuid": "a76012bc-a9ff-358c-b2af-4a73a6c4b148",
+    "name": "zTraksh",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "20661614-89d0-38bd-8fc3-6f568619457b",
+    "name": "trakzz",
     "level": 4,
     "bypassesPlayerLimit": false
   },

@@ -1,0 +1,80 @@
+menu-settings:
+  name: '&8Arenas disponibles'
+  rows: 3
+  commands:
+  - arenas
+  auto-refresh: 5
+  open-actions:
+  - ''
+  open-with-item:
+    material: 7
+    left-click: false
+    right-click: false
+Clasico1:
+  ACTIONS:
+  - 1vs1 join Classic-1
+  NAME: '&2&lClásico'
+  LORE:
+  - '&7▸ ¡Click para unirte a la cola!'
+  MATERIAL: dye
+  POSITION-X: 3
+  POSITION-Y: 2
+  DURABILITY: 2
+Clasico2:
+  ACTIONS:
+  - 1vs1 join Classic-2
+  NAME: '&c&lClásico'
+  LORE:
+  - '&7▸ ¡Click para unirte a la cola!'
+  MATERIAL: dye
+  POSITION-X: 4
+  POSITION-Y: 2
+  DURABILITY: 1
+Clasico3:
+  ACTIONS:
+  - 1vs1 join Classic-3
+  NAME: '&e&lClásico'
+  LORE:
+  - '&7▸ ¡Click para unirte a la cola!'
+  MATERIAL: dye
+  POSITION-X: 5
+  POSITION-Y: 2
+  DURABILITY: 11
+Clasico4:
+  ACTIONS:
+  - 1vs1 join Classic-4
+  NAME: '&5&lClásico'
+  LORE:
+  - '&7▸ ¡Click para unirte a la cola!'
+  MATERIAL: dye
+  POSITION-X: 6
+  POSITION-Y: 2
+  DURABILITY: 5
+Clasico5:
+  ACTIONS:
+  - 1vs1 join Classic-5
+  NAME: '&6&lClásico'
+  LORE:
+  - '&7▸ ¡Click para unirte a la cola!'
+  MATERIAL: dye
+  POSITION-X: 7
+  POSITION-Y: 2
+  DURABILITY: 14
+Salir:
+  ACTIONS:
+  - 1vs1 leave
+  NAME: '&7▸ &c&lSalir de la cola'
+  LORE:
+  - '&7▸ Click para salir de la cola!'
+  MATERIAL: snowball
+  POSITION-X: 1
+  POSITION-Y: 2
+Top:
+  ACTIONS:
+  - 1vs1 top ten
+  NAME: '&f&lTop 10'
+  LORE:
+  - '&7▸ ¡Click para ver el Top 10!'
+  MATERIAL: snowball
+  POSITION-X: 9
+  POSITION-Y: 2

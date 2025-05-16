@@ -1,58 +1,30 @@
-######################
-#+                  +#
-#   MENU SETTINGS    #
-#+                  +#
-######################
-
 menu-settings:
-
-  # name - appears as the title - REQUIRED
   name: '&8Opciones'
-
-  # rows - the number of rows of the chest - REQUIRED
   rows: 3
-
-  # command - OPTIONAL (you can remove this or set it to '')
-  # Bind multiple commands using ; (command: 'menu; m; me')
-  command: 'opciones'
-
-  # auto-refresh - OPTIONAL
-  # How frequently the menu will be refreshed, in seconds.
-  # Useful if you have variables in items' descriptions.
+  commands:
+  - opciones
   auto-refresh: 5
-
-  # This command command will be execute when the menu is opened.
-  # Supports all the icon command types.
-  open-action: ''
-
-  # open-with-item - OPTIONAL
-  # The menu will open only right-clicking with orange wool [35:1]
+  open-actions:
+  - ''
   open-with-item:
-    id: 7
+    material: 7
     left-click: false
     right-click: false
-
-
-######################
-#+                  +#
-#       ITEMS        #
-#+                  +#
-######################
-
-
 vuelo:
-  COMMAND: 'fly'
-  NAME: '&bModo vuelo &8| &a&lVIP'
+  ACTIONS:
+  - fly
+  NAME: '&a&lModo vuelo'
   LORE:
-    - '&fClick para activar/desactivar!'
-  ID: feather
+  - '&7▸ ¡Click para activar/desactivar!'
+  MATERIAL: potion
   POSITION-X: 4
   POSITION-Y: 2
 recompensa:
-  COMMAND: 'reward'
-  NAME: '&bRecompensa diaria'
+  ACTIONS:
+  - reward
+  NAME: '&a&lRecompensa diaria'
   LORE:
-    - '&fClick para recibirla!'
-  ID: diamond
+  - '&7▸ ¡Click para recibirla!'
+  MATERIAL: diamond
   POSITION-X: 6
   POSITION-Y: 2

@@ -14,7 +14,7 @@ regions:
         min: {x: 9.0, y: 3.0, z: -97.0}
         max: {x: 88.0, y: 43.0, z: -17.0}
         members: {}
-        flags: {item-drop: deny, fly: deny, invincible: allow, use: deny, mob-spawning: deny}
+        flags: {item-drop: deny, fly: deny, use: deny, invincible: allow, mob-spawning: deny}
         owners: {}
         type: cuboid
         priority: 0

@@ -29,10 +29,16 @@
 
 lobby:
   # Enable or disable Lobby Scoreboard
-  enabled: true
+  enabled: false
   # Lobby Scoreboard blacklist (Disabled worlds)
   disabledWorlds:
-    - world
+    - Classic-1
+    - Classic-2
+    - Classic-3
+    - Classic-4
+    - Classic-5
+    - Lobby-Auth
+    - Lobby-1vs1
   # Lobby Scoreboard title
   title: '&b&lSkyWars'
   # Lobby Scoreboard lines (Max: 16)

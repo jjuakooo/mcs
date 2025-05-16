@@ -4,35 +4,340 @@ groups:
       default: true
     permissions:
     - modifyworld.*
+    - nte.usuario
+    - chestcommands.open.Vidrios.yml
+    - chestcommands.open.Selector.yml
     - chestcommands.open.Opciones.yml
+    - chestcommands.open.Arenas.yml
+    - chestcommands.open.Modalidades.yml
     - skywars.cmd.open.lshop
     - skywars.box.default
     - dr.1
     - essentials.spawn
-    - essentials.msg
     - essentials.tell
-  Owner: {}
-  Admin: {}
-  Mod: {}
-  Helper: {}
-  VIP: {}
-  VIP+: {}
-  YouTuber: {}
-  Famous: {}
+    - essentials.warp
+    - report.report
+  Owner:
+    permissions:
+    - modifyworld.*
+    - skywars.admin
+    - skywars.vip.talk
+    - skywars.vip.coin.3
+    - worldedit.*
+    - nte.owner
+    - chestcommands.open.Vidrios.yml
+    - chestcommands.open.Selector.yml
+    - chestcommands.open.Opciones.yml
+    - chestcommands.open.Arenas.yml
+    - chestcommands.open.Modalidades.yml
+    - skywars.cmd.open.lshop
+    - skywars.vote.chest.*
+    - skywars.settings.colour.*
+    - skywars.settings.trail.*
+    - skywars.vote.time.*
+    - dr.1
+    - dr.2
+    - dr.3
+    - essentials.*
+    - essentials.op
+    - ab.kick.use
+    - ab.kick.exempt
+    - ab.notify.kick
+    - ab.ban.perma
+    - ab.ban.temp
+    - ab.ban.undo
+    - ab.ban.exempt
+    - ab.notify.ban
+    - ab.undoNotify.ban
+    - ab.notify.tempban
+    - ab.ipban.perma
+    - ab.ipban.temp
+    - ab.notify.ipban
+    - ab.tempipban.exempt
+    - ab.notify.tempipban
+    - ab.mute.perma
+    - ab.mute.temp
+    - ab.mute.undo
+    - ab.mute.exempt
+    - ab.notify.mute
+    - ab.undoNotify.mute
+    - ab.notify.tempmute
+    - ab.warn.perma
+    - ab.warn.temp
+    - ab.warn.undo
+    - ab.warn.exempt
+    - ab.notify.warn
+    - ab.undoNotify.warn
+    - ab.notify.tempwarn
+    - ab.note.use
+    - ab.note.undo
+    - ab.note.exempt
+    - ab.notify.note
+    - ab.undoNotify.note
+    - ab.all.undo
+    - ab.warns.own
+    - ab.warns.other
+    - ab.notes.own
+    - ab.notes.other
+    - ab.check
+    - ab.check.ip
+    - ab.changeReason
+    - ab.banlist
+    - ab.history
+    - ab.reload
+    - ab.help
+    - ab.systemprefs
+    - report.notify
+    - report.report
+  Admin:
+    permissions:
+    - modifyworld.*
+    - skywars.admin
+    - skywars.vip.talk
+    - skywars.vip.coin.2
+    - worldedit.*
+    - nte.admin
+    - skywars.vote.chest.*
+    - skywars.settings.colour.*
+    - skywars.settings.trail.*
+    - skywars.vote.time.*
+    - chestcommands.open.Vidrios.yml
+    - chestcommands.open.Selector.yml
+    - chestcommands.open.Opciones.yml
+    - chestcommands.open.Arenas.yml
+    - chestcommands.open.Modalidades.yml
+    - skywars.cmd.open.lshop
+    - dr.2
+    - essentials.spawn
+    - essentials.tell
+    - essentials.fly
+    - essentials.nick
+    - essentials.gamemode
+    - essentials.vanish
+    - essentials.warp
+    - freezegui.use
+    - ab.kick.use
+    - ab.kick.exempt
+    - ab.notify.kick
+    - ab.ban.perma
+    - ab.ban.temp
+    - ab.ban.undo
+    - ab.ban.exempt
+    - ab.notify.ban
+    - ab.undoNotify.ban
+    - ab.notify.tempban
+    - ab.ipban.perma
+    - ab.ipban.temp
+    - ab.notify.ipban
+    - ab.tempipban.exempt
+    - ab.notify.tempipban
+    - ab.mute.perma
+    - ab.mute.temp
+    - ab.mute.undo
+    - ab.mute.exempt
+    - ab.notify.mute
+    - ab.undoNotify.mute
+    - ab.notify.tempmute
+    - ab.warn.perma
+    - ab.warn.temp
+    - ab.warn.undo
+    - ab.warn.exempt
+    - ab.notify.warn
+    - ab.undoNotify.warn
+    - ab.notify.tempwarn
+    - ab.note.use
+    - ab.note.undo
+    - ab.note.exempt
+    - ab.notify.note
+    - ab.undoNotify.note
+    - ab.all.undo
+    - ab.warns.own
+    - ab.warns.other
+    - ab.notes.own
+    - ab.notes.other
+    - ab.check
+    - ab.check.ip
+    - ab.changeReason
+    - ab.banlist
+    - ab.history
+    - report.notify
+    - report.report
+  Mod:
+    permissions:
+    - modifyworld.*
+    - nte.mod
+    - skywars.vip.talk
+    - chestcommands.open.Vidrios.yml
+    - chestcommands.open.Selector.yml
+    - chestcommands.open.Opciones.yml
+    - chestcommands.open.Arenas.yml
+    - chestcommands.open.Modalidades.yml
+    - skywars.cmd.open.lshop
+    - skywars.settings.colour.*
+    - dr.2
+    - essentials.spawn
+    - essentials.tell
+    - essentials.fly
+    - essentials.vanish
+    - essentials.warp
+    - freezegui.use
+    - ab.kick.use
+    - ab.kick.exempt
+    - ab.notify.kick
+    - ab.ban.perma
+    - ab.ban.temp
+    - ab.ban.undo
+    - ab.ban.exempt
+    - ab.notify.ban
+    - ab.undoNotify.ban
+    - ab.notify.tempban
+    - ab.ipban.perma
+    - ab.ipban.temp
+    - ab.notify.ipban
+    - ab.tempipban.exempt
+    - ab.notify.tempipban
+    - ab.mute.perma
+    - ab.mute.temp
+    - ab.mute.undo
+    - ab.mute.exempt
+    - ab.notify.mute
+    - ab.undoNotify.mute
+    - ab.notify.tempmute
+    - ab.warn.perma
+    - ab.warn.temp
+    - ab.warn.undo
+    - ab.warn.exempt
+    - ab.changeReason
+    - ab.banlist
+    - ab.history
+    - report.notify
+    - report.report
+  Ayudante:
+    permissions:
+    - modifyworld.*
+    - nte.ayudante
+    - chestcommands.open.Vidrios.yml
+    - chestcommands.open.Selector.yml
+    - chestcommands.open.Opciones.yml
+    - chestcommands.open.Arenas.yml
+    - chestcommands.open.Modalidades.yml
+    - skywars.cmd.open.lshop
+    - skywars.box.default
+    - skywars.settings.colour.*
+    - dr.2
+    - essentials.spawn
+    - essentials.tell
+    - essentials.fly
+    - essentials.warp
+    - ab.kick.use
+    - ab.kick.exempt
+    - ab.notify.kick
+    - ab.warn.perma
+    - ab.warn.temp
+    - ab.warn.undo
+    - ab.mute.perma
+    - ab.mute.temp
+    - ab.mute.undo
+    - ab.mute.exempt
+    - ab.notify.mute
+    - ab.undoNotify.mute
+    - ab.notify.tempmute
+    - report.notify
+    - report.report
+  VIP:
+    permissions:
+    - modifyworld.*
+    - nte.vip
+    - skywars.vip.talk
+    - skywars.vip.coin.2
+    - chestcommands.open.Vidrios.yml
+    - chestcommands.open.Selector.yml
+    - chestcommands.open.Opciones.yml
+    - chestcommands.open.Arenas.yml
+    - chestcommands.open.Modalidades.yml
+    - skywars.cmd.open.lshop
+    - skywars.settings.colour.*
+    - skywars.vote.chest.*
+    - dr.2
+    - essentials.spawn
+    - essentials.tell
+    - essentials.fly
+    - essentials.warp
+    - report.report
+  VIP+:
+    permissions:
+    - modifyworld.*
+    - nte.vip+
+    - skywars.vip.talk
+    - skywars.vip.coin.3
+    - chestcommands.open.Vidrios.yml
+    - chestcommands.open.Selector.yml
+    - chestcommands.open.Opciones.yml
+    - chestcommands.open.Arenas.yml
+    - chestcommands.open.Modalidades.yml
+    - skywars.cmd.open.lshop
+    - skywars.vote.chest.*
+    - skywars.settings.colour.*
+    - skywars.settings.trail.*
+    - skywars.vote.time.*
+    - dr.3
+    - essentials.spawn
+    - essentials.tell
+    - essentials.fly
+    - essentials.nick
+    - essentials.warp
+    - report.report
+  YouTuber:
+    permissions:
+    - modifyworld.*
+    - nte.youtuber
+    - chestcommands.open.Vidrios.yml
+    - chestcommands.open.Selector.yml
+    - chestcommands.open.Opciones.yml
+    - chestcommands.open.Arenas.yml
+    - chestcommands.open.Modalidades.yml
+    - skywars.cmd.open.lshop
+    - skywars.vote.chest.*
+    - skywars.settings.colour.*
+    - skywars.settings.trail.*
+    - skywars.vote.time.*
+    - dr.1
+    - essentials.spawn
+    - essentials.tell
+    - essentials.fly
+    - essentials.warp
+    - report.report
+  Famoso:
+    permissions:
+    - modifyworld.*
+    - nte.famoso
+    - chestcommands.open.Vidrios.yml
+    - chestcommands.open.Selector.yml
+    - chestcommands.open.Opciones.yml
+    - chestcommands.open.Arenas.yml
+    - chestcommands.open.Modalidades.yml
+    - skywars.cmd.open.lshop
+    - skywars.vote.chest.*
+    - skywars.settings.colour.*
+    - skywars.settings.trail.*
+    - skywars.vote.time.*
+    - dr.1
+    - essentials.spawn
+    - essentials.tell
+    - essentials.fly
+    - essentials.warp
+    - report.report
 schema-version: 1
 users:
-  a76012bc-a9ff-358c-b2af-4a73a6c4b148:
-    group:
-    - Usuario
-    options:
-      name: zTraksh
-  20661614-89d0-38bd-8fc3-6f568619457b:
+  3481b8f4-b481-3062-82f2-9426e40ada01:
     group:
     - Owner
     options:
-      name: trakzz
-  3481b8f4-b481-3062-82f2-9426e40ada01:
-    group:
-    - Usuario
-    options:
       name: joakoooe
+    permissions:
+    - skywars.settings.colour.rojo
+  530fa97a-357f-3c19-94d3-0c5c65c18fe8:
+    permissions:
+    - skywars.settings.colour.rojo
+    options:
+      name: test

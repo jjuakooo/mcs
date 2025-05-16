@@ -35,14 +35,14 @@ maxtime: 1200
 
 # Lobby coords [MultiArena/Lobby]
 # type /sw lobbyspawn to set the Lobby Spawn
-spawn: Lobby-Sw,-702.5,31.0,462.5,0,0.4495663
+spawn: Lobby-Sw,-702.5,31.0,462.5,0,0.3000602
 
 # Lobby server list for random tp (BUNGEECORD SERVERS)
 lobbies_servers:
   - Lobby
 
 # max slots used per generated chest (IN GAME)
-max_items_types_chest: 15
+max_items_types_chest: 11
 
 economy:
   # Economy types:
@@ -78,9 +78,9 @@ item:
   # Format:   SLOT ITEM_NAME
   # SLOT From 1 to 9 (hotbar)
   # If you want to edit Shop item in Lobby go to shop.yml
-  kits: 1 PAPER
-  settings: 2 DIAMOND
-  vote: 3 EMPTY_MAP
+  kits: 1 BOW
+  settings: 2 PAPER
+  vote: 5 BLAZE_POWDER
   exit: 9 BED
 
 menu:
@@ -143,7 +143,7 @@ options:
   # save inventory when player join to the game and restored when leave
   saveInventory: true
   # force teleport to spawn when a player join
-  forceLobbySpawn: true
+  forceLobbySpawn: false
   # sequencial spawn points in arena
   orderedSpawnPoints: true
   # disable pvp in Lobby world

@@ -11,3 +11,6 @@ NPCS:
   '3':
     Commands:
     - 1~~~selector~~~noPerm~~~BOTH~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false
+  '4':
+    Commands:
+    - 1~~~vidrios~~~noPerm~~~BOTH~~~~~~false~~~false~~~false~~~0.0~~~0~~~0~~~false~~~false

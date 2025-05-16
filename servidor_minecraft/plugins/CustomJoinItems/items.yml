@@ -1,7 +1,35 @@
-Jugar:
-  name: '&b&lPartida Aleatoria &7(Click derecho)'
-  id: 267
+Modalidades:
+  name: '&b&lModalidades &8| &f(Click derecho)'
+  id: 403
   slot: 1
+  data-value: 0
+  lore:
+  command: 'modalidades'
+  cooldown-seconds: 0
+  give-at-respawn: true
+  first-join-only: true
+  allow-drop: false
+  block-movement: true
+  disabled-worlds: world_nether, world_the_end, world, Classic-1, Classic-2, Classic-3, Classic-4, Classic-5, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo
+  give-on-world-change: true
+Arenas:
+  name: '&9&lArenas &8| &f(Click derecho)'
+  id: 388
+  slot: 2
+  data-value: 0
+  lore:
+  command: 'arenas'
+  cooldown-seconds: 0
+  give-at-respawn: true
+  first-join-only: true
+  allow-drop: false
+  block-movement: true
+  disabled-worlds: world_nether, world_the_end, world, Classic-1, Classic-2, Classic-3, Classic-4, Classic-5, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo, Lobby-Auth, Lobby-Sw
+  give-on-world-change: true
+Jugar:
+  name: '&6&lPartida aleatoria &8| &f(Click derecho)'
+  id: 267
+  slot: 2
   data-value: 0
   lore:
   command: 'sw join'
@@ -10,12 +38,12 @@ Jugar:
   first-join-only: true
   allow-drop: false
   block-movement: true
-  disabled-worlds: world_nether, world_the_end, world, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo
+  disabled-worlds: world_nether, world_the_end, world, Classic-1, Classic-2, Classic-3, Classic-4, Classic-5, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo, Lobby-Auth, Lobby-1vs1
   give-on-world-change: true
 Tienda:
-  name: '&b&lTienda &7(Click derecho)'
-  id: 369
-  slot: 2
+  name: '&d&lTienda &8| &f(Click derecho)'
+  id: 130
+  slot: 5
   data-value: 0
   lore:
   command: 'sw open lshop'
@@ -24,26 +52,12 @@ Tienda:
   first-join-only: true
   allow-drop: false
   block-movement: true
-  disabled-worlds: world_nether, world_the_end, world, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo
-  give-on-world-change: true
-Musica:
-  name: '&b&lMusica &7(Click derecho)'
-  id: 84
-  slot: 5
-  data-value: 0
-  lore:
-  command: 'music'
-  cooldown-seconds: 0
-  give-at-respawn: true
-  first-join-only: true
-  allow-drop: false
-  block-movement: true
-  disabled-worlds: world_nether, world_the_end, world, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo
+  disabled-worlds: world_nether, world_the_end, world, Classic-1, Classic-2, Classic-3, Classic-4, Classic-5, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo, Lobby-Auth, Lobby-1vs1
   give-on-world-change: true
 Opciones:
-  name: '&b&lOpciones &7(Click derecho)'
-  id: 288
-  slot: 8
+  name: '&e&lMenú interactivo &8| &f(Click derecho)'
+  id: 399
+  slot: 9
   data-value: 0
   lore:
   command: 'opciones' 
@@ -52,19 +66,5 @@ Opciones:
   first-join-only: true
   allow-drop: false
   block-movement: true
-  disabled-worlds: world_nether, world_the_end, world, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo
-  give-on-world-change: true
-Rangos:
-  name: '&b&lRangos &7(Click derecho)'
-  id: 351
-  slot: 9
-  data-value: 10
-  lore:
-  command: 'rangos'
-  cooldown-seconds: 0
-  give-at-respawn: true
-  first-join-only: true
-  allow-drop: false
-  block-movement: true
-  disabled-worlds: world_nether, world_the_end, world, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo
+  disabled-worlds: world_nether, world_the_end, world, Classic-1, Classic-2, Classic-3, Classic-4, Classic-5, Tron, Trees, Time, Temple, Paris, Savannah, Desert, Jungle, Music, Bamboo, Lobby-Auth, Lobby-1vs1
   give-on-world-change: true

@@ -1,20 +1,20 @@
-lastAccountName: trakzz
 timestamps:
-  login: 1658794457688
-  lastteleport: 1658794915147
-  logout: 1658794978525
-ipAddress: 127.0.0.1
+  lastteleport: 1658791948805
+  login: 1658791616354
+  logout: 1658792006152
 lastlocation:
-  world: Desert
-  x: 46960.49696632958
-  y: 31.89808165665307
-  z: 27.79914522501652
-  yaw: -19.950068
-  pitch: 9.750138
+  world: Lobby-Auth
+  x: 58.30615192295749
+  y: 5.0
+  z: -75.73826867245609
+  yaw: -304.50143
+  pitch: 13.049954
+lastAccountName: trakzz
+ipAddress: 127.0.0.1
 logoutlocation:
   world: Lobby-Sw
-  x: -701.2121463678972
-  y: 28.0
-  z: 485.7894831628586
-  yaw: -285.15
-  pitch: 7.0498734
+  x: -224.46925887843145
+  y: 5.5
+  z: 128.2695694459168
+  yaw: -87.10171
+  pitch: 22.800009

@@ -1,8 +1,8 @@
 spawns: 
   default: 
-    world: Lobby-Sw
-    x: -702.5
-    y: 31.0
-    z: 462.5
-    yaw: 0.4495663
-    pitch: -8.040666E-6
+    world: Lobby-Auth
+    x: 60.51293713903697
+    y: 5.0
+    z: -52.539456585975195
+    yaw: 180.00055
+    pitch: -0.15000488

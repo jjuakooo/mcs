@@ -94,6 +94,3 @@ cajas:
 hojas:
   time: 'off'
   weather: 'off'
-world_nether:
-  time: 'off'
-  weather: 'off'

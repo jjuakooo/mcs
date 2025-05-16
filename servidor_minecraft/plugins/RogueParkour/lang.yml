@@ -2,7 +2,8 @@ version: 0
 PREFIX: '&b&lPARKOUR &8| &f'
 YOUHAVE: '&fTu propio record es de &b{points} &fpuntos'
 YOUSCORED: '&fHas llegado hasta los &b{points} &fpuntos'
-RECORD: '&fRompiste tu propio record de &b{oldpoints} &fpuntos con &b{newpoints} &fpuntos!'
-YOULOSE: '&fTe has caido..'
+RECORD: '&fRompiste tu propio record de &b{oldpoints} &fpuntos, ahora alcanzando los
+  &b{newpoints} &fpuntos!'
+YOULOSE: '&fTe has caído..'
 NOPERM: '&fNo tienes permisos'
-FULL: '&fEl parkour esta lleno, intentalo de nuevo mas tarde'
+FULL: '&fEl parkour está lleno, inténtalo de nuevo más tarde'

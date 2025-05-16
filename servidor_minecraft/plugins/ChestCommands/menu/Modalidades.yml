@@ -1,0 +1,39 @@
+menu-settings:
+  name: '&8Selector de modalidades'
+  rows: 1
+  commands:
+  - modalidades
+  auto-refresh: 5
+  open-actions:
+  - ''
+  open-with-item:
+    material: 7
+    left-click: false
+    right-click: false
+skywars:
+  ACTIONS:
+  - warp SkyWars
+  NAME: '&b&lSkyWars'
+  LORE:
+  - '&7▸ ¡Click para ir a &eSkyWars&7!'
+  MATERIAL: bow
+  POSITION-X: 1
+  POSITION-Y: 1
+1vs1:
+  ACTIONS:
+  - warp 1vs1
+  NAME: '&b&l1vs1'
+  LORE:
+  - '&7▸ ¡Click para ir a &e1vs1&7!'
+  MATERIAL: iron_sword
+  POSITION-X: 2
+  POSITION-Y: 1
+lobby:
+  ACTIONS:
+  - warp Lobby
+  NAME: '&b&lLobby'
+  LORE:
+  - '&7▸ ¡Click para ir al &eLobby&7!'
+  MATERIAL: bookshelf
+  POSITION-X: 9
+  POSITION-Y: 1

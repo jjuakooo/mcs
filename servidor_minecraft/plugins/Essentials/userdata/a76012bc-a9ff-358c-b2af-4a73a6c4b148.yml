@@ -1,16 +1,16 @@
 logoutlocation:
-  world: Paris
-  x: 18996.334471735714
-  y: 53.13294984099859
-  z: 7.125771580766806
-  yaw: -358.05008
-  pitch: 35.09999
+  world: Lobby-Auth
+  x: 58.317276809909615
+  y: 5.249187078744681
+  z: -65.48923463800301
+  yaw: 173.84985
+  pitch: 21.150019
 lastAccountName: zTraksh
 timestamps:
-  login: 1582213707171
-  lastteleport: 1582214504968
-  logout: 1582214707050
-ipAddress: 127.0.0.1
+  login: 1581797580147
+  lastteleport: 1581797590929
+  logout: 1581741048861
+ipAddress: 192.168.0.11
 homes:
   home:
     world: world
@@ -20,12 +20,12 @@ homes:
     yaw: -209.24985
     pitch: 38.54993
 lastlocation:
-  world: world
-  x: 224.0
-  y: 70.0
-  z: 256.0
-  yaw: 0.0
-  pitch: 0.0
+  world: Lobby-Auth
+  x: 59.99658438862529
+  y: 4.0
+  z: -56.502057921915465
+  yaw: 9.149967
+  pitch: 10.200002
 afk: false
 socialspy: false
 nickname: zTraksh

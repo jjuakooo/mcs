@@ -44,4 +44,4 @@ rewards:
       enabled: true
       permission: dr.3
     commands:
-    - sw coins add 30 %player
+    - sw coins add 40 %player

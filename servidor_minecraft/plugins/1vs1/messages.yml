@@ -1,0 +1,97 @@
+alreadyInQueue: '&b&l1VS1 &8| &7Ya estás en la cola de la arena &b{ARENA}. &7Numero:
+  &b{NUMBER}'
+notInQueue: '&b&l1VS1 &8| &7No estás en la cola'
+leaveQueue: '&b&l1VS1 &8| &7Has dejado la cola de la arena &b{ARENA}'
+joinQueue: '&b&l1VS1 &8| &7Ya estás en la cola de la arena &b{ARENA}. &7Número: &b{NUMBER}'
+setSpawn1: '&b&l1VS1 &8| &7El &bSpawn 1 &7ha sido colocado correctamente en la arena
+  &b{ARENA}'
+setSpawn2: '&b&l1VS1 &8| &7El &bSpawn 2 &7ha sido colocado correctamente en la arena
+  &b{ARENA}'
+winAnnounce: '&b&l1VS1 &8| &b{WINNER} &7destrozó a &b{LOSER} &7en la arena &b{ARENA}'
+alreadyInArena: '&b&l1VS1 &8| &7Ya estás en la arena &b{ARENA}'
+reload: '&b&l1VS1 &8| &bConfiguración recargada correctamente!'
+commandUseInArena: '&b&l1VS1 &8| &7No puedes usar ningún comando en la arena!'
+countdownBeforeTeleport: '&b&l1VS1 &8| &7Serás teletransportado a la arena en &b{COUNTDOWN}
+  &7segundos'
+getTeleportedIntoArena: '&b&l1VS1 &8| &aPrepárate para la batalla!'
+countdownBeforeFight: '&b&l1VS1 &8| &7Comenzando en &b{COUNTDOWN} &7segundos'
+afterPlayerFreezing: '&b&l1VS1 &8| &bA pelear!'
+cannotLeaveQueueNow: '&b&l1VS1 &8| &7No puedes dejar la cola ahora!'
+yourOpponentIsDead: '&b&l1VS1 &8| &7No se puede comenzar el 1vs1, porque tu oponente
+  esta &bmuerto!'
+youAreDead: '&b&l1VS1 &8| &7No se puede comenzar el 1vs1, porque estás &bmuerto!'
+yourOpponentLoggedOut: '&b&l1VS1 &8| &7Tu oponente se ha desconectado en la &bcuenta
+  regresiva!'
+timeLeft: '&b&l1VS1 &8| &7Tiempo restante: &b{TIME_LEFT} &7segundos'
+timeOut: '&b&l1VS1 &8| &7La batalla llevó demasiado tiempo'
+insufficientPermission: '&b&l1VS1 &8| &7No tienes permisos.'
+arenaDoesNotExist: '&b&l1VS1 &8| &7La arena &b{ARENA} &7no existe'
+arenaAlreadyExists: '&b&l1VS1 &8| &7La arena &b{ARENA} &7ya existe'
+enabledArenas: '&b&l1VS1 &8| &bArenas habilitadas: {ENABLED_ARENAS}'
+disabledArenas: '&b&l1VS1 &8| &7Arenas deshabilitadas: {DISABLED_ARENAS}'
+arenaAdded: '&b&l1VS1 &8| &7La arena &b{ARENA} &7se ha creado correctamente'
+arenaDeleted: '&b&l1VS1 &8| &7La arena &b{ARENA} &7se ha eliminado correctamente'
+arenaDisabled: '&b&l1VS1 &8| &7La arena &b{ARENA} &7esta deshabilitada'
+noEnabledArenas: '&bThere are no enabled arenas'
+invSet: '&b&l1VS1 &8| &7Inventario creado para la arena &b{ARENA}'
+prizesSet: '&bPrizes set for arena &6{ARENA}'
+arenaWasDisabled: '&b&l1VS1 &8| &7La arena &b{ARENA} &7está ahora &bdeshabilitada'
+arenaWasEnabled: '&b&l1VS1 &8| &7La arena &b{ARENA} &7está ahora &bhabilitada'
+itemDropInArena: '&7No puedes tirar objetos en la &barena'
+blockPlaceInArena: 7No tienes permitido colocar bloques en la &barena
+pluginWasDisabled: '&b&l1VS1 &8| &bEl plugin está ahora deshabilitado'
+teleportOutOfTheArena: '&b&l1VS1 &8| &7No tienes permitido teletransportarte fuera
+  de la &barena'
+totalPoints: '&b&l1VS1 &8| &7Puntos en total: &b{POINTS}'
+pointsInArena: '&b&l1VS1 &8| &7Puntos en la arena &b{ARENA}: &6{POINTS}'
+otherPlayersPoints: '&b&l1VS1 &8| &7Puntos de &b{NAME}: &6{POINTS}'
+otherPlayersArenaPoints: '&b&l1VS1 &8| &7Puntos de &b{NAME} &7en la arena &b{ARENA}:
+  &6{POINTS}'
+broadcastMessage: '&b&l1VS1 &8| &7Usted es el número &b{NUMBER} &7en la arena &b{ARENA}'
+commandBlacklist: '&b&l1VS1 &8| &7No puedes ejecutar ese comando porque estás en la
+  &bcola de espera.'
+wasHitByPlayer: '&b&l1VS1 &8| &7Fuiste kickeado de la cola porque un jugador te ha
+  pegado.'
+hitPlayer: '&b&l1VS1 &8| &7Fuiste kickeado de la cola porque le pegaste a un &bjugador.'
+noUpdateAvailable: '&cYou are running the latest stable version'
+updatedSuccessfully: '&bUpdated successfully! Restart or reload the server to use
+  it'
+updateAvailable: '&cA new version is available! Use /1vs1 update to update automatically'
+visitWebsite: '&cVisit http://dev.bukkit.org/bukkit-plugins/pvp-1vs1 for more detailed
+  information'
+updaterNotEnabled: '&cThe updater is not enabled! Enable it in the config to use this
+  feature'
+updateFailed: '&cThe update failed! Check console for more information'
+wonRound: '&b&l1VS1 &8| &b{WINNER} &7ganó la ronda &b{ROUND} &7con &b{HEALTH} &7de
+  vida.'
+playerNotOnline: '&b&l1VS1 &8| &b{PLAYER} &7no se encuentra conectado!'
+playerDuelsYou: '&b&l1VS1 &8| &b{PLAYER} &7te ha retado un duelo en la arena &b{ARENA}.
+  &7Use &b/1vs1 accept &7para aceptar el duelo'
+youDuelPlayer: '&b&l1VS1 &8| &7Has retado a &b{PLAYER} &7a un duelo!'
+notChallenged: '&b&l1VS1 &8| &7No fuiste retado o la invitación ya expiro!'
+duelPartnerLeftQueue: '&b&l1VS1 &8| &7Has sido kickeado de la cola, Motivo: &b{PLAYER}
+  &7salió. the queue'
+notAbleToAcceptDuel: '&b&l1VS1 &8| &7El duelo no pudo ser aceptado. Asegúrese de no
+  estar en una &bcola o arena'
+cannotDuelYourself: '&b&l1VS1 &8| &7No puedes retarte a ti mismo.'
+stats: '&7Estadisticas: &b{WINS}/{LOSSES} - &6{WIN_RATE}% Ratio de Ganadas'
+statsOtherPlayers: '&7Estadisticas de &b{NAME}: {WINS}/{LOSSES} - &6{WIN_RATE}% Ratio
+  de Ganadas'
+info:
+- '&7Habilitado: &b{ENABLED}'
+- '&7Estado del juego: &b{GAME_STATUS}'
+- '&7Longitud de cola: &b{SIZE}'
+- '&7En cola: &b{IN_QUEUE}'
+- '&7Numero: &b{NUMBER}'
+- '&7Actualmente en la arena: &b{ARENA_PLAYERS}'
+- '&7Jugadores en la siguiente arena: &b{NEXT_ARENA_PLAYERS}'
+arenaModes:
+  countdownBeforeTeleport: '&cCountdown'
+  countdownBeforeFight: '&4Countdown'
+  fight: '&b{ROUND}/{MAX_ROUNDS} - {TIME_LEFT}s'
+  normal: '&2Empty'
+sign:
+  queued: queued
+nobodyWon: '&b&l1VS1 &8| &7Nadie gana esta ronda en la arena &b{ARENA}'
+itemPickUpInArena: '&b&l1VS1 &8| &7No tienes permitido juntar objetos en la &barena'
+blockBreakInArena: '&b&l1VS1 &8| &7No tienes permitido romper bloques en la &barena'

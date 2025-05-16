@@ -1,7 +1,7 @@
 
 
 # Kit price (if price is 0, the kit will be free)
-price: 1000
+price: 1500
 
 icon:
   # Slot in the Kit Selector (Waiting)
@@ -16,10 +16,10 @@ contents:
   - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
   - '&f'
   - '&8▪ &fx16 Bloques de tierra'
-  - '&8▪ &fx2 Pociones de velocidad &7(20 segundos)'
+  - '&8▪ &fx1 Poción de velocidad'
   - '&8▪ &fx1 Espada de piedra &7(Filo I)'
   - '&f'
-  - '&fPrecio: &e1000 ⛀'
+  - '&fPrecio: &e1500 ⛀'
 
 # Items to be given in the kit
 # Format: ID:Data,Amount (If Data is equals to 0 or Amount equals to 1 is not necessary to write it)
@@ -34,5 +34,5 @@ contents:
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
   - DIRT,16
-  - POTION,2,potion:SPEED:true:false
+  - POTION,potion:SPEED:true:false
   - STONE_SWORD,DAMAGE_ALL

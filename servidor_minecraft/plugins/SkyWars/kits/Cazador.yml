@@ -16,7 +16,7 @@ contents:
   - '&fdisfrutan de peleas rápidas y con mucha estrategia.'
   - '&f'
   - '&8▪ &fx24 Flechas'
-  - '&8▪ &fx1 Arco &7(Poder I)'
+  - '&8▪ &fx1 Arco &7(Poder II)'
   - '&f'
   - '&fPrecio: &e7500 ⛀'
 
@@ -33,4 +33,4 @@ contents:
 #     glowing - Add Glowing/Enchantment effect to the item
 items:
   - ARROW,24
-  - BOW
+  - BOW,ARROW_DAMAGE:2

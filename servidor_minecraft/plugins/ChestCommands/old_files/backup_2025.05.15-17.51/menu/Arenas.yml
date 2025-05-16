@@ -1,0 +1,99 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Arenas disponibles'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'arenas'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 7
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+Clasico1:
+  COMMAND: '1vs1 join Classic-1'
+  NAME: '&2&lClasico'
+  LORE:
+    - '&fClick para unirte!'
+  ID: dye:2
+  POSITION-X: 3
+  POSITION-Y: 2
+Clasico2:
+  COMMAND: '1vs1 join Classic-2'
+  NAME: '&c&lClasico'
+  LORE:
+    - '&fClick para unirte!'
+  ID: dye:1
+  POSITION-X: 4
+  POSITION-Y: 2
+Clasico3:
+  COMMAND: '1vs1 join Classic-3'
+  NAME: '&e&lClasico'
+  LORE:
+    - '&fClick para unirte!'
+  ID: dye:11
+  POSITION-X: 5
+  POSITION-Y: 2
+Clasico4:
+  COMMAND: '1vs1 join Classic-4'
+  NAME: '&5&lClasico'
+  LORE:
+    - '&fClick para unirte!'
+  ID: dye:5
+  POSITION-X: 6
+  POSITION-Y: 2
+Clasico5:
+  COMMAND: '1vs1 join Classic-5'
+  NAME: '&6&lClasico'
+  LORE:
+    - '&fClick para unirte!'
+  ID: dye:14
+  POSITION-X: 7
+  POSITION-Y: 2
+Salir:
+  COMMAND: '1vs1 leave'
+  NAME: '&f&lSalir de la cola'
+  LORE:
+    - '&fClick para salir de la cola!'
+  ID: snowball
+  POSITION-X: 1
+  POSITION-Y: 2
+Top:
+  COMMAND: '1vs1 top ten'
+  NAME: '&f&lTop 10'
+  LORE:
+    - '&fClick para ver el Top 10!'
+  ID: snowball
+  POSITION-X: 9
+  POSITION-Y: 2
+

@@ -1,14 +1,14 @@
 # Citizens NPC Storage
 
-last-created-npc-id: 3
+last-created-npc-id: 4
 npc:
   '1':
     metadata:
-      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTc0NzIwMDA0NzI2MiwKICAicHJvZmlsZUlkIiA6ICJhMWFlOTNkNzZhMWI0ZDhlYmNkMzJjNWFiMDg4OGJhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6TWF0eSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMWFlYzU4MTBmN2QxNjgzNDk4MzhmNDIxYmNhZjc0NGI1OTM5YTA2MjI3ZTU1NTMxMzAxMDkzNmFiYjY1NWU0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q5ZDgyYWIxN2ZkOTIwMjJkYmQ0YTg2Y2RlNGMzODJhNzU0MGUxMTdmYWU3YjlhMjg1MzY1ODUwNWE4MDYyNSIKICAgIH0KICB9Cn0=
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTc0NzM0MzAyNzEwNywKICAicHJvZmlsZUlkIiA6ICJhMWFlOTNkNzZhMWI0ZDhlYmNkMzJjNWFiMDg4OGJhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6TWF0eSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMWFlYzU4MTBmN2QxNjgzNDk4MzhmNDIxYmNhZjc0NGI1OTM5YTA2MjI3ZTU1NTMxMzAxMDkzNmFiYjY1NWU0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q5ZDgyYWIxN2ZkOTIwMjJkYmQ0YTg2Y2RlNGMzODJhNzU0MGUxMTdmYWU3YjlhMjg1MzY1ODUwNWE4MDYyNSIKICAgIH0KICB9Cn0=
       cached-skin-uuid-name: zmaty
       cached-skin-uuid: a1ae93d7-6a1b-4d8e-bcd3-2c5ab0888ba5
       player-skin-name: zmaty
-      player-skin-signature: pDaAU8dygtjB+5Ub2IWm8wjYHkZVfPqdzaV/eVVqy6/2pjlW0j1J4xM4vLUVAeWyQF3J0ROmTqqL4qrrGjg8aaiIeIfelHWp7s8K7ELOCWT3hr0F3fkMrGAiW1NbqTYWnofSQHwJzvmWNCBRfY/+LBYbl+LvRl2el8f169RKjDwmpMngzjrV5W6yMqkBuMsg/KJ90+Lc5NVL27kpt043GNIhT9ymHNaijGUa3MEWjdwj9f1X+P589Ckd6nCywbwoBEISR5qPhqRP4GX2zlYrumdcFHCQYCfeeKok870qWc6UJ027g61/wqbunpoLhpbFMdaFZ9fKA/2gAhX3dtG3aA4DVWp4xaqUykGX0YOgomeEXZWkgJ5oZk0rc1fKgdIhuAyhP41npeyLmqZKr0TbcqiZEOurphvLnrtNaoaMgZlEst4a1gln0JP7hbVvt/Zozk3FxtEF21N8KR7zf9R4XiV2DpN6Fbt4t9ubbnnpddaHsBW+8dmTVjD9BD9hNWKC0jOz/2YO+BHb69dclNGtT/e1TW4ETTxVXAClRB1lzYCC8B9B9N3T84L6vP08UpM7c5FStlvSGDVY4l1B3xsakHfU8ALyaKMQIAf0coiC9BhniepKkgg7VjeGdZk9F0vKxEf3mH77yCjwCR+Wau2Y+CsXQTkMINH2C5AJ2HnUYNs=
+      player-skin-signature: LDblUrb+mupaFMZYiXv2qce+EtPbSxzWUoLs350enpqxaJ7u3gzsfr9kCCvyiDw/4OPYpkcAxKxGb1+A78TU935z0vDuGLjA4DvvXns9XJ+Iwnadlge+kY8orBU8yg6+OX+vimc2kiRUA1Pi2WCnJ4+eXPGSyldwHrkl14Y7eKYA/oGjnL3gnrTfsMqjjT6jHV3YHZp/Ffm9KSmuQOYS0q4m5wweMo4HARAeSKSdHuzldRTYj45lmb530qzUSfYZZtQHABF9+rerA/qQQjxNvk1L/xJSCEkMdU7hx3MZjvFlXvcqaoTFYd3JU9iENZaoweNVLeWuMvzZp5XRzx0NPjbJj1mp1+t64Ca3y50f881Te+V5GoTyhvoLjNSzLSKn0wYiFhuFQOGur9rrUckdbdaSFabgKUAbnRsm0m2SqoLjrAf+iGOeK7uCyqzZXqTnkfPk9SgopM3TUilkEOi8TNpHX9uRVUmPUDwdSUQ6hVO2H4aGnHzAAaJLDkxSKxCqcnbSB/GgLdvf9TQi8yDJT/xlwdozadffX7zchi3EYs61SkI1+uppGwvDAABeNcPB7fnPk1J+Sd2Cajo1tpB9KxZBl1J0xoGNOXxX0GitBCimeCJOtCFqaB9mKlyOVWoZW9RWCzuWKgsZBry4AjgsMbUgtyuDdg4+mu06X2F/KMc=
     name: (Click derecho)
     uuid: ce6093f9-40b6-46f4-97a1-dadaecc09c99
     traits:
@@ -28,7 +28,7 @@ npc:
       owner:
         owner: zTraksh
         uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
-    traitnames: owner,type,location,inventory,spawned
+    traitnames: type,location,spawned,owner,inventory
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -61,7 +61,7 @@ npc:
       owner:
         owner: zTraksh
         uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
-    traitnames: owner,type,location,inventory,spawned
+    traitnames: type,location,spawned,owner,inventory
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -70,11 +70,11 @@ npc:
       usedefaultstuckaction: true
   '3':
     metadata:
-      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTc0NzIwMDA0NzI2MiwKICAicHJvZmlsZUlkIiA6ICJhMWFlOTNkNzZhMWI0ZDhlYmNkMzJjNWFiMDg4OGJhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6TWF0eSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMWFlYzU4MTBmN2QxNjgzNDk4MzhmNDIxYmNhZjc0NGI1OTM5YTA2MjI3ZTU1NTMxMzAxMDkzNmFiYjY1NWU0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q5ZDgyYWIxN2ZkOTIwMjJkYmQ0YTg2Y2RlNGMzODJhNzU0MGUxMTdmYWU3YjlhMjg1MzY1ODUwNWE4MDYyNSIKICAgIH0KICB9Cn0=
-      cached-skin-uuid-name: zmaty
-      cached-skin-uuid: a1ae93d7-6a1b-4d8e-bcd3-2c5ab0888ba5
-      player-skin-name: zmaty
-      player-skin-signature: pDaAU8dygtjB+5Ub2IWm8wjYHkZVfPqdzaV/eVVqy6/2pjlW0j1J4xM4vLUVAeWyQF3J0ROmTqqL4qrrGjg8aaiIeIfelHWp7s8K7ELOCWT3hr0F3fkMrGAiW1NbqTYWnofSQHwJzvmWNCBRfY/+LBYbl+LvRl2el8f169RKjDwmpMngzjrV5W6yMqkBuMsg/KJ90+Lc5NVL27kpt043GNIhT9ymHNaijGUa3MEWjdwj9f1X+P589Ckd6nCywbwoBEISR5qPhqRP4GX2zlYrumdcFHCQYCfeeKok870qWc6UJ027g61/wqbunpoLhpbFMdaFZ9fKA/2gAhX3dtG3aA4DVWp4xaqUykGX0YOgomeEXZWkgJ5oZk0rc1fKgdIhuAyhP41npeyLmqZKr0TbcqiZEOurphvLnrtNaoaMgZlEst4a1gln0JP7hbVvt/Zozk3FxtEF21N8KR7zf9R4XiV2DpN6Fbt4t9ubbnnpddaHsBW+8dmTVjD9BD9hNWKC0jOz/2YO+BHb69dclNGtT/e1TW4ETTxVXAClRB1lzYCC8B9B9N3T84L6vP08UpM7c5FStlvSGDVY4l1B3xsakHfU8ALyaKMQIAf0coiC9BhniepKkgg7VjeGdZk9F0vKxEf3mH77yCjwCR+Wau2Y+CsXQTkMINH2C5AJ2HnUYNs=
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTc0NzM0MzAyNjQ1NCwKICAicHJvZmlsZUlkIiA6ICJkM2IwOGZiZTdmNWI0MzNhYjhkOWVkMjNjMDU1Yzk5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICI2aXplIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVhMmQwOTZjZThlMTEyYjhlNzUyMTFhNWQyZDkxYjJjZTUwZTBjNTk3ZjE3ZmE0MTllZjZhMTk3YjY3ODExNWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NmMzNTYyOGZlMWM0ZDU5ZGQ1MjU2MWEzZDAzYmZhNGUxYTc2ZDM5N2M4YjljNDc2YzJmNzdjYjZhZWJiMWRmIgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: 6ize
+      cached-skin-uuid: d3b08fbe-7f5b-433a-b8d9-ed23c055c999
+      player-skin-name: 6ize
+      player-skin-signature: TfbnI3sJQmudi/S0xmRSr9Vtt18Pc+0afdAtkY8XBi1sAee3mYDIk7copaAi3ZoNDa8HMuazp3fSzyGHxmDPWjEExD2WgQ/G05Q7KXAQto3oBPVyiVElDDUcbARmRy4gyhESThF5nL2OoZ43JTW50Xy++ena1jFvgZDeBZXwfIkLx9GTOytt8343424zA9swMVae731Ajb7tNeDAWzWU2KkfDqYLBVndu1+1/q16Kaa9NDSr8JnRIPnPVgl7tdH5p/4m6vQm2sMcukmRF2wDYT4g967zaDDZBYVnF2RdHEv8GwTEO2X9DekbTHcKru4Yww0McZRxLvYx7vp9nRNkAGN4YofhiH9iguw2tTZSOUVZ162ZByK1vpD8IiBiqGq5x/KYkR7gj7dYPKHw0bOW4QsTw1N93eyk5f40/afQgjDonW3F5Z7H34sh4+kAFPDDJuLkCowqaHkc3PhS5wkdwudNrA073WGIvTdFr8RZUswaQj6DaJKRTqW3tGg1azD3yEKKngXMLbiOZuT6PUQU7bp+A0BdEr99NV+5OhlNhmxm7SF4IzhClaKZRYpA5vm8MqSNbxKHI/3BVEhI/FRqVhrROipotIQ13+TztnPEFX666PCQVymqHsiYiAq5Wmn6UnvliY9NgdltUjN+Wun67VojGTAcBqCGGb5uh0/a70U=
     name: (Click derecho)
     uuid: f0d8b305-4337-44e6-8cdc-6903e0638f95
     traits:
@@ -94,7 +94,7 @@ npc:
       owner:
         owner: zTraksh
         uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
-    traitnames: owner,type,location,inventory,spawned
+    traitnames: type,location,spawned,owner,inventory
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -103,11 +103,11 @@ npc:
       usedefaultstuckaction: true
   '2':
     metadata:
-      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTc0NzIwMDA0NzA4OCwKICAicHJvZmlsZUlkIiA6ICJhN2RkNjMzMzYyMWM0NDg1ODBmNzAzYjI1ODkxMjMwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcHJlZW5ETUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWIyOTNhZTYxM2RjNDMxN2EzNmEzODlmODFiOGVjNjk2Njc5ODczZjU3NTBkOTBkYTA4MGZiMTU5NmI5NTYyYiIKICAgIH0KICB9Cn0=
-      cached-skin-uuid-name: spreendmc
-      cached-skin-uuid: a7dd6333-621c-4485-80f7-03b258912300
-      player-skin-name: spreendmc
-      player-skin-signature: UBiMfI04uSwiD5XrAe+NuPsjhGPYygM+a9iRoIoHi111pRtoRsRmpxIWyuvLN0zxcdai4Esytqc+vvAD2+U6Hm76yysTJ+nfT+DEXC7ynBy7PdoGc/pmcixsK0qgFPh4wUKGv9wAhU9D8rrFEegEgBUFWRRS8OqLtmgPhh5AEYDXu3YXddWPj3tEIKXeGIIf4XkH4Nh+GfT/UWV3VfAmAHWuMz5dr6ZRLI97JteES/Xj1zmvz+cjYyuQwDApgvwSwQl4BjTOFssvr4ZGQobA0a2v/naUy+mRL7o8liO73q/nrUJtCBt52MEtvHlj6eD4NpLgWNW6DrJ72nih73z6O5MjwGQR+/LPV7Y+BWvkZU8YaOHLJMQt91ZDxnN91OpA9YFkvSPXJRo2GhGoVzbjwy/MDx5rGDSgSEilXa6/ewqMZwsof9QwlwtkG8bDG+Hos0KLRkun799q+ZGgRrz/IC5tG52THQIIvynL/vpb24qMDwWbJOjPksyMrdz6wiQMkm1SNLC7tWznsZVHCsuAq7XAPhl9HP/TJ3TWL/dfh4NookFzKyTSMQGXEy6IpWysnBWkhmcuW/7bHyP38Z0BaLofoByb3nhPW+9jO6bgTYBTBSqrn31KZF7gI4E0D/mVNqJ5LwAyDz+tsspgtxps1nQPzHFAl5N9uPCAl73e2xc=
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTc0NzM0MzAyNzU4NCwKICAicHJvZmlsZUlkIiA6ICJlYThhMDYzYTczZTE0YzA3OWJlODgxNWJmZjYzMmY0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBeGlvbUJDUyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjIyYWRlZjY4ZjYxMmJhMzI5OWNlM2EyMWM4YzAyOGE3Mjc4ZWQzMDZhY2VjNjYzNGFjMjY2NWE5OGQ5MDNhIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NmMzNTYyOGZlMWM0ZDU5ZGQ1MjU2MWEzZDAzYmZhNGUxYTc2ZDM5N2M4YjljNDc2YzJmNzdjYjZhZWJiMWRmIgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: axiombcs
+      cached-skin-uuid: ea8a063a-73e1-4c07-9be8-815bff632f4b
+      player-skin-name: axiombcs
+      player-skin-signature: HXVFRgVvwApaWLcrBN2c3XJ1Fx6TmL7qI/WQQ+rXSsnpSGOS4I2bIurpINPre5w5ZjHyxCWefEK4ANInLgz2HMRhXNzAhsEoVw6ci76MASOUQocrFmZWRTdvDw1pQVs9EkNxVlMKV9JmR+uT0NFh/ZmUjbAhaxbNkX71RUd6g3yQO4tR5QbmqXkcOeLRrFWej2jW/I0RuXhRvjM2ZwTwYiWXMhQBJ9fCNc1uKgsi0ABw8+QcPk8ttPPLyp1PIdrEWq5p5hrcVWzne/g3XuyxPSyhAg1kN0IjnuYr6hwpfLJwYkk2oKkw1T8ec9SMbhgkO7q0+NDD+uH+vrL1wm56n3dZKl2I7ZHBhu4F9GyULglpaGq68XxosUi1fE2BleXosM0dF15V8n79RJn6IyMLhWFyrNZy/A3CYLCDSCxUNwTI7ydLEt99h49WmZHaio1Ewh4I1exXphphg5+h4UuROlmpb0TFv+YuUVzLU143MiMj6EzCQ3HdRNKOMI9n30ViqXrJYkCewt1YAzF4F8Tok539UYB+GJXwoSIhc4Gh56F8LvmwKb1JyQp0eGPIsJQs3RNABQ+Q5GNwLVK2qgyLHjk4olaU0bezhBVAs82yEnaGxioF2GMAv57yHfk93pOlgfnJPwi1hcg9KSU3pWK71Nne6LtiaI0WY4Phwu/FAdQ=
     name: (Click derecho)
     uuid: a6133a78-fe26-4841-9748-505be8905eee
     traits:
@@ -127,7 +127,36 @@ npc:
       owner:
         owner: zTraksh
         uuid: a76012bc-a9ff-358c-b2af-4a73a6c4b148
-    traitnames: owner,type,location,inventory,spawned
+    traitnames: type,location,spawned,owner,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTc0NzM0MzAyNjYyNSwKICAicHJvZmlsZUlkIiA6ICI2YWFhYTVmZTNiMDg0OTFlYjg2N2VmYzI5NjllMDBkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJLZXZzaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MWUxMzRlZjQ3OWYwNjQ4ZGM3MmI4OTAzNTExZDMzZmRmYzI4YjQ3NTU0MmU0ZjBkZWY0ZGY2YzFmZTYxM2Y0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: kevsh
+      cached-skin-uuid: 6aaaa5fe-3b08-491e-b867-efc2969e00d0
+      player-skin-name: kevsh
+      player-skin-signature: TDQ1ct0ltuOXzHKr6LkjQBhJSLfvnHdKC3ArLnX7Z3PfhwLAFXZ6GRZp6+wW56khULmPiP9S+DiNhDh3qBcMuNy/kQhY6fbNPpdekb5KqOmhYRQ/+aJAOd6kuKqWbc77jYY/bFXgyZBL5oKlcnbgUYFyV8gFXGEpOIb3c0H/BDsX2PkeKWZPFhZ6MvxMVLBzjHhJcCf7iOpF5JvPJldHEUiwpkmvvpUajr9ZE50F/fwK1X31JiHzQlk1CuT0HPtSmIXO7HTOZrS1KREaBk0DDZ0NY4Ac2B2mz/ODiD8N9cBf+V21xH4wWFYwr7rPhod6DYKXRChx5ViL2zQHoABuCe6STIkNhtZ9Yg9dQ0VIzaWz/AgJuzE6eYKTeWmhCn8LyU2pCj1CjCdxScwDeyqstsJnadoTuBTVknaOOQocCzoQPReE+2w+0u/W0V+jjh7vHnbkAEdKZkx95izasqq6k1S1VJH1EezQP+NYxv5AzJRhoo+6wMVyiS1FlyTAvobB2wciYX6iEe/leucgsS/EF2UU1aL5l6OW7RJTXt27aORY7qjBBMvlUAZYZjlmxgmAeoRdn2QDcEUoqvXWJ19ltLEXY//vpRSoc4hY3C5gOu+YPAVMwrIYP8CYvv5YqE8knQ0aaMaXiv4h8aNDjuqHdYg3X1lLtuVkjrUNbr2DJ7s=
+    name: (Click derecho)
+    uuid: b085544b-70d6-4dea-8391-d9cc0affbdb9
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: Lobby-Sw
+        x: '-688.612'
+        y: '31.0'
+        z: '492.485'
+        yaw: '138.7505645751953'
+        pitch: '0.7500172853469849'
+      owner:
+        owner: joakoooe
+        uuid: 3481b8f4-b481-3062-82f2-9426e40ada01
+    traitnames: type,location,spawned,owner,inventory
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1

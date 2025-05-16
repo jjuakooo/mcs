@@ -53,7 +53,7 @@ PermsLogin: false
 
 # If enabled this will teleport the player to a set location (/setJoinLoc)
 # while he is logging in.
-HideLocation: false
+HideLocation: true
 
 # If enabled the player will be in spectator mode while logging in
 SpectatorOnLogin: false
@@ -62,13 +62,13 @@ SpectatorOnLogin: false
 #Set to -1 to disable this
 KickAfterSec:
   Seconds: 20
-  KickMessage: "&cNo iniciaste sesion despues de 20 segundos!"
+  KickMessage: "&cNo iniciaste sesión despues de 20 segundos!"
 
 #The player will be kicked when he types in the code x times wrong
 #Set to -1 to disable this
 KickAfterTries:
   Tries: 3
-  KickMessage: "&bNo has iniciado sesion después de 3 intentos."
+  KickMessage: "&bNo has iniciado sesión después de 3 intentos."
 
 #The command will be executed after x seconds eg Ban [%IP% or %PLAYER%] no /
 #Set to -1 to disable this

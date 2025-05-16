@@ -4,8 +4,5 @@
 default-color:
   name: '&f'
   lore: '&7'
-multiple-commands-separator: ;
-use-only-commands-without-args: true
 update-notifications: true
-use-console-colors: true
 anti-click-spam-delay: 200

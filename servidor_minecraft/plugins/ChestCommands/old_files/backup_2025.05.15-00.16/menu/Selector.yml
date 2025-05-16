@@ -1,0 +1,122 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Selector de mapas'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'selector'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 7
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+tron:
+  COMMAND: 'sw join Tron'
+  NAME: '&b&lTron'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:5
+  POSITION-X: 3
+  POSITION-Y: 2
+trees:
+  COMMAND: 'sw join Trees'
+  NAME: '&b&lTrees'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:5
+  POSITION-X: 4
+  POSITION-Y: 2
+time:
+  COMMAND: 'sw join Time'
+  NAME: '&b&lTime'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:5
+  POSITION-X: 5
+  POSITION-Y: 2
+temple:
+  COMMAND: 'sw join Temple'
+  NAME: '&b&lTemple'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:5
+  POSITION-X: 6
+  POSITION-Y: 2
+music:
+  COMMAND: 'sw join Music'
+  NAME: '&b&lMusic'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:5
+  POSITION-X: 7
+  POSITION-Y: 2
+jungle:
+  COMMAND: 'sw join Jungle'
+  NAME: '&b&lJungle'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:13
+  POSITION-X: 3
+  POSITION-Y: 3
+desert:
+  COMMAND: 'sw join Desert'
+  NAME: '&b&lDesert'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:13
+  POSITION-X: 4
+  POSITION-Y: 3
+savannah:
+  COMMAND: 'sw join Savannah'
+  NAME: '&b&lSavannah'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:13
+  POSITION-X: 5
+  POSITION-Y: 3
+Bamboo:
+  COMMAND: 'sw join Bamboo'
+  NAME: '&b&lBamboo'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:13
+  POSITION-X: 6
+  POSITION-Y: 3
+Paris:
+  COMMAND: 'sw join Paris'
+  NAME: '&b&lParis'
+  LORE:
+    - '&7▸ ¡Click para entrar!'
+  ID: stained_glass_pane:13
+  POSITION-X: 7
+  POSITION-Y: 3

@@ -32,8 +32,8 @@ header:
 - ''
 footer:
 - ''
-- '&fDiscord: &bhttps://discord.gg/Ymgn8fE'
-- '&fTienda: &bProximamente...'
+- '&fDiscord: &b...'
+- '&fTienda: &b...'
 - '&8&m<------------------------------>'
 use-essentials-nickname: false
 deluxetag-empty-value: ''
@@ -78,8 +78,8 @@ Groups:
     tabprefix: '&a&lVIP &8| &f'
     tagprefix: '&a'
   VIP+:
-    tabprefix: '&a&lVIP&e&l+ &8| &f'
-    tagprefix: '&a'
+    tabprefix: '&e&lVIP+ &8| &f'
+    tagprefix: '&e'
   YouTuber:
     tabprefix: '&6&lYT &8| &f'
     tagprefix: '&6'

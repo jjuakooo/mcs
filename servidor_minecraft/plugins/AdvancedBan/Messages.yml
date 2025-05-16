@@ -1,0 +1,261 @@
+General:
+  Prefix: "&b&lSERVIDOR &8|"
+  NoPerms: "&fNo tienes permisos!"
+  LayoutNotFound: "&cThere is no layout called %NAME%"
+  # This will be the replacement for the %DURATION% variable
+  TimeLayoutD: "%D%dia(s) %H%h %M%min y %S%seg"
+  TimeLayoutH: "%H%hora(s) %M%min y %S%seg"
+  TimeLayoutM: "%M%min y %S%seg"
+  TimeLayoutS: "%S% segundos"
+  FailedFetch: "&cCould not fetch the UUID of %NAME%! See console for details."
+
+
+Ban:
+  Usage: "&fUso: &b/ban [nombre] [motivo]"
+  Done: "&b%NAME% &fha sido baneado &acorrectamente&f!"
+  AlreadyDone: "&b%NAME% &fya se encuentra &cbaneado&f!"
+  Exempt: "&fUsted no puede banear a &b%NAME%"
+  Layout:
+  - '%PREFIX% &fHas sido baneado!'
+  - '&f'
+  - "&fMotivo: &b%REASON%"
+  - "&fExpira en: &bNunca"
+  - '&f'
+  - '&fApele su baneo en:'
+  - "&fDiscord: &cPróximamente..."
+  Notification:
+  - "&8&l&m------------------------------------"
+  - "&8» &b%NAME% &ffue baneado permanentemente"
+  - "&8» &fPor: &b%OPERATOR%"
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8&l&m------------------------------------"
+
+Ipban:
+  Usage: "&fUso: &b/banip [Name/IP] [motivo]"
+  Layout:
+  - '%PREFIX% &fHas sido baneado de IP!'
+  - '&f'
+  - "&fMotivo: &b%REASON%"
+  - "&fSu IP: &b%IP%"
+  - "&fExpira en: &bNunca"
+  - '&f'
+  - '&fApele su baneo en:'
+  - "&fDiscord: &cPróximamente..."
+  Notification:
+  - "&8&l&m------------------------------------"
+  - "&8» &b%NAME% &ffue baneado permanentemente de IP"
+  - "&8» &fPor: &b%OPERATOR%"
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8&l&m------------------------------------"
+  IpNotCashed: "&fNo hay IP guardada para el usuario &a%NAME%&f!"
+
+Tempban:
+  Usage: "&fUso: &8\xbb &f&o/tempban [nombre] [Xmo/Xd/Xh/Xm/Xs/#TimeLayout] [motivo]"
+  MaxDuration: "&cYou are not able to ban more than %MAX%sec"
+  Layout:
+  - '%PREFIX% &fHas sido baneado temporalmente!'
+  - '&f'
+  - "&fMotivo: &b%REASON%"
+  - "&fExpira en: &b%DURATION%"
+  - '&f'
+  - '&fApele su baneo en:'
+  - "&fDiscord: &cPróximamente..."
+  Notification:
+  - "&8&l&m------------------------------------"
+  - "&b%NAME% &ffue baneado temporalmente"
+  - "&8» &fPor: &b%OPERATOR%"
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8» &fDurante: &b%DURATION%"
+  - "&8&l&m------------------------------------"
+Tempipban:
+  Usage: "&fUso: &b/tempipban [Name/IP] [Xmo/Xd/Xh/Xm/Xs/#TimeLayout] [motivo]"
+  MaxDuration: "&cYou are not able to ban more than %MAX%sec"
+  Layout:
+  - '%PREFIX% &fFuiste baneado de IP!'
+  - '&f'
+  - "&fMotivo: &b%REASON%"
+  - "&fExpira en: &b%DURATION%"
+  - "&fSu IP: &b%IP%"
+  - '&f'
+  - '&fApele su baneo en:'
+  - "&fDiscord: &cPróximamente..."
+  Notification:
+  - "&8&l&m------------------------------------"
+  - "&b%NAME% &ffue baneado temporalmente de IP!"
+  - "&8» &fPor: &b%OPERATOR%"
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8» &fDurante: &b%DURATION%"
+  - "&8&l&m------------------------------------"
+
+Mute:
+  Usage: "&fUso: &b/mute [nombre] [motivo]"
+  Done: "&b%NAME% &fha sido muteado &acorrectamente&f!"
+  AlreadyDone: "&b%NAME% &fya esta muteado!"
+  Exempt: "&fNo puedes mutear a &b%NAME%"
+  Layout:
+  - '%PREFIX% &fHas sido muteado permanentemente'
+  - "&fMotivo: &b%REASON%"
+  Notification:
+  - "&8&l&m------------------------------------"
+  - "&8» &b%NAME% &ffue muteado permanentemente" 
+  - "&8» &fPor: &b%OPERATOR%"
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8&l&m------------------------------------"
+
+Tempmute:
+  Usage: "&fUso: &b/tempmute [nombre] [Xmo/Xd/Xh/Xm/Xs/#TimeLayout] [motivo]"
+  MaxDuration: "&cYou are not able to mute more than %MAX%sec"
+  Layout:
+  - '%PREFIX% &fHas sido muteado por &b%DURATION%'
+  - "&fMotivo: &b%REASON%"
+  Notification:
+  - "&8&l&m------------------------------------"
+  - "&b%NAME% &ffue muteado permanentemente" 
+  - "&8» &fPor: &b%OPERATOR%"
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8» &fDurante: &b%DURATION%"
+  - "&8&l&m------------------------------------"
+
+Warn:
+  Usage: "&fUso: &b/warn [nombre] [motivo]"
+  Done: "&b%NAME% &fha sido advertido &acorrectamente&f!"
+  Exempt: "&fUsted no puede advertir a &b%NAME%"
+  Layout:
+  - '%PREFIX% &fHas recibido una advertencia'
+  - "&8» &fMotivo: &b%REASON%"
+  - '&8» &fTienes &b%COUNT% &fadvertencia(s) en total!'
+  Notification:
+  - "&8&l&m------------------------------------"
+  - "&b%NAME% &ffue advertido"
+  - "&8» &fPor: &b%OPERATOR%"
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8&l&m------------------------------------"
+
+Tempwarn:
+  Usage: "&fUso: &b/tempwarn [nombre] [Xmo/Xd/Xh/Xm/Xs/#TimeLayout] [motivo]"
+  MaxDuration: "&cYou are not able to warn more than %MAX%sec"
+  Layout:
+  - '%PREFIX% &fHas recibido una advertencia temporal'
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8» &fExpira en: &b%DURATION%"
+  - '&8» &fTienes &b%COUNT% &fadvertencia(s) en total!'
+  Notification:
+  - "&8&l&m------------------------------------"
+  - "&b%NAME% &ffue advertido temporalmente"
+  - "&8» &fPor: &b%OPERATOR%"
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8» &fDurante: &b%DURATION%"
+  - "&8&l&m------------------------------------"
+
+Kick:
+  Usage: "&fUso: &b/kick [nombre] [motivo]"
+  Done: "&b%NAME% &fha sido kickeado &acorrectamente&f!"
+  NotOnline: "&b%NAME% &fno esta en linea!"
+  Exempt: "&fUsted no puede kickear a &b%NAME%"
+  Layout:
+  - '%PREFIX% &fHas sido kickeado'
+  - '&f'
+  - "&fMotivo: &b%REASON%"
+  Notification:
+  - "&8&l&m------------------------------------"
+  - "&b%NAME% &ffue kickeado"
+  - "&8» &fPor: &b%OPERATOR%"
+  - "&8» &fMotivo: &b%REASON%"
+  - "&8&l&m------------------------------------"
+
+UnBan:
+  Usage: "&fUso: &b/unban [Name/IP]"
+  NotPunished: "&b%NAME% &fno se encuentra baneado!"
+  Done: "&b%NAME% &fha sido desbaneado &acorrectamente&f!"
+
+UnMute:
+  Usage: "&fUso: &b/unmute [nombre]"
+  NotPunished: "&b%NAME% &fno se encuentra muteado!"
+  Done: "&b%NAME% &ffue desmuteado &acorrectamente&f!"
+
+UnWarn:
+  Usage: "&fUso: &b/unwarn [ID] or /unwarn clear [nombre]"
+  NotFound: "&fNo se pudo encontrar la advertencia #%ID%"
+  Done: "&fLa advertencia &b#%ID% &fha sido eliminada &acorrectamente&f!"
+  Clear:
+    Empty: "&b%NAME% &fno tiene advertencias pendientes!"
+    Done: "&fHas limpiado &b%COUNT% &fadvertencias."
+
+UnPunish:
+  Usage: "&fUso: &b/unpunish [ID]"
+  NotFound: "&fNo se pudo encontrar el castigo &b#%ID%"
+  Done: "&fEl Castigo &b#%ID% &fha sido eliminado &acorrectamente&f!"
+
+
+Banlist:
+  Usage: "&fUso: &b/banlist <Page>"
+  OutOfIndex: "&fNo hay pagina &b%PAGE%!"
+  NoEntries: "&bNo hay entradas"
+  Header:
+  - "%PREFIX% &fLista de baneos:"
+  - "&bJugador/IP &8| &bDuración &8| &bBaneado por"
+  - "&bTipo &f> &bMotivo"
+  - "&f"
+  Entry:
+  - "&8[&b%DATE%&8]"
+  - "&b%NAME% &8| &b%DURATION% &8| &b%OPERATOR%"
+  - "&b%TYPE% &f> &b%REASON%"
+  - "&f"
+  Footer: "&fPagina &b%CURRENT_PAGE% &fde &b%TOTAL_PAGES% &8| &fBaneos enumerados: &b%COUNT%"
+  PageFooter: "&fUse: &b/banlist %NEXT_PAGE% &fpara ir a la siguiente pagina"
+
+History:
+  Usage: "&fUso: &b/history [Name/IP] <Page>"
+  OutOfIndex: "&fNo hay página &b%PAGE%!"
+  NoEntries: "&fNo se pudo encontrar el historial de &b%NAME% :("
+  Header:
+  - "%PREFIX% &fHistorial de &b%NAME%:"
+  - "&bNombre &8| &bDuración &8| &bOperador"
+  - "&bTipo &f> &bMotivo"
+  - "&f"
+  Entry:
+  - "&8[&b%DATE%&8]"
+  - "&c%NAME% &8| &b%DURATION% &8| &f%OPERATOR%"
+  - "&c%TYPE% &8> &f&o%REASON%"
+  - "&f"
+  Footer: "&fPagina: &b%CURRENT_PAGE% &fde &b%TOTAL_PAGES% &8| &fEntradas totales: &b%COUNT%"
+  PageFooter: "&fUso: &b/history %NAME% %NEXT_PAGE% &fpara ir a la siguiente pagina"
+
+Warns:
+  Usage: "&fUso: &b/warns [nombre] <Page>"
+  OutOfIndex: "&fNo hay página &b%PAGE%!"
+  NoEntries: "&b%NAME% &fno tiene advertencias &apendientes"
+  Header:
+  - "%PREFIX% &fadvertencias de &b%NAME%:"
+  - "&bNombre &8| &bDuración &8| &bAdvertido por"
+  - "&b#ID &f> &bMotivo:"
+  - "&f"
+  Entry:
+  - "&8[&b%DATE%&8]"
+  - "&c%NAME% &8| &b%DURATION% &8| &f%OPERATOR%"
+  - "&c&l#%ID% &f> &f&o%REASON%"
+  - "&f"
+  Footer: "&fPagina: &b%CURRENT_PAGE% &fde &b&o%TOTAL_PAGES% &8| &fAdvertencias activas: &a%COUNT%"
+  PageFooter: "&fUse: &b/warns %NAME% %NEXT_PAGE% &fpara ir a la siguiente pagina"
+
+ChangeReason:
+  Usage: "&fUso: &b/change-reason [ID or ban/mute USER] [New reason]"
+  Done: "&fEl castigo &b#%ID% &fha sido actualizado &acorrectamente!"
+  NotFound: "&fLo sentimos, no hemos podido encontrar este castigo"
+
+Check:
+  BanReason: "  &cReason &8\xbb &f%REASON%"
+  MuteReason: "  &cReason &8\xbb &f%REASON%"
+  BanReason: "  &cReason &8\xbb &f%REASON%"
+  MuteReason: "  &cReason &8\xbb &f%REASON%"
+  Usage: "&fUso: &b/check [nombre]"
+  Header: "&fChequeando: &b%NAME%"
+  UUID: "&fUUID: &b%UUID%"
+  IP: "&fIP &b%IP%"
+  Geo: "&fPais: &b%LOCATION%"
+  Mute: "&fMuteado: &b%DURATION%"
+  MuteReason: "  &fMotivo: &b%REASON%"
+  Ban: "&fBaneado: &b%DURATION%"
+  BanReason: "  &fMotivo: &b%REASON%"
+  Warn: "&fAdvertencias: &b%COUNT%"
+  NotFound: "&fLo sentimos, no hemos podido encontrar %NAME%"

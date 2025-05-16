@@ -1,0 +1,66 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&8Selector de modalidades'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 1
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'modalidades'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: ''
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 7
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+skywars:
+  COMMAND: 'warp SkyWars'
+  NAME: '&b&lSkyWars'
+  LORE:
+    - '&fClick para ir a &eSkyWars&f!'
+  ID: bow
+  POSITION-X: 1
+  POSITION-Y: 1
+1vs1:
+  COMMAND: 'warp 1vs1'
+  NAME: '&b&l1vs1'
+  LORE:
+    - '&fClick para ir a &e1vs1&f!'
+  ID: iron_sword
+  POSITION-X: 2
+  POSITION-Y: 1
+lobby:
+  COMMAND: 'warp Lobby'
+  NAME: '&b&lLobby'
+  LORE:
+    - '&fClick para ir al &eLobby&f!'
+  ID: bookshelf
+  POSITION-X: 9
+  POSITION-Y: 1

@@ -38,26 +38,6 @@ world-settings:
     disable-teleportation-suffocation-check: false
     cache-chunk-maps: false
     remove-invalid-mob-spawner-tile-entities: true
-    falling-block-height-nerf: 0
-    nether-ceiling-void-damage: false
-    fast-drain:
-      lava: false
-      water: false
-    max-growth-height:
-      cactus: 3
-      reeds: 3
-    tnt-explosion-volume: 4.0
-    optimize-explosions: false
-    load-chunks:
-      enderpearls: false
-      tnt-entities: false
-      falling-blocks: false
-    remove-unloaded:
-      enderpearls: true
-      tnt-entities: true
-      falling-blocks: true
-    mob-spawner-tick-rate: 1
-    player-blocking-damage-multiplier: 0.5
     lava-flow-speed:
       normal: 30
       nether: 10
@@ -69,15 +49,35 @@ world-settings:
       disable-player-crits: false
       disable-chest-cat-detection: false
       disable-end-credits: false
+    optimize-explosions: false
+    mob-spawner-tick-rate: 1
+    tnt-explosion-volume: 4.0
+    player-blocking-damage-multiplier: 0.5
+    remove-unloaded:
+      enderpearls: true
+      tnt-entities: true
+      falling-blocks: true
+    nether-ceiling-void-damage: false
+    fast-drain:
+      lava: false
+      water: false
+    fishing-time-range:
+      MinimumTicks: 100
+      MaximumTicks: 900
     despawn-ranges:
       soft: 32
       hard: 128
     player-exhaustion:
       block-break: 0.02500000037252903
       swimming: 0.014999999664723873
-    fishing-time-range:
-      MinimumTicks: 100
-      MaximumTicks: 900
+    max-growth-height:
+      cactus: 3
+      reeds: 3
+    falling-block-height-nerf: 0
+    load-chunks:
+      enderpearls: false
+      tnt-entities: false
+      falling-blocks: false
     disable-explosion-knockback: false
     water-over-lava-flow-speed: 5
     fix-cannons: false
@@ -86,8 +86,8 @@ world-settings:
     allow-undead-horse-leashing: false
     all-chunks-are-slime-chunks: false
     container-update-tick-rate: 1
-    falling-blocks-collide-with-signs: false
     keep-spawn-loaded: true
+    falling-blocks-collide-with-signs: false
     portal-search-radius: 128
     disable-thunder: false
     disable-ice-and-snow: false

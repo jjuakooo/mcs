@@ -1,45 +1,93 @@
-menu_rows: 1
-default: default
+menu_rows: 5
+default: predeterminado
 boxes:
-    default:
-        name: Default
-        desc: default
+    predeterminado:
+        name: Predeterminado
+        desc: Click para seleccionar!
         item: 20
         data: 0
-        slot: 1
-    light_gray:
-        name: Light Gray
-        desc: Rank only
+        slot: 14
+    rojo:
+        name: Rojo
+        desc: ¡Click para seleccionar!
         item: 95
-        data: 8
-        slot: 2
-    blue:
-        name: Blue
-        desc: Rank only
+        data: 14
+        slot: 20
+    naranja:
+        name: Naranja
+        desc: ¡Click para seleccionar!
         item: 95
-        data: 11
-        slot: 3
-    yellow:
-        name: Yellow
-        desc: Rank only
+        data: 1
+        slot: 21
+    amarillo:
+        name: Amarillo
+        desc: ¡Click para seleccionar!
         item: 95
         data: 4
-        slot: 4
-    light_blue:
-        name: Light Blue
-        desc: Rank only
-        item: 95
-        data: 3
-        slot: 5
-    light_green:
-        name: Light Green
-        desc: Rank only
+        slot: 22
+    verde_claro:
+        name: Verde claro
+        desc: ¡Click para seleccionar!
         item: 95
         data: 5
-        slot: 6
+        slot: 23
+    cyan:
+        name: Cyan
+        desc: ¡Click para seleccionar!
+        item: 95
+        data: 9
+        slot: 24
+    azul:
+        name: Azul
+        desc: ¡Click para seleccionar!
+        item: 95
+        data: 11
+        slot: 25
     magenta:
         name: Magenta
-        desc: Rank only
+        desc: ¡Click para seleccionar!
         item: 95
         data: 2
-        slot: 7
+        slot: 26
+    cafe:
+        name: Café
+        desc: Disponible desde VIP
+        item: 95
+        data: 12
+        slot: 29
+    verde:
+        name: Verde
+        desc: Disponible desde VIP
+        item: 95
+        data: 13
+        slot: 30
+    rosa:
+        name: Rosa
+        desc: Disponible desde VIP
+        item: 95
+        data: 6
+        slot: 31
+    gris:
+        name: Gris
+        desc: Disponible desde VIP
+        item: 95
+        data: 7
+        slot: 32
+    gris_claro:
+        name: Gris claro
+        desc: Disponible desde VIP
+        item: 95
+        data: 8
+        slot: 33
+    negro:
+        name: Negro
+        desc: Disponible desde VIP
+        item: 95
+        data: 15
+        slot: 34
+    blanco:
+        name: Blanco
+        desc: Disponible desde VIP
+        item: 95
+        data: 0
+        slot: 35

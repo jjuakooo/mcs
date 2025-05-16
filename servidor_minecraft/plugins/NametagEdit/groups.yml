@@ -14,9 +14,9 @@ Groups:
     Prefix: '&b&lMOD &8| &f'
     Suffix: ''
     SortPriority: 3
-  Helper:
-    Permission: nte.helper
-    Prefix: '&9&lHELPER &8| &f'
+  Ayudante:
+    Permission: nte.ayudante
+    Prefix: '&9&lAYUDANTE &8| &f'
     Suffix: ''
     SortPriority: 4
   VIP:
@@ -24,9 +24,9 @@ Groups:
     Prefix: '&a&lVIP &8| &f'
     Suffix: ''
     SortPriority: 5
-  VIP+:
-    Permission: nte.vip+
-    Prefix: '&a&lVIP &8| &f'
+  VIP2:
+    Permission: nte.vip2
+    Prefix: '&a&lVIP&e&l+ &8| &f'
     Suffix: ''
     SortPriority: 6
   YouTuber:
@@ -34,9 +34,9 @@ Groups:
     Prefix: '&6&lYT &8| &f'
     Suffix: ''
     SortPriority: 7
-  Famous:
-    Permission: nte.famous
-    Prefix: '&d&lFAMOUS &8| &f'
+  Famoso:
+    Permission: nte.famoso
+    Prefix: '&d&lFAMOSO &8| &f'
     Suffix: ''
     SortPriority: 8
   Usuario:

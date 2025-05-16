@@ -1,0 +1,109 @@
+enabled: true
+spawn1:
+  world: Classic-2
+  x: 20.517118553607208
+  y: 4.0
+  z: 35.50429589310251
+  yaw: -180.15137
+  pitch: 0.15000854
+spawn2:
+  world: Classic-2
+  x: 21.470646303432854
+  y: 4.0
+  z: -4.536184307958143
+  yaw: -0.30194092
+  pitch: -7.1585177E-6
+prize:
+  economy:
+    enabled: false
+    amount: 50
+  items:
+    enabled: true
+    itemPrizes:
+    - ==: org.bukkit.inventory.ItemStack
+      type: STONE_PICKAXE
+countdown:
+  beforeTeleport:
+    enabled: true
+    duration: 5
+    sound: true
+  beforeFight:
+    enabled: true
+    duration: 5
+    disableMoving: true
+    blindness: false
+    invincibility: true
+    sound: true
+points:
+  win: 1
+  lose: -1
+firework:
+  inArena: true
+  afterTeleport: true
+health: 20
+timeOut: 300
+rounds: 3
+maximumTeleportDistance: 1
+playerItemDrop: false
+playerItemPickUp: false
+winAnnouncement: true
+commandsToRunAtStart:
+- ungod {PLAYER1}
+- ungod {PLAYER2}
+commandsToRunAtEnd:
+- give {WINNER} 367 1
+inventory:
+  items:
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    type: FISHING_ROD
+  - ==: org.bukkit.inventory.ItemStack
+    type: BOW
+  - ==: org.bukkit.inventory.ItemStack
+    type: GOLDEN_APPLE
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: COOKED_BEEF
+    amount: 16
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: ARROW
+    amount: 64
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: GOLD_BOOTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHAINMAIL_LEGGINGS
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_CHESTPLATE
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET

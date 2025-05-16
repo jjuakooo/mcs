@@ -1,0 +1,86 @@
+# Default time in ticks for a score to stay on the scoreboard (20 ticks = 1 second)
+UpdateTime: 20
+
+# Save which players have the scoreboard disabled
+SaveScoreboards: true
+
+# Per world scoreboards
+Worlds:
+  Lobby-Auth:
+    Titles:
+      - "&b&lHyperMC"
+    Scores:
+      8:
+        - ""
+      7:
+        - "&fNombre &8| &b%player%"
+      6:
+        - "&fRango &8| &b%vault_rank%"
+      5:
+        - ""
+      4:
+        - "&fLocalización &8| &bLobby"
+      3:
+        - "&fConectados: &b%online%"
+      2:
+        - ""
+      1:
+        - "&bplay.hypermc.com"
+  Lobby-Sw:
+    Titles:
+      - "&b&lHyperMC"
+    Scores:
+      13:
+        - ""
+      12:
+        - "&fNombre &8| &b%player%"
+      11:
+        - "&fRango &8| &b%vault_rank%"
+      10:
+        - "&fMonedas &8| &b%skywars_coins%"
+      9:
+        - ""
+      8:
+        - "&fGanadas &8| &b%skywars_stats_wins%"
+      7:
+        - "&fAsesinatos &8| &b%skywars_stats_kills%"
+      6:
+        - "&fMuertes &8| &b%skywars_stats_deaths%"
+      5:
+        - ""
+      4:
+        - "&fLocalización &8| &bSkyWars"
+      3:
+        - "&fConectados: &b%online%"
+      2:
+        - ""
+      1:
+        - "&bplay.hypermc.com"
+  Lobby-1vs1:
+    Titles:
+      - "&b&lHyperMC"
+    Scores:
+      8:
+        - ""
+      7:
+        - "&fNombre &8| &b%player%"
+      6:
+        - "&fRango &8| &b%vault_rank%"
+      5:
+        - ""
+      4:
+        - "&fLocalización &8| &b1vs1"
+      3:
+        - "&fConectados: &b%online%"
+      2:
+        - ""
+      1:
+        - "&bplay.hypermc.com"
+# Shared scoreboards
+Shared:
+  Lobby-1vs1:
+    - "Classic-1"
+    - "Classic-2"
+    - "Classic-3"
+    - "Classic-4"
+    - "Classic-5"

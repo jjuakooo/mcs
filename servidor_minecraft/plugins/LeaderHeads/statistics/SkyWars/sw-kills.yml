@@ -30,7 +30,7 @@ enable-commas: true
 all-time:
   sign-lines:
   - ''
-  - '&f{name}'
+  - '&b{name}'
   - '&8{amount} asesinatos'
   - ''
   update-interval: 30

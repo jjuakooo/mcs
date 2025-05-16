@@ -1,0 +1,132 @@
+menu-settings:
+  name: '&8Vidrios'
+  rows: 4
+  commands:
+  - vidrios
+  auto-refresh: 5
+  open-actions:
+  - ''
+  open-with-item:
+    material: 7
+    left-click: false
+    right-click: false
+rojo:
+  NAME: '&c&lRojo'
+  LORE:
+    - '&fPrecio: &e1000 ⛀'
+    - ''
+    - '&7▸ ¡Click para comprar!'
+  MATERIAL: stained_glass
+  POSITION-X: 2
+  POSITION-Y: 3
+  DURABILITY: 14
+  ACTIONS:
+    - console:sw coins remove 1000 {player}
+    - console:pex user {player} add skywars.settings.colour.rojo
+  PERMISSION: '-skywars.settings.colour.rojo'
+  PERMISSION-MESSAGE: '&c&lERROR &8| &fYa posees este vidrio.'
+naranja:
+  NAME: '&6&lNaranja'
+  LORE:
+    - '&fPrecio: &e1000 ⛀'
+    - ''
+    - '&7▸ ¡Click para comprar!'
+  MATERIAL: stained_glass
+  POSITION-X: 3
+  POSITION-Y: 3
+  DURABILITY: 1
+  ACTIONS:
+    - console:sw coins remove 1000 {player}
+    - console:pex user {player} add skywars.settings.colour.naranja
+  PERMISSION: '-skywars.settings.colour.naranja'
+  PERMISSION-MESSAGE: '&c&lERROR &8| &fYa posees este vidrio.'
+amarillo:
+  NAME: '&e&lAmarillo'
+  LORE:
+    - '&fPrecio: &e1000 ⛀'
+    - ''
+    - '&7▸ ¡Click para comprar!'
+  MATERIAL: stained_glass
+  POSITION-X: 4
+  POSITION-Y: 3
+  DURABILITY: 4
+  ACTIONS:
+    - console:sw coins remove 1000 {player}
+    - console:pex user {player} add skywars.settings.colour.amarillo
+  PERMISSION: '-skywars.settings.colour.amarillo'
+  PERMISSION-MESSAGE: '&c&lERROR &8| &fYa posees este vidrio.'
+verde_claro:
+  NAME: '&a&lVerde claro'
+  LORE:
+    - '&fPrecio: &e1000 ⛀'
+    - ''
+    - '&7▸ ¡Click para comprar!'
+  MATERIAL: stained_glass
+  POSITION-X: 5
+  POSITION-Y: 3
+  DURABILITY: 5
+  ACTIONS:
+    - console:sw coins remove 1000 {player}
+    - console:pex user {player} add skywars.settings.colour.verde_claro
+  PERMISSION: '-skywars.settings.colour.verde_claro'
+  PERMISSION-MESSAGE: '&c&lERROR &8| &fYa posees este vidrio.'
+cyan:
+  NAME: '&3&lCyan'
+  LORE:
+    - '&fPrecio: &e1000 ⛀'
+    - ''
+    - '&7▸ ¡Click para comprar!'
+  MATERIAL: stained_glass
+  POSITION-X: 6
+  POSITION-Y: 3
+  DURABILITY: 9
+  ACTIONS:
+    - console:sw coins remove 1000 {player}
+    - console:pex user {player} add skywars.settings.colour.cyan
+  PERMISSION: '-skywars.settings.colour.rojo'
+  PERMISSION-MESSAGE: '&c&lERROR &8| &fYa posees este vidrio.'
+azul:
+  NAME: '&1&lAzul'
+  LORE:
+    - '&fPrecio: &e1000 ⛀'
+    - ''
+    - '&7▸ ¡Click para comprar!'
+  MATERIAL: stained_glass
+  POSITION-X: 7
+  POSITION-Y: 3
+  DURABILITY: 11
+  ACTIONS:
+    - console:sw coins remove 1000 {player}
+    - console:pex user {player} add skywars.settings.colour.azul
+  PERMISSION: '-skywars.settings.colour.azul'
+  PERMISSION-MESSAGE: '&c&lERROR &8| &fYa posees este vidrio.'
+magenta:
+  NAME: '&5&lMagenta'
+  LORE:
+    - '&fPrecio: &e1000 ⛀'
+    - ''
+    - '&7▸ ¡Click para comprar!'
+  MATERIAL: stained_glass
+  POSITION-X: 8
+  POSITION-Y: 3
+  DURABILITY: 2
+  ACTIONS:
+    - console:sw coins remove 1000 {player}
+    - console:pex user {player} add skywars.settings.colour.magenta
+  PERMISSION: '-skywars.settings.colour.magenta'
+  PERMISSION-MESSAGE: '&c&lERROR &8| &fYa posees este vidrio.'
+expl:
+  NAME: '&e&lAdvertencia'
+  LORE:
+    - '&8Artículo informativo'
+    - ''
+    - '&7El estar en &c&lBETA &7quiere decir que es un sistema'
+    - '&7experimental, puedes comprar vidrios sin problema, pero'
+    - '&7si no cuentas con las monedas necesarias, tu saldo'
+    - '&7quedará negativo, y si luego gustas comprar un kit deberás'
+    - '&7de hacer la cuenta y reunir las monedas que sean necesarias.'
+  MATERIAL: dye
+  POSITION-X: 5
+  POSITION-Y: 2
+  DURABILITY: 8
+  ACTIONS:
