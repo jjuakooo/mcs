@@ -46,17 +46,16 @@ group-sorting-priority-list:
 - Admin
 - Mod
 - Ayudante
-- VIP
 - VIP+
-- YouTuber
+- VIP
 - Famoso
+- YouTuber
 - Usuario
 staff-groups:
 - Owner
 - Admin
 - Mod
-- Helper
-- Builder
+- Ayudante
 Groups:
   Owner:
     tabprefix: "&4&lDUE\xc3\u2018O &8| &f"

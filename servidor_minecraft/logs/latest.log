@@ -1948,3 +1948,22 @@ java.lang.NullPointerException: null
 [22:15:30] [Server thread/INFO]: [0;31;1m[NametagEdit] As the error above suggests, you do NOT have any placeholder plugins installed. The placeholder API is merely an interface, it requires other plugins to function. This is NOT an issue with NametagEdit.[m
 [22:15:30] [Server thread/INFO]: [0;31;1m[NametagEdit] As the error above suggests, you do NOT have any placeholder plugins installed. The placeholder API is merely an interface, it requires other plugins to function. This is NOT an issue with NametagEdit.[m
 [22:15:30] [Server thread/INFO]: [0;31;1m[NametagEdit] As the error above suggests, you do NOT have any placeholder plugins installed. The placeholder API is merely an interface, it requires other plugins to function. This is NOT an issue with NametagEdit.[m
+[22:17:23] [Server thread/INFO]: joakoooe issued server command: /tab reload
+[22:17:40] [Server thread/INFO]: [0;37;1mUser groups set![m
+[22:17:40] [Server thread/INFO]: [0;31;1m[NametagEdit] As the error above suggests, you do NOT have any placeholder plugins installed. The placeholder API is merely an interface, it requires other plugins to function. This is NOT an issue with NametagEdit.[m
+[22:17:40] [Server thread/INFO]: [0;31;1m[NametagEdit] As the error above suggests, you do NOT have any placeholder plugins installed. The placeholder API is merely an interface, it requires other plugins to function. This is NOT an issue with NametagEdit.[m
+[22:17:40] [Server thread/INFO]: [0;31;1m[NametagEdit] As the error above suggests, you do NOT have any placeholder plugins installed. The placeholder API is merely an interface, it requires other plugins to function. This is NOT an issue with NametagEdit.[m
+[22:18:04] [Server thread/INFO]: joakoooe issued server command: /pm
+[22:18:10] [Server thread/INFO]: joakoooe issued server command: /pm disable nametagedit
+[22:18:10] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.4.6
+[22:18:12] [Server thread/INFO]: [m[0;32;1m[21mVIP [0;30;1m| [0;37;1m[mjoakoooe[m [0;30;1m» [0;37;1mdas[m
+[22:18:17] [Server thread/INFO]: [0;37;1mUser groups set![m
+[22:18:20] [Server thread/INFO]: [m[0;32;1m[21mVIP[0;33;1m[21m+ [0;30;1m| [0;37;1m[mjoakoooe[m [0;30;1m» [0;37;1mdsa[m
+[22:18:27] [Server thread/INFO]: [0;37;1mUser groups set![m
+[22:18:33] [Server thread/INFO]: [0;37;1mUser groups set![m
+[22:18:35] [Server thread/INFO]: [m[0;31;22m[21mDUEÑO [0;30;1m| [0;37;1m[mjoakoooe[m [0;30;1m» [0;37;1md[m
+[22:18:53] [Server thread/INFO]: [0;37;1mUser groups set![m
+[22:19:02] [Server thread/INFO]: [m[0;31;1m[21mADMIN [0;30;1m| [0;37;1m[mjoakoooe[m [0;30;1m» [0;37;1mds[m
+[22:19:09] [Server thread/INFO]: [0;37;1mUser groups set![m
+[22:19:13] [Server thread/INFO]: [m[0;36;1m[21mMOD [0;30;1m| [0;37;1m[mjoakoooe[m [0;30;1m» [0;37;1mdas[m
+[22:22:13] [Craft Scheduler Thread - 40/WARN]: [BukkitLib] Failed to submit metrics
