@@ -2016,3 +2016,4 @@ java.io.IOException: Schematic file is missing a 'Blocks' tag
 [00:30:03] [Server thread/INFO]: joakoooe issued server command: /schem
 [00:40:20] [Server thread/INFO]: joakoooe lost connection: Disconnected
 [00:41:45] [Craft Scheduler Thread - 54/WARN]: [BukkitLib] Failed to submit metrics
+[00:56:45] [Craft Scheduler Thread - 72/WARN]: [BukkitLib] Failed to submit metrics
