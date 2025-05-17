@@ -331,7 +331,7 @@ schema-version: 1
 users:
   3481b8f4-b481-3062-82f2-9426e40ada01:
     group:
-    - Mod
+    - Owner
     options:
       name: joakoooe
     permissions:
@@ -341,3 +341,15 @@ users:
     - skywars.settings.colour.rojo
     options:
       name: test
+  578082d2-5a24-3bf3-b00d-4d87e639405f:
+    group:
+    - Admin
+  fb5ebdc2-f759-3f27-9262-3c349875fd9c:
+    group:
+    - Admin
+  nockmkch:
+    group:
+    - Mod
+  555dd59e-e43a-36be-a507-dc0df1c3f270:
+    group:
+    - Admin

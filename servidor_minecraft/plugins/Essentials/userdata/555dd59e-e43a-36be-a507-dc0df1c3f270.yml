@@ -1,0 +1,20 @@
+lastAccountName: Nocmkch
+timestamps:
+  login: 1747454935118
+  logout: 1747454930790
+  lastteleport: 1747454967141
+ipAddress: 127.255.50.59
+lastlocation:
+  world: Lobby-Auth
+  x: 62.18880397284788
+  y: 4.0
+  z: -65.14514416053717
+  yaw: -198.67548
+  pitch: 9.050029
+logoutlocation:
+  world: Lobby-Auth
+  x: 60.5
+  y: 5.0
+  z: -52.5
+  yaw: 180.64186
+  pitch: 4.624413
