@@ -94,3 +94,6 @@ cajas:
 hojas:
   time: 'off'
   weather: 'off'
+test_schematic:
+  time: 'off'
+  weather: 'off'

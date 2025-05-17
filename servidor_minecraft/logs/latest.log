@@ -1887,3 +1887,130 @@ java.lang.NullPointerException: null
 [00:12:34] [Server thread/INFO]: joakoooe issued server command: /selector
 [00:16:53] [Server thread/INFO]: joakoooe issued server command: /vidrios
 [00:17:40] [Server thread/INFO]: joakoooe issued server command: /gmc
+[00:26:30] [Server thread/INFO]: joakoooe issued server command: /wedit
+[00:26:45] [Craft Scheduler Thread - 39/WARN]: [BukkitLib] Failed to submit metrics
+[00:27:50] [Server thread/INFO]: joakoooe issued server command: //schem
+[00:27:58] [Server thread/INFO]: joakoooe issued server command: /mv create test schematic
+[00:28:04] [Server thread/INFO]: joakoooe issued server command: /mv create test schematic normal
+[00:28:08] [Server thread/INFO]: joakoooe issued server command: /mv create test_schematic normal
+[00:28:08] [Server thread/INFO]: joakoooe: Starting creation of world 'test_schematic'...[m
+[00:28:08] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'test_schematic' - Env: NORMAL - Type: NORMAL
+[00:28:08] [Server thread/INFO]: -------- World Settings For [test_schematic] --------
+[00:28:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:28:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:28:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:28:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:28:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:28:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:28:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:28:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:28:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:28:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:28:08] [Server thread/INFO]: Anti X-Ray: true
+[00:28:08] [Server thread/INFO]: 	Engine Mode: 1
+[00:28:08] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[00:28:08] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[00:28:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:28:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[00:28:08] [Server thread/INFO]: Random Lighting Updates: false
+[00:28:08] [Server thread/INFO]: Structure Info Saving: true
+[00:28:08] [Server thread/INFO]: Sending up to 10 chunks per packet
+[00:28:08] [Server thread/INFO]: Max Entity Collisions: 8
+[00:28:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[00:28:08] [Server thread/INFO]: Mob Spawn Range: 4
+[00:28:08] [Server thread/INFO]: Max TNT Explosions: 100
+[00:28:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:28:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:28:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:28:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:28:08] [Server thread/INFO]: View Distance: 10
+[00:28:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:28:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:28:08] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[00:28:08] [Server thread/INFO]: Clear tick list: false
+[00:28:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:28:08] [Server thread/INFO]: -------- World Settings For [test_schematic] --------
+[00:28:08] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[00:28:08] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[00:28:08] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[00:28:08] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[00:28:08] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[00:28:08] [Server thread/INFO]: Fix TNT cannons: false
+[00:28:08] [Server thread/INFO]: Water over lava flow speed: 5
+[00:28:08] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[00:28:08] [Server thread/INFO]: Keep spawn chunk loaded: true
+[00:28:08] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[00:28:08] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[00:28:08] [Server thread/INFO]: World async lighting: false
+[00:28:08] [Server thread/INFO]: Preparing start region for level 20 (Seed: -8163547437998628649)
+[00:28:08] [Server thread/INFO]: [WorldGuard] Default configuration file written: /workspaces/mcs/servidor_minecraft/plugins/WorldGuard/worlds/test_schematic/config.yml
+[00:28:08] [Server thread/INFO]: [WorldGuard] Default configuration file written: /workspaces/mcs/servidor_minecraft/plugins/WorldGuard/worlds/test_schematic/blacklist.txt
+[00:28:08] [Server thread/INFO]: [WorldGuard] (test_schematic) TNT ignition is PERMITTED.
+[00:28:08] [Server thread/INFO]: [WorldGuard] (test_schematic) Lighters are PERMITTED.
+[00:28:08] [Server thread/INFO]: [WorldGuard] (test_schematic) Lava fire is blocked.
+[00:28:08] [Server thread/INFO]: [WorldGuard] (test_schematic) Fire spread is UNRESTRICTED.
+[00:28:08] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'test_schematic'
+[00:28:09] [Server thread/INFO]: Preparing spawn area for test_schematic, 8%
+[00:28:10] [Server thread/INFO]: Preparing spawn area for test_schematic, 12%
+[00:28:11] [Server thread/INFO]: Preparing spawn area for test_schematic, 24%
+[00:28:12] [Server thread/INFO]: Preparing spawn area for test_schematic, 32%
+[00:28:13] [Server thread/INFO]: Preparing spawn area for test_schematic, 40%
+[00:28:14] [Server thread/INFO]: Preparing spawn area for test_schematic, 48%
+[00:28:15] [Server thread/INFO]: Preparing spawn area for test_schematic, 61%
+[00:28:16] [Server thread/INFO]: Preparing spawn area for test_schematic, 73%
+[00:28:17] [Server thread/INFO]: Preparing spawn area for test_schematic, 89%
+[00:28:18] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[00:28:18] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+[00:28:18] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'test_schematic' is located at: test_schematic:0.00,76.00,0.00:0.00:0.00
+[00:28:18] [Server thread/INFO]: joakoooe: Complete![m
+[00:28:20] [Server thread/INFO]: joakoooe issued server command: /mv tp test_schematic
+[00:28:22] [Server thread/INFO]: joakoooe issued server command: /gmc
+[00:28:25] [Server thread/INFO]: joakoooe issued server command: /schem
+[00:28:29] [Server thread/INFO]: joakoooe issued server command: /schem load
+[00:28:44] [Server thread/INFO]: joakoooe issued server command: /schem load japplobby1
+[00:28:47] [Server thread/INFO]: joakoooe issued server command: /schem load japplobby1.schm
+[00:28:54] [Server thread/INFO]: joakoooe issued server command: /schem load japplobby1.schem
+[00:29:40] [Server thread/INFO]: joakoooe issued server command: //worldedit
+[00:29:43] [Server thread/INFO]: joakoooe issued server command: /worldedit reload
+[00:29:43] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[00:29:46] [Server thread/INFO]: joakoooe issued server command: /Schem list
+[00:29:49] [Server thread/INFO]: joakoooe issued server command: /schem load japplobby1.schem
+[00:29:49] [Server thread/WARN]: [WorldEdit] Failed to load a saved clipboard
+java.io.IOException: Schematic file is missing a 'Blocks' tag
+	at com.sk89q.worldedit.extent.clipboard.io.SchematicReader.read(SchematicReader.java:84) ~[WorldEdit.jar:?]
+	at com.sk89q.worldedit.command.SchematicCommands.load(SchematicCommands.java:116) [WorldEdit.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
+	at com.sk89q.worldedit.util.command.parametric.ParametricCallable.call(ParametricCallable.java:243) [WorldEdit.jar:?]
+	at com.sk89q.worldedit.util.command.SimpleDispatcher.call(SimpleDispatcher.java:125) [WorldEdit.jar:?]
+	at com.sk89q.worldedit.util.command.SimpleDispatcher.call(SimpleDispatcher.java:125) [WorldEdit.jar:?]
+	at com.sk89q.worldedit.extension.platform.CommandManager.handleCommand(CommandManager.java:225) [WorldEdit.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
+	at com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58) [WorldEdit.jar:?]
+	at com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73) [WorldEdit.jar:?]
+	at com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:187) [WorldEdit.jar:?]
+	at com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:173) [WorldEdit.jar:?]
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:242) [WorldEdit.jar:?]
+	at com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:54) [WorldEdit.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:146) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:666) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1189) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1001) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_452]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_452]
+	at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616) [patched_1.8.8.jar:git-PaperSpigot-445]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[00:29:52] [Server thread/INFO]: joakoooe issued server command: /schem load japplobby1
+[00:30:03] [Server thread/INFO]: joakoooe issued server command: /schem
