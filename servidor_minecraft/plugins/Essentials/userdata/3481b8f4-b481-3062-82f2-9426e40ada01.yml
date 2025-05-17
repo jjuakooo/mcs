@@ -1,7 +1,7 @@
 timestamps:
   lastteleport: 1747433709334
   login: 1747440736439
-  logout: 1747416877629
+  logout: 1747442418109
 lastlocation:
   world: Lobby-Auth
   x: 60.75037719095329
@@ -12,9 +12,9 @@ lastlocation:
 lastAccountName: joakoooe
 ipAddress: 127.205.147.108
 logoutlocation:
-  world: Lobby-Sw
-  x: -690.2990280187284
-  y: 32.61652515657838
-  z: 479.5479982226833
-  yaw: 8.369446
-  pitch: 24.792849
+  world: test_schematic
+  x: 135.2459356685356
+  y: 96.87222077081131
+  z: 350.2979796225774
+  yaw: 11.09787
+  pitch: 24.899927

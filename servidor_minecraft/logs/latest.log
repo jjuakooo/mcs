@@ -2014,3 +2014,4 @@ java.io.IOException: Schematic file is missing a 'Blocks' tag
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
 [00:29:52] [Server thread/INFO]: joakoooe issued server command: /schem load japplobby1
 [00:30:03] [Server thread/INFO]: joakoooe issued server command: /schem
+[00:40:20] [Server thread/INFO]: joakoooe lost connection: Disconnected
